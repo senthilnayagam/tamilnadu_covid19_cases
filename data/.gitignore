@@ -1,0 +1,4 @@
+*.txt
+**/*.txt
+.DS_Store
+**/txt/*
