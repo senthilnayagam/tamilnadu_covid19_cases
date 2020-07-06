@@ -90,7 +90,7 @@ list of districts in Tamil Nadu
 this is output os shell command based processing
 
 diseases
-
+`
    4  Bilateral Broncho Pneumonia 
    4  Bilateral Viral Pneumonitis 
    4  COVID -19 
@@ -226,4 +226,4 @@ diseases
  264  COVID Positive 
  292  Cardiopulmonary Arrest 
  424  Respiratory Failure 
-
+`
