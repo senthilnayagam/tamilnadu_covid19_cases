@@ -12,13 +12,12 @@ puts "Table created"
 
 puts "Creating data......"
 
-Dir["./cases/*"].each_with_index do |file, index|
-
-	f = File.open(file)
-	f_data = f.read
+(1..1571).each do |i|
+	
+	f = File.open("./cases/case_"+i.to_s.rjust(4, "0")+".txt")
 	connection.exec "INSERT INTO Cases (Id, Summary) VALUES( 
-						#{index + 1}, 
-						'#{f_data}'
+						#{i}, 
+						'#{f.read}'
 					)"
 end
 
