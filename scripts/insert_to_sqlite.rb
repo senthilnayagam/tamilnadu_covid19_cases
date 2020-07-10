@@ -9,19 +9,20 @@ db = SQLite3::Database.open "tamilnadu_case.db"
 db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
-db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber TEXT, Age TEXT, Gender TEXT, District TEXT, DeathCause TEXT)"
+db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER, Gender TEXT, District TEXT, DeathCause TEXT)"
 puts "Table created"
 
 puts "Creating data......"
 
-(1..1636).each do |i|  # 1.. 1636
-	
-	f = File.open("../cases/case_"+i.to_s.rjust(4, "0")+".txt")
+(1..3000).each do |i|  # 1.. 1636 # put a big number so as not to increase the count daily
+	filename = "../cases/case_"+i.to_s.rjust(4, "0")+".txt"
+
+	if File.file?(filename)
+	f = File.open(filename)
 
 
-  res = parse_data(f.read)
+  	res = parse_data(f.read)
 
-	
 	db.execute "INSERT INTO Cases (Id, RawContent,
 		CaseNumber, Age, Gender, District, DeathCause) 
 		VALUES( 
@@ -32,7 +33,8 @@ puts "Creating data......"
 						'#{res['gender']}',
 						'#{res['district']}',
 						'#{res['death_cause']}'
-					)"			
+					)"	
+	end
 end
 
 id = db.last_insert_row_id
