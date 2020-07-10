@@ -1,0 +1,87 @@
+
+
+
+Table
+Cases
+columns
+RawContent TEXT
+CaseNumber INTEGER, 
+Age INTEGER, 
+Gender TEXT, 
+District TEXT, 
+DeathCause TEXT)"
+
+
+# death per district
+
+SELECT 
+    district,
+    count(district)
+FROM 
+    Cases
+GROUP BY 
+    district
+ORDER BY 
+    count(district) DESC;
+
+
+
+# age mortality, top count
+
+SELECT 
+    age,
+    count(age)
+FROM 
+    Cases
+GROUP BY 
+    age
+ORDER BY 
+    count(age) DESC, age DESC;
+
+
+# death by age
+
+SELECT 
+    age,
+    count(age)
+FROM 
+    Cases
+GROUP BY 
+    age
+ORDER BY 
+     age DESC; 
+
+
+
+# top causes
+
+
+
+ruby death_causes.rb | grep 'death_cause' | cut -d':' -f2 |tr "\n" " " | tr "[:punct:]" " "|  tr -cd '[:alpha:] ' | tr -s ' ' | tr '[:upper:]' '[:lower:]' | tr " " "\n" | grep '...'| sort | uniq -c | sort -n
+
+top causes
+ 110 shtn
+ 129 severe
+ 130 cardio
+ 143 pulmonary
+ 143 septic
+ 160 shock
+ 163 viral
+ 166 disease
+ 211 bronchopneumonia
+ 232 distress
+ 252 ards
+ 279 syndrome
+ 279 systemic
+ 309 hypertension
+ 377 cardiopulmonary
+ 458 acute
+ 460 type
+ 520 mellitus
+ 525 diabetes
+ 565 arrest
+ 604 positive
+ 752 failure
+1018 pneumonia
+1027 respiratory
+1475 covid
