@@ -1,11 +1,11 @@
-Death Case No.1953:
-A 56 years old male from Chennai with Systemic Hypertension / Type 2
-Diabetes Mellitus admitted on 04.07.2020 in Kilpauk Medical College &
-Hospital Chennai. COVID test sample taken on 03.07.2020. Date of result
-on 04.07.2020. Outcome of result is Positive. The patient died on
-10.07.2020 at 07.20 PM due to Acute Respiratory Distress Syndrome /
-Viral Pneumonia / Systemic Hypertension / Type 2 Diabetes Mellitus /
-COVID Status Positive.
+Death Case No.1949:
+A 73 years old male from Chennai with Type 2 Diabetes Mellitus /
+Systemic Hypertension / Old CVA admitted on 24.06.2020 at 04.30 PM in
+RGGGH, Chennai. COVID test sample taken on 24.06.2020. Date of result
+on 25.06.2020. Outcome of result is Positive. The patient died on
+10.07.2020 at 02.00 PM due to Respiratory Failure       / COVID-19
+Pneumonia / Type 2 Diabetes Mellitus / Systemic Hypertension / Old
+CVA / COVID Positive.
 
 
 

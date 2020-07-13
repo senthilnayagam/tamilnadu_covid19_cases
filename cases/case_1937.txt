@@ -1,10 +1,11 @@
-Death Case No.1941:
-A 69 years old male from Trichy admitted on 09.07.2020 in KAPV
-Government Medical College, MGMGH Trichy. COVID test sample taken on
-07.07.2020. Date of result on 09.07.2020. Outcome of result is Positive. The
-patient died on 10.07.2020 at 04.30 PM due to COVID-19 Pneumonia /
-Respiratory Failure / Type 2 Diabetes Mellitus / Systemic
-Hypertension / Coronary Artery Disease / COVID Positive.
+Death Case No.1937:
+A 60 years old male from Virudhunagar with Systemic Hypertension
+admitted on 09.07.2020 at 05.40 PM in Government Rajaji Hospital,
+Madurai. COVID test sample taken on 09.07.2020. Date of result on
+10.07.2020. Outcome of result is Positive. The patient died on 09.07.2020 at
+10.00 PM due to Acute Respiratory Distress Syndrome / Systemic
+Hypertension / COVID Positive Pneumonia.
+
 
 
 

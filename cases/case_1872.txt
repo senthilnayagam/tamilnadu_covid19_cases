@@ -1,10 +1,9 @@
-Death Case No.1874:
-A 65 years old male from Trichy with Type 2 Diabetes Mellitus admitted
-on 06.07.2020 in KAPV Government Medical College, MGMGH, Trichy.
-COVID test sample taken on 06.07.2020. Date of result on 08.07.2020.
-Outcome of result is Positive. The patient died on 07.07.2020 at 12.10 AM
-due to COVID 19 Pneumonia / Respiratory Failure / Type 2 Diabetes
-Mellitus / Urosepsis / Septic Shock.
+Death Case No.1872:
+A 57 years old female from Kancheepuram with Hypertension admitted on
+08.07.2020 in Chengalpattu Medical College & Hospital. COVID test sample
+taken on 09.07.2020. Date of result on 09.07.2020. Outcome of result is
+Positive. The patient died on 10.07.2020 at 01.55 AM due to Respiratory
+Failure / Acute Viral Pneumonia / Systemic Hypertension.
 
 
 

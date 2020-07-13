@@ -1,11 +1,10 @@
-Death Case No.1948:
-A 70 years old male from Chennai with Type 2 Diabetes Mellitus /
-Systemic Hypertension / Chronic Hyponatremia admitted on 03.07.2020
-at 02.12 PM in RGGGH, Chennai. COVID test sample taken on 01.07.2020.
-Date of result on 03.07.2020. Outcome of result is Positive. The patient died
-on 10.07.2020 at 11.15 PM due to Respiratory Failure / COVID-19
-Pneumonia / Type 2 Diabetes Mellitus / Systemic Hypertension /
-Chronic Hyponatremia / COVID Positive.
+Death Case No.1944:
+A 69 years old female from Kancheepuram with Systemic Hypertension /
+BA admitted on 06.07.2020 at 03.20 AM in RGGGH, Chennai. COVID test
+sample taken on 07.07.2020. Date of result on 09.07.2020. Outcome of
+result is Positive. The patient died on 11.07.2020 at 06.30 AM due to Acute
+Respiratory Distress Syndrome / Respiratory Failure / COVID-19
+Pneumonia / Systemic Hypertension / BA / COVID Positive.
 
 
 

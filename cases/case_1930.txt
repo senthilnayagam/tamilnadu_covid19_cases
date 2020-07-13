@@ -1,13 +1,9 @@
-Death Case No.1934:
-A 33 years old male from Erode with Type 2 Diabetes Mellitus /
-Bronchial Asthma / Systemic Hypertension / Obesity admitted on
-06.07.2020 in Government Erode Medical College & Hospital, Perundurai.
-COVID test sample taken on 03.07.2020. Date of result on 05.07.2020.
-Outcome of result is Positive. The patient died on 08.07.2020 at 06.20 PM
-due to Respiratory Failure / Type 2 Diabetes Mellitus / Bronchial
-Asthma / Systemic Hypertension / Obesity / Viral Pneumonia (COVID
-Positive).
-
+Death Case No.1930:
+A 55 years old male from Kancheepuram admitted on 08.07.2020 at 09.00
+PM in Chengalpattu Medical College & Hospital. COVID test sample taken
+on 08.07.2020. Date of result on 09.07.2020. Outcome of result is Positive.
+The patient died on 10.07.2020 at 11.00 AM due to Viral Pneumonia /
+Respiratory Failure / COVID-19 Positive.
 
 
 

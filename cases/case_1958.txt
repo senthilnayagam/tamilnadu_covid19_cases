@@ -1,10 +1,12 @@
-Death Case No.1962:
-A 44 years old female from Chennai with Psychiatric Illness admitted on
-05.07.2020 at 06.11 PM in Rajiv Gandhi Govt. General Hospital, Chennai.
-COVID test sample taken on 03.07.2020 at a private lab. Date of result on
-05.07.2020. Outcome of result is Positive. The patient died on 11.07.2020 at
-02.45 AM due to Respiratory Failure / COVID Pneumonia / Psychiatric
-Illnesss.
+Death Case No.1958:
+A 78 years old male from Thiruvannamalai with Alzheimer’s Disease /
+Schizophrenia / Coronary Artery Disease admitted on 09.07.2020 at
+08.12 PM in Tiruvannamalai Medical College & Hospital, Tiruvannamalai.
+COVID test sample taken on 10.07.2020. Date of result on 11.07.2020.
+Outcome of result is Positive. The patient died on 10.07.2020 at 10.30 PM
+due to Viral Pneumonia / Respiratory failure / COVID-19 Positive /
+Alzheimer’s Disease / Schizophrenia / Coronary Artery Disease.
+
 
 
 

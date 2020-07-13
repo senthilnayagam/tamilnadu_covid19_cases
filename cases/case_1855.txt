@@ -1,9 +1,9 @@
-Death Case No.1857:
-A 24 years old male from Chennai admitted on 09.07.2020 in Government
-Stanley Hospital, Chennai. COVID test sample taken on 09.07.2020. Date of
-result on 10.07.2020. Outcome of result is Positive. The patient died on
-09.07.2020 at 11.00 AM due to Cardiogenic Shock / Complete Heart
-Block / Bronchopneumonia / Pancytopenia / COVID 19 Positive.
+Death Case No.1855:
+A 55 years old male from Trichy admitted on 07.07.2020 in KAPV
+Government Medical College, MGMGH, Trichy. COVID test sample taken on
+08.07.2020. Date of result on 09.07.2020. Outcome of result is Positive. The
+patient died on 08.07.2020 at 11.30 AM due to COVID 19 Pneumonia /
+Respiratory Failure.
 
 
 

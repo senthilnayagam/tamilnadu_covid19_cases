@@ -1,9 +1,11 @@
-Death Case No.1956:
-A 52 years old male from Thoothukudi with Coronary Artery Disease
-admitted on 04.07.2020 at 01.05 PM in Tirunelveli Medical College &
-Hospital, Tirunelveli. COVID test on 04.07.2020. Outcome of result is
-Positive. The patient died on 04.07.2020 at 01.45 PM due to Respiratory
-Failure / COVID Pneumonia / Acute Respiratory Distress Syndrome.
+Death Case No.1952:
+A 69 years old female from Chennai with Type 2 Diabetes Mellitus /
+Systemic Hypertension / Coronary Artery Disease admitted on
+09.07.2020 at 05.05 PM in RGGGH, Chennai. COVID test sample taken on
+09.07.2020. Date of result on 10.07.2020. Outcome of result is Positive. The
+patient died on 10.07.2020 at 03.00 AM due to Respiratory Failure /
+COVID-19 Pneumonia / Type 2 Diabetes Mellitus / Systemic
+Hypertension / Coronary Artery Disease / COVID Positive.
 
 
 

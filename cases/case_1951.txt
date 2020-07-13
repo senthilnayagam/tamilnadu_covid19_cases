@@ -1,11 +1,12 @@
-Death Case No.1955:
-A 63 years old male from Tirunelveli with Coronary Artery Disease /
-Diabetes Mellitus admitted on 29.06.2020 at 04.05 PM in Tirunelveli
-Medical College & Hospital, Tirunelveli.      COVID test on 29.06.2020.
-Outcome of result is Positive. The patient died on 10.07.2020 at 07.00 AM
-due to Acute Respiratory Distress Syndrome / COVID Positive /
-Diabetes Mellitus / Coronary Artery Disease.
-
+Death Case No.1951:
+A 47 years old male from Chennai with Type 2 Diabetes Mellitus /
+Systemic Hypertension / Chronic Kidney Disease / ADPKD admitted on
+05.07.2020 at 11.41 AM in RGGGH, Chennai. COVID test sample taken on
+19.06.2020 at KMC. Date of result on 20.06.2020. Outcome of result is
+Positive. The patient died on 10.07.2020 at 11.00 AM due to Respiratory
+Failure / COVID-19 Pneumonia / Type 2 Diabetes Mellitus / Systemic
+Hypertension / Old PTB / ADPKD / Chronic Kidney Disease / COVID
+Positive.
 
 
 

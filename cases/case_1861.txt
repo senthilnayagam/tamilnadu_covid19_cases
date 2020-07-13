@@ -1,9 +1,9 @@
-Death Case No.1863:
-A 41 years old male from Karur with Hypertension admitted on 08.07.2020
-in Karur Medical College      & Hospital. COVID test sample taken on
-08.07.2020. Date of result on 08.07.2020. Outcome of result is Positive. The
-patient died on 10.07.2020 at 06.45 AM due to Acute Respiratory Distress
-Syndrome / Respiratory Failure / COVID Pneumonia / Hypertension.
+Death Case No.1861:
+A 56 years old male from Theni with Type 2 Diabetes Mellitus admitted on
+04.07.2020 at 08.30 PM in Theni Medical College & Hospital. COVID test
+sample taken on 5.7.2020. Date of result on 06.07.2020. Outcome of result
+is Positive. The patient died on 09.07.2020 at 04.50 PM due to COVID 19
+Pneumonia / Acute Respiratory Failure / Type 2 Diabetes Mellitus.
 
 
 

@@ -1,11 +1,10 @@
-Death Case No.1958:
-A 78 years old male from Thiruvannamalai with Alzheimer’s Disease /
-Schizophrenia / Coronary Artery Disease admitted on 09.07.2020 at
-08.12 PM in Tiruvannamalai Medical College & Hospital, Tiruvannamalai.
-COVID test sample taken on 10.07.2020. Date of result on 11.07.2020.
-Outcome of result is Positive. The patient died on 10.07.2020 at 10.30 PM
-due to Viral Pneumonia / Respiratory failure / COVID-19 Positive /
-Alzheimer’s Disease / Schizophrenia / Coronary Artery Disease.
+Death Case No.1954:
+A 75 years old male from Virudhunagar with Systemic Hypertension /
+Diabetes Mellitus admitted on 03.07.2020 at 10.00 PM in Tirunelveli
+Medical College & Hospital, Tirunelveli. COVID test on 03.07.2020. Outcome
+of result is Positive. The patient died on 04.07.2020 at 03.55 PM due to
+Acute Respiratory Distress Syndrome / Systemic Hypertension /
+Diabetes Mellitus / COVID Pneumonia.
 
 
 
