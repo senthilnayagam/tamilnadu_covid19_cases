@@ -9,7 +9,7 @@ db = SQLite3::Database.open "tamilnadu_case.db"
 db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
-db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER, Gender TEXT, District TEXT, DeathCause TEXT)"
+db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, District TEXT, DeathCause TEXT)"
 puts "Table created"
 
 puts "Creating data......"
@@ -22,6 +22,10 @@ puts "Creating data......"
 
 
   	res = parse_data(f.read)
+  	if res['age'] == ''
+  	   res['gender'] = ''
+
+  	end
 
 	db.execute "INSERT INTO Cases (Id, RawContent,
 		CaseNumber, Age, Gender, District, DeathCause) 
