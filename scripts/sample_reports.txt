@@ -1,5 +1,21 @@
 
 
+# how to query the sqlite to generate csv
+
+
+insert all cases into sqlite
+
+ruby insert_to_sqlite.rb
+
+if you use same queries everyday, put each query in seperate sql file and run it 
+sqlite3 -header -csv tamilnadu_case.db < query.sql > data.csv
+
+
+if you want to do adhock queries
+
+
+sqlite3 -header -csv tamilnadu_case.db "select * from Cases;" > ../cases/cases.csv
+
 
 Table
 Cases
@@ -12,44 +28,34 @@ District TEXT,
 DeathCause TEXT)"
 
 
+
+
+# run this command follow it with sql from subsequent lines
+sqlite3 -header -csv  tamilnadu_case.db 
+
 # death per district
 
-SELECT 
-    district,
-    count(district)
-FROM 
-    Cases
-GROUP BY 
-    district
-ORDER BY 
-    count(district) DESC;
-
+"SELECT district, count(district) FROM Cases GROUP BY district ORDER BY count(district) DESC;"
 
 
 # age mortality, top count
 
-SELECT 
-    age,
-    count(age)
-FROM 
-    Cases
-GROUP BY 
-    age
-ORDER BY 
-    count(age) DESC, age DESC;
+"SELECT age,count(age) FROM Cases GROUP BY age ORDER BY count(age) DESC, age DESC;"
 
 
 # death by age
 
-SELECT 
-    age,
-    count(age)
-FROM 
-    Cases
-GROUP BY 
-    age
-ORDER BY 
-     age DESC; 
+"SELECT age, count(age) FROM Cases GROUP BY age ORDER BY age DESC; "
+
+
+# age ='' # for dummy cases added, also useful for identifying parse errors if any
+"SELECT * FROM Cases where Age=''  "
+
+
+
+"SELECT District, COUNT(District)  FROM Cases WHERE District !='' GROUP BY District ORDER BY COUNT(District) DESC, District ASC"
+
+"SELECT District, COUNT(District)  FROM Cases WHERE District !='' GROUP BY District ORDER BY COUNT(District) DESC, District ASC LIMIT 10"
 
 
 
