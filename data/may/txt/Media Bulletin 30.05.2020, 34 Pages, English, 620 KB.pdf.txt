@@ -1,0 +1,1463 @@
+                         State Control Room,
+         Directorate of Public Health and Preventive Medicine
+  Health and Family Welfare Department, Government of Tamil Nadu
+
+                        Media Bulletin 30.05.2020
+
+         Daily report on Public Health measures taken for COVID-19
+
+      Till now 4,79,155 samples have been taken and sent for testing.
+COVID-19 testing is done in 43 Government and 29 Private labs all over
+Tamil Nadu. One private lab (Karpaga Vinayaga Institute Of Medical
+Sciences, Chengalpattu) has been approved for COVID-19 testing today.
+21,184 persons have tested positive till date. 4,57,405 samples were tested
+negative. Testing of 566 samples are under process. 21,922 samples are
+repeat samples. 12,000 COVID-19 positive patients have been discharged
+following treatment till today. Hence, 9,021 active cases are under treatment
+as on today.
+
+
+      The general public are advised to adhere to health advisories and
+travel advisories issued by the state Government. Public should follow the
+cough etiquette by covering the face using handkerchief / towel while
+sneezing/ coughing. Do frequent hand washing with soap and water.
+S.NO                    COVID-19 STATISTICS                               DETAILS
+
+  1.    Number of active cases on date (Including isolation)                        9,021*
+
+        Number of persons tested positive today in Tamil Nadu                         856
+
+        Passengers returned from other countries by
+                                                                   Kuwait - 3
+        International airport tested positive today
+                                                                   Chandigarh – 1
+        Passengers returned from other states by domestic          Delhi – 2
+        airport tested positive today                              Gujarat – 1
+                                                                   Karnataka - 1
+                                                                   Andhra Pradesh – 1
+  2.                                                               Assam – 1
+                                                                   Delhi – 1
+                                                                   Gujarat – 6
+        Passengers returned from other states by Road and          Jharkhand – 2
+        Train tested positive today                                Karnataka – 2
+                                                                   Madhya Pradesh – 1
+                                                                   Maharashtra – 46
+                                                                   Uttar Pradesh – 2
+                                                                   West Bengal - 12
+                                  Total                                               938
+
+  3.    Total Number of persons tested positive till date                          21,184
+
+                                                                                   12,605/
+  4.    Total Number of samples tested today/ till date
+                                                                                  4,79,155
+                                                                                  12,039 /
+  5.    Total Number of persons tested today/ till date
+                                                                                  4,57,233
+
+  6.    No of Male / Female / Transgender tested positive today             599/ 338 / 1
+
+        No of Male / Female / Transgender tested positive till
+  7.                                                                   13,336 /7,842 / 6
+        date
+        Number of functioning COVID -19 testing facilities in                72 (43 Govt+
+  8.
+        Tamil Nadu                                                            29 Private)
+        Number of COVID-19 positive patients discharged
+  9.                                                                        687 / 12,000
+        following treatment today/ till date
+        Number of COVID-19 suspected individuals in isolation
+  10.                                                                               6,513
+        ward admission
+
+  11. Total number of deaths today/ till date                                     6 / 160
+
+
+
+   *Note: 2 deaths cross notified to other states. 1 patient died after turning
+   negative for infection.
+938 new cases reported today bringing the total to 21,184.
+                                                             Primary /
+Case ID~       Age         Sex         Actual District
+                                                             Contact *
+  20692         39        Male          Chengalpattu          Contact
+  20693         47        Male          Chengalpattu          Contact
+  20694         33        Male          Chengalpattu          Contact
+  20695         53       Female         Chengalpattu          Contact
+  20696         57        Male          Chengalpattu          Contact
+  20697         35        Male          Kanchipuram           Contact
+  20698         24        Male          Chengalpattu          Contact
+  20699         68        Male          Chengalpattu          Contact
+  20700         33        Male          Chengalpattu          Contact
+  20701         61        Male          Chengalpattu          Contact
+  20702         55       Female         Chengalpattu          Contact
+  20703         38        Male          Chengalpattu          Contact
+  20704         38       Female         Chengalpattu          Contact
+  20705         30       Female         Chengalpattu          Contact
+  20706         26       Female         Chengalpattu          Contact
+  20707         43       Female         Chengalpattu          Contact
+  20708         38       Female         Chengalpattu          Contact
+  20709         12        Male          Chengalpattu          Contact
+  20710         11        Male          Chengalpattu          Contact
+  20711         55       Female         Chengalpattu          Contact
+  20712          8        Male          Chengalpattu          Contact
+  20713         16        Male          Chengalpattu          Contact
+  20714         37        Male          Chengalpattu          Contact
+  20715         40       Female         Chengalpattu          Contact
+  20716         50        Male          Chengalpattu          Contact
+  20717         29        Male          Chengalpattu          Contact
+  20718         66        Male          Chengalpattu          Contact
+  20719         34        Male          Chengalpattu          Contact
+  20720         49       Female         Chengalpattu          Contact
+  20721         32       Female         Chengalpattu          Contact
+  20722         44        Male          Chengalpattu          Contact
+  20723         24       Female         Chengalpattu          Contact
+  20724         55       Female         Chengalpattu          Contact
+  20725         65        Male          Chengalpattu          Contact
+  20726         40       Female         Chengalpattu          Contact
+  20727         26        Male          Chengalpattu          Contact
+  20728         36        Male            Chennai             Contact
+  20729         55       Female         Chengalpattu          Contact
+  20730         59        Male          Chengalpattu          Contact
+  20731         52       Female         Chengalpattu          Contact
+  20732         29       Female         Chengalpattu          Contact
+20733   35   Female   Chengalpattu   Contact
+20734   32   Female   Chengalpattu   Contact
+20735    7    Male    Chengalpattu   Contact
+20736   39    Male    Chengalpattu   Contact
+20737   68    Male    Chengalpattu   Contact
+20738   37   Female   Chengalpattu   Contact
+20739   72    Male    Chengalpattu   Contact
+20740   42   Female   Chengalpattu   Contact
+20741   66   Female   Chengalpattu   Contact
+20742   26    Male    Chengalpattu   Contact
+20743   32   Female     Chennai      Contact
+20744   30    Male    Chengalpattu   Contact
+20745   29   Female   Chengalpattu   Contact
+20746   23    Male    Chengalpattu   Contact
+20747   25    Male    Chengalpattu   Contact
+20748   22    Male    Chengalpattu   Contact
+20749   36   Female   Chengalpattu   Contact
+20750   45    Male    Chengalpattu   Contact
+20751   33   Female   Chengalpattu   Contact
+20752   80   Female   Chengalpattu   Contact
+20753   63    Male    Chengalpattu   Contact
+20754   37    Male    Chengalpattu   Contact
+20755   37    Male    Chengalpattu   Contact
+20756   31   Female   Chengalpattu   Contact
+20757   40   Female   Chengalpattu   Contact
+20758   60    Male    Chengalpattu   Contact
+20759   44   Female   Chengalpattu   Contact
+20760   47    Male    Chengalpattu   Contact
+20761   37    Male    Chengalpattu   Contact
+20762   29   Female   Chengalpattu   Contact
+20763   30   Female   Chengalpattu   Contact
+20764   65   Female   Chengalpattu   Contact
+20765   34    Male    Chengalpattu   Contact
+20766   64   Female   Chengalpattu   Contact
+20767   60   Female   Chengalpattu   Contact
+20768   82    Male    Chengalpattu   Contact
+20769   57   Female   Chengalpattu   Contact
+20770   29    Male    Chengalpattu   Contact
+20771   40   Female     Chennai      Contact
+20772   45    Male      Chennai      Contact
+20773   20   Female     Chennai      Contact
+20774   58   Female     Chennai      Contact
+20775   65    Male      Chennai      Contact
+20776   48    Male      Chennai     Contact
+20777   35   Female     Chennai     Contact
+20778   24    Male      Chennai     Contact
+20779   18   Female     Chennai     Contact
+20780   50    Male      Chennai     Contact
+20781   24    Male      Chennai     Contact
+20782   49   Female     Chennai     Contact
+20783   58    Male      Chennai     Contact
+20784   47   Female     Chennai     Contact
+20785   30   Female     Chennai     Contact
+20786   50   Female     Chennai     Contact
+20787   60   Female     Chennai     Contact
+20788   28   Female    Cuddalore    Contact
+20789   19   Female     chennai     Contact
+20790   26   Female     Chennai     Contact
+20791   34    Male    Kanchipuram   Contact
+20792   48    Male      Chennai     Contact
+20793   42   Female     Chennai     Contact
+20794   25    Male      Chennai     Contact
+20795   23   Female     Chennai     Contact
+20796   15    Male      Chennai     Contact
+20797   15    Male      Chennai     Contact
+20798   45    Male      Chennai     Contact
+20799   60    Male      Chennai     Contact
+20800   25    Male      Chennai     Contact
+20801    2    Male      Chennai     Contact
+20802   24   Female     Chennai     Contact
+20803   35    Male      Chennai     Contact
+20804   56    Male      Chennai     Contact
+20805   39    Male      Chennai     Contact
+20806   42    Male      Chennai     Contact
+20807   35    Male      Chennai     Contact
+20808   22   Female     Chennai     Contact
+20809   32    Male      Chennai     Contact
+20810   24   Female     Chennai     Contact
+20811   82   Female     Chennai     Contact
+20812   60   Female     Chennai     Contact
+20813   65    Male      Chennai     Contact
+20814   22    Male      Chennai     Contact
+20815   50    Male      Chennai     Contact
+20816   47    Male      Chennai     Contact
+20817   53    Male      Chennai     Contact
+20818   49   Female     Chennai     Contact
+20819   70    Male    Chennai   Contact
+20820   27    Male    Chennai   Contact
+20821   48   Female   Chennai   Contact
+20822   50    Male    Chennai   Contact
+20823   47    Male    Chennai   Contact
+20824   18   Female   Chennai   Contact
+20825   39    Male    Chennai   Contact
+20826   21    Male    Chennai   Contact
+20827   39    Male    Chennai   Contact
+20828   55   Female   Chennai   Contact
+20829   42   Female   Chennai   Contact
+20830   29   Female   Chennai   Contact
+20831   32   Female   Chennai   Contact
+20832   28   Female   Chennai   Contact
+20833   66    Male    Chennai   Contact
+20834   30    Male    Chennai   Contact
+20835   12    Male    Chennai   Contact
+20836   56   Female   Chennai   Contact
+20837   38   Female   Chennai   Contact
+20838   29   Female   Chennai   Contact
+20839   21    Male    Chennai   Contact
+20840   44    Male    Chennai   Contact
+20841   35    Male    Chennai   Contact
+20842   65   Female   Chennai   Contact
+20843   24    Male    Chennai   Contact
+20844   40    Male    Chennai   Contact
+20845   34    Male    Chennai   Contact
+20846   30    Male    Chennai   Contact
+20847   11   Female   Chennai   Contact
+20848   59    Male    Chennai   Contact
+20849   29    Male    Chennai   Contact
+20850   30    Male    Chennai   Contact
+20851   48   Female   Chennai   Contact
+20852   38   Female   Chennai   Contact
+20853   24    Male    Chennai   Contact
+20854   38   Female   Chennai   Contact
+20855   54   Female   Chennai   Contact
+20856   49    Male    Chennai   Contact
+20857   42   Female   Chennai   Contact
+20858   55   Female   Chennai   Contact
+20859   15   Female   Chennai   Contact
+20860   17   Female   Chennai   Contact
+20861   69    Male    Chennai   Contact
+20862   33    Male     Chennai     Contact
+20863   24   Female    Chennai     Contact
+20864   28    Male     Chennai     Contact
+20865   16    Male     Chennai     Contact
+20866   65    Male     Chennai     Contact
+20867   26   Female    Chennai     Contact
+20868   22    Male     Chennai     Contact
+20869   60    Male     Chennai     Contact
+20870   54    Male     Chennai     Contact
+20871   38    Male     Chennai     Contact
+20872   44    Male     Chennai     Contact
+20873   43    Male     Chennai     Contact
+20874   53    Male     Chennai     Contact
+20875   45    Male     Chennai     Contact
+20876   47    Male     Chennai     Contact
+20877   34    Male     Chennai     Contact
+20878   34   Female    Chennai     Contact
+20879   48    Male     Chennai     Contact
+20880   38    Male     Chennai     Contact
+20881   17    Male     Chennai     Contact
+20882   39   Female    Chennai     Contact
+20883   21    Male     Chennai     Contact
+20884   22   Female    Chennai     Contact
+20885   47    Male     Chennai     Contact
+20886   55   Female    Chennai     Contact
+20887   55    Male     Chennai     Contact
+20888   27    Male     Chennai     Contact
+20889   22   Female    Chennai     Contact
+20890   25   Female    Chennai     Contact
+20891   59    Male     Chennai     Contact
+20892   43    Male    Tiruvallur   Contact
+20893   51   Female    Chennai     Contact
+20894   27    Male     Chennai     Contact
+20895   38    Male     Chennai     Contact
+20896   42    Male    Tiruvallur   Contact
+20897    3    Male     Chennai     Contact
+20898   41   Female    Chennai     Contact
+20899   21    Male     Chennai     Contact
+20900   51    Male     Chennai     Contact
+20901   68   Female    Chennai     Contact
+20902   73    Male     Chennai     Contact
+20903   37   Female    Chennai     Contact
+20904   75   Female    Chennai     Contact
+20905   84    Male    Chennai   Contact
+20906   61    Male    Chennai   Contact
+20907   25    Male    Chennai   Contact
+20908   43    Male    Chennai   Contact
+20909   56   Female   Chennai   Contact
+20910   28    Male    Chennai   Contact
+20911   65    Male    Chennai   Contact
+20912    7    Male    Chennai   Contact
+20913   69    Male    Chennai   Contact
+20914   54   Female   Chennai   Contact
+20915   21   Female   Chennai   Contact
+20916   58    Male    Chennai   Contact
+20917   63    Male    Chennai   Contact
+20918   37    Male    Chennai   Contact
+20919   38   Female   Chennai   Contact
+20920   34    Male    Chennai   Contact
+20921   33    Male    Chennai   Contact
+20922   28    Male    Chennai   Contact
+20923   38    Male    Chennai   Contact
+20924   24   Female   Chennai   Contact
+20925   41   Female   Chennai   Contact
+20926   41    Male    Chennai   Contact
+20927   29    Male    Chennai   Contact
+20928   47   Female   Chennai   Contact
+20929   55    Male    Chennai   Contact
+20930   14   Female   Chennai   Contact
+20931   22    Male    Chennai   Contact
+20932   29    Male    Chennai   Contact
+20933   62    Male    Chennai   Contact
+20934   65    Male    Chennai   Contact
+20935   63    Male    Chennai   Contact
+20936   58    Male    Chennai   Contact
+20937   17    Male    Chennai   Contact
+20938   35    Male    Chennai   Contact
+20939   52    Male    Chennai   Contact
+20940   49   Female   Chennai   Contact
+20941   30   Female   Chennai   Contact
+20942   25   Female   Chennai   Contact
+20943   57    Male    Chennai   Contact
+20944   25   Female   Chennai   Contact
+20945   63   Female   Chennai   Contact
+20946   60   Female   Chennai   Contact
+20947   22   Female   Chennai   Contact
+20948   57    Male    Chennai   Contact
+20949   47   Female   Chennai   Contact
+20950   47   Female   Chennai   Contact
+20951   25    Male    Chennai   Contact
+20952   45    Male    Chennai   Contact
+20953   56    Male    Chennai   Contact
+20954   32   Female   Chennai   Contact
+20955   25   Female   Chennai   Contact
+20956   29    Male    Chennai   Contact
+20957   32    Male    Chennai   Contact
+20958   38    Male    Chennai   Contact
+20959   30    Male    Chennai   Contact
+20960   32    Male    Chennai   Contact
+20961   29    Male    Chennai   Contact
+20962   38    Male    Chennai   Contact
+20963   36    Male    Chennai   Contact
+20964   40    Male    Chennai   Contact
+20965   58    Male    Chennai   Contact
+20966   50    Male    Chennai   Contact
+20967   32    Male    Chennai   Contact
+20968   38    Male    Chennai   Contact
+20969   50    Male    Chennai   Contact
+20970   34    Male    Chennai   Contact
+20971   37    Male    Chennai   Contact
+20972   34    Male    Chennai   Contact
+20973   34    Male    Chennai   Contact
+20974   36    Male    Chennai   Contact
+20975   62    Male    Chennai   Contact
+20976   23    Male    Chennai   Contact
+20977   42    Male    Chennai   Contact
+20978   36    Male    Chennai   Contact
+20979   34    Male    Chennai   Contact
+20980   33    Male    Chennai   Contact
+20981   24    Male    Chennai   Contact
+20982   31    Male    Chennai   Contact
+20983   29    Male    Chennai   Contact
+20984   47    Male    Chennai   Contact
+20985   38    Male    Chennai   Contact
+20986   38    Male    Chennai   Contact
+20987   36    Male    Chennai   Contact
+20988   42    Male    Chennai   Contact
+20989   61    Male    Chennai   Contact
+20990   63    Male    Chennai   Contact
+20991   42    Male    Thirupathur    Contact
+20992   54   Female     Chennai      Contact
+20993   57   Female     Chennai      Contact
+21001   28    Male      Chennai      Contact
+21002   46    Male      Chennai      Contact
+21003   24    Male      Chennai      Contact
+21004   39    Male      Chennai      Contact
+21005   39    Male    Chengalpattu   Contact
+21006   26    Male    Chengalpattu   Contact
+21007   44    Male      Chennai      Contact
+21008   52    Male      Chennai      Contact
+21009   24    Male      Chennai      Contact
+21010   48    Male      Chennai      Contact
+21011   39    Male      Chennai      Contact
+21012   26    Male      Chennai      Contact
+21013   55    Male      Chennai      Contact
+21014   32    Male      Chennai      Contact
+21015   26    Male      Chennai      Contact
+21016   40    Male      Chennai      Contact
+21017   60    Male      Chennai      Contact
+21018   46    Male      Chennai      Contact
+21019   50    Male      Chennai      Contact
+21020   40    Male      Chennai      Contact
+21021   34   Female     Chennai      Contact
+21022   64    Male      Chennai      Contact
+21023   20   Female     Chennai      Contact
+21024   27   Female     Chennai      Contact
+21025   56    Male      Chennai      Contact
+21026   32    Male      Chennai      Contact
+21027   54    Male    Chengalpattu   Contact
+21028   79    Male      Chennai      Contact
+21029   58    Male      Chennai      Contact
+21030   41   Female     Chennai      Contact
+21031   82    Male      Chennai      Contact
+21032   19    Male      Chennai      Contact
+21033   15    Male      Chennai      Contact
+21034   40    Male      Chennai      Contact
+21035   73    Male      Chennai      Contact
+21036   34    Male      Chennai      Contact
+21037   27   Female     Chennai      Contact
+21038   40   Female     Chennai      Contact
+21039   58   Female     Chennai      Contact
+21040   37    Male      Chennai      Contact
+21041   26   Female    Chennai     Contact
+21042   25   Female    Chennai     Contact
+21043   18   Female    Chennai     Contact
+21044   30    Male     Chennai     Contact
+21045   26    Male     Chennai     Contact
+21046   22   Female    Chennai     Contact
+21047   42   Female    Chennai     Contact
+21048   20   Female    Chennai     Contact
+21049   32    Male     Chennai     Contact
+21050   62   Female    Chennai     Contact
+21051   32    Male     Chennai     Contact
+21052   30   Female    Chennai     Contact
+21053   56   Female    Chennai     Contact
+21054   55   Female    Chennai     Contact
+21055   37   Female    Chennai     Contact
+21056   47    Male     Chennai     Contact
+21057   19   Female    Chennai     Contact
+21058   47    Male     Chennai     Contact
+21059   40   Female    Chennai     Contact
+21060   47    Male     Chennai     Contact
+21061   28    Male     Chennai     Contact
+21062   26    Male     Chennai     Contact
+21063   32    Male     Chennai     Contact
+21064   17    Male     Chennai     Contact
+21065   12   Female    Chennai     Contact
+21066   21   Female    Chennai     Contact
+21067   27   Female    Chennai     Contact
+21068   53    Male     Chennai     Contact
+21069   65    Male     Chennai     Contact
+21070   69    Male     Chennai     Contact
+21071   59   Female    Chennai     Contact
+21072   52    Male    Tiruvallur   Contact
+21073   57   Female    Chennai     Contact
+21074   33    Male     Chennai     Contact
+21075   13    Male     Chennai     Contact
+21076   15    Male     Chennai     Contact
+21077   16    Male     Chennai     Contact
+21078   50   Female    Chennai     Contact
+21079   20   Female    Chennai     Contact
+21080   37    Male     Chennai     Contact
+21081   65   Female    Chennai     Contact
+21082   54    Male     Chennai     Contact
+21083   35    Male     Chennai     Contact
+21084   24   Female     Chennai      Contact
+21085   33   Female     Chennai      Contact
+21086   16    Male      Chennai      Contact
+21087    8   Female     Chennai      Contact
+21088   43   Female     Chennai      Contact
+21089   18   Female     Chennai      Contact
+21090   47   Female     Chennai      Contact
+21091   34    Male      Chennai      Contact
+21092   25    Male      Chennai      Contact
+21093   48   Female     Chennai      Contact
+21094   49    Male      Chennai      Contact
+21095   69   Female     Chennai      Contact
+21096   57    Male      Chennai      Contact
+21097    7   Female     Chennai      Contact
+21098   30   Female     Chennai      Contact
+21099   26    Male      Chennai      Contact
+21100   23    Male      Chennai      Contact
+21101    2   Female     Chennai      Contact
+21102   24    Male      Chennai      Contact
+21103   32    Male      Chennai      Contact
+21104   35   Female     Chennai      Contact
+21105   28    Male      Chennai      Contact
+21106    8   Female   Nagapattinam   Contact
+21107   22    Male      Chennai      Contact
+21108   56    Male      Chennai      Contact
+21109   34    Male      Chennai      Contact
+21110   29    Male      Chennai      Contact
+21111   43    Male      Chennai      Contact
+21112   28   Female     Chennai      Contact
+21113   24    Male      Chennai      Contact
+21114   27    Male      Chennai      Contact
+21115   53    Male      Chennai      Contact
+21116   29    Male      Chennai      Contact
+21117   24    Male      Chennai      Contact
+21118   29    Male      Chennai      Contact
+21119   39   Female     Chennai      Contact
+21120   48    Male      Chennai      Contact
+21121   52   Female     Chennai      Contact
+21122   46    Male      Chennai      Contact
+21123   54    Male      Chennai      Contact
+21124   50    Male      Chennai      Contact
+21125    1    Male      Chennai      Contact
+21126   19   Female     Chennai      Contact
+21127   28   Female     Chennai      Contact
+21128   28   Female     Chennai      Contact
+21129   60   Female     Chennai      Contact
+21130   35    Male      Chennai      Contact
+21131   18   Female     Chennai      Contact
+21132   60   Female     Chennai      Contact
+21133   45   Female     Chennai      Contact
+21134   45    Male      Chennai      Contact
+21135   47    Male      Chennai      Contact
+21136   45    Male      Chennai      Contact
+21137   30   Female     Chennai      Contact
+21138   47    Male      Chennai      Contact
+21139   43    Male      Chennai      Contact
+21140   46    Male      Chennai      Contact
+21141   52   Female     Chennai      Contact
+21142   24    Male      Chennai      Contact
+21143   29   Female     Chennai      Contact
+21144   34    Male      Chennai      Contact
+21145   33    Male      Chennai      Contact
+21146   33   Female     Chennai      Contact
+21147    6   Female     Chennai      Contact
+21149   57    Male      Chennai      Contact
+21150   57    Male      Chennai      Contact
+21151   73    Male      Chennai      Contact
+21153   20    Male      Chennai      Contact
+21154   52    Male      Chennai      Contact
+21155   51    Male     Tiruvallur    Contact
+21156   16    Male     Tiruvallur    Contact
+21157   21    Male     Tiruvallur    Contact
+21158   29    Male      Chennai      Contact
+21159   25   Female   Chengalpattu   Contact
+21160   27    Male      Chennai      Contact
+21161   26    Male      Chennai      Contact
+21162   37    Male      Chennai      Contact
+21163    1   Female     Chennai      Contact
+21165   23    Male      Chennai      Contact
+21166   53   Female     Chennai      Contact
+21167   30    Male      Chennai      Contact
+21168   29    Male      Chennai      Contact
+21169   58    Male      Chennai      Contact
+21170   48    Male      Chennai      Contact
+21172   29    Male      Chennai      Contact
+21173   58    Male      Chennai      Contact
+21174   68   Female     Chennai      Contact
+21175   64    Male      Chennai      Contact
+21177   15   Female     Chennai      Contact
+21178   19    Male      Chennai      Contact
+21179   45   Female     Chennai      Contact
+21180   18    Male      Chennai      Contact
+21181   16    Male      Chennai      Contact
+21182   55    Male      Chennai      Contact
+21183   40    Male      Chennai      Contact
+21184   40    Male      Chennai      Contact
+21185   27    Male      Chennai      Contact
+21186   47    Male      Chennai      Contact
+21187   49    Male      Chennai      Contact
+21188   28    Male      Chennai      Contact
+21189   44   Female     Chennai      Contact
+21190   48    Male      Chennai      Contact
+21191   44    Male      Chennai      Contact
+21192   53   Female     Chennai      Contact
+21193   32   Female     Chennai      Contact
+21194   29   Female     Chennai      Contact
+21195   27    Male    Chengalpattu   Contact
+21196   42    Male      Chennai      Contact
+21197   26   Female     Chennai      Contact
+21198   83    Male      Chennai      Contact
+21199   42    Male      Chennai      Contact
+21200   46    Male      Chennai      Contact
+21201   84    Male      Chennai      Contact
+21202   80    Male      Chennai      Contact
+21203   37    Male      Chennai      Contact
+21204   48    Male      Chennai      Contact
+21205   24    Male      Chennai      Contact
+21206   40   Female     Chennai      Contact
+21207   59   Female     Chennai      Contact
+21208   25    Male      Chennai      Contact
+21209   63    Male      Chennai      Contact
+21210   63   Female     Chennai      Contact
+21211   54   Female     Chennai      Contact
+21212   55    Male      Chennai      Contact
+21213   21    Male      Chennai      Contact
+21214   54    Male      Chennai      Contact
+21215   34    Male      Chennai      Contact
+21216   45    Male    Chengalpattu   Contact
+21218   40    Male      Chennai      Contact
+21219   71    Male      Chennai     Contact
+21220   81    Male      Chennai     Contact
+21221   52    Male      Chennai     Contact
+21222   74    Male      Chennai     Contact
+21223   61    Male      Chennai     Contact
+21224   67   Female     Chennai     Contact
+21225   54    Male      Chennai     Contact
+21226   54    Male      Chennai     Contact
+21227   73    Male      Chennai     Contact
+21228   31    Male      Chennai     Contact
+21229   34    Male      Chennai     Contact
+21230   48   Female     Chennai     Contact
+21231   74   Female     Chennai     Contact
+21232   85    Male      Chennai     Contact
+21233   73   Female     Chennai     Contact
+21234   90   Female     Chennai     Contact
+21235   25    Male      Chennai     Contact
+21236   79   Female     Chennai     Contact
+21237   22    Male      Chennai     Contact
+21238   28   Female     Chennai     Contact
+21239   26    Male      Chennai     Contact
+21241   50    Male      Chennai     Contact
+21242   17    Male      Chennai     Contact
+21243   48    Male      Chennai     Contact
+21244   29    Male      Chennai     Contact
+21245   39   Female     Chennai     Contact
+21246   56   Female   Kanchipuram   Contact
+21247   65    Male    Kanchipuram   Contact
+21248   12    Male      Chennai     Contact
+21249   30   Female     Chennai     Contact
+21250   53   Female     Chennai     Contact
+21251   37    Male      Chennai     Contact
+21252   29   Female     Chennai     Contact
+21253   57    Male    Kanchipuram   Contact
+21254   73    Male      Chennai     Contact
+21255   64   Female     Chennai     Contact
+21256   68    Male      Chennai     Contact
+21257   55    Male      Chennai     Contact
+21258   38    Male      Chennai     Contact
+21259   67    Male      Chennai     Contact
+21260   31    Male      Chennai     Contact
+21261   50    Male      Chennai     Contact
+21262   21   Female     Chennai     Contact
+21263   26   Female       Chennai       Contact
+21264   25   Female       Chennai       Contact
+21265    4   Female       Chennai       Contact
+21266   30    Male        Chennai       Contact
+21267   48    Male        Chennai       Contact
+21268   27   Female       Chennai       Contact
+21269   48    Male        Chennai       Contact
+21270   52   Female       Chennai       Contact
+21271   29    Male       Tiruvallur     Contact
+
+21272   23    Male    Thiruvannamalai   Contact
+
+21273   27    Male       Chennai        Contact
+21274   52    Male       Chennai        Contact
+21275   28   Female      Chennai        Contact
+21276   70    Male       Chennai        Contact
+21277   39    Male       Chennai        Contact
+21278    9    Male       Chennai        Contact
+21279   70   Female      Chennai        Contact
+21280   41    Male       Chennai        Contact
+21281   70   Female      Chennai        Contact
+21282   24    Male       Chennai        Contact
+21283   35    Male       Chennai        Contact
+21284   50    Male       Chennai        Contact
+21285   34    Male       Chennai        Contact
+21286   62   Female     Tiruvallur      Contact
+21287   36   Female      Chennai        Contact
+21288   39   Female      Chennai        Contact
+21289   25    Male       Chennai        Contact
+21290   36    Male       Chennai        Contact
+21291   30    Male       Chennai        Contact
+21292   73    Male      Tiruvallur      Contact
+21293   24   Female      Chennai        Contact
+21294   29    Male       Chennai        Contact
+21295   44    Male       Chennai        Contact
+21296   28    Male       Chennai        Contact
+21297   34    Male       Chennai        Contact
+21299   39    Male     Kanchipuram      Contact
+21300   51   Female      Chennai        Contact
+21301   41    Male       Chennai        Contact
+21302   75   Female      Chennai        Contact
+21303   51   Female      Chennai        Contact
+21304   60    Male       Chennai        Contact
+21305   33    Male       Chennai        Contact
+21306   60   Female      Chennai        Contact
+21307   49    Male      Chennai      Contact
+21308   34    Male      Chennai      Contact
+21309   29    Male      Chennai      Contact
+21310   54   Female     Chennai      Contact
+21311   25   Female     Chennai      Contact
+21312   25   Female     Chennai      Contact
+21313   31   Female     Chennai      Contact
+21314   58    Male      Chennai      Contact
+21315   43    Male      Chennai      Contact
+21316   25    Male      Chennai      Contact
+21317   39    Male     Tiruvallur    Contact
+21318   32   Female     Chennai      Contact
+21319   76   Female     Chennai      Contact
+21320   22   Female     Chennai      Contact
+21321   47    Male      Chennai      Contact
+21322   34    Male      Chennai      Contact
+21323   64    Male      Chennai      Contact
+21324   55    Male      Chennai      Contact
+21325   20    Male      Chennai      Contact
+21326   17    Male      Chennai      Contact
+21327   22    Male      Chennai      Contact
+21328   45    Male      Chennai      Contact
+21329   26    Male    Chengalpattu   Contact
+21330   39    Male      Chennai      Contact
+21331   34    Male      Chennai      Contact
+21332   48   Female     Chennai      Contact
+21333   30   Female     Chennai      Contact
+21334   58    Male      Chennai      Contact
+21335   27    Male      Chennai      Contact
+21336   64   Female     Chennai      Contact
+21337   50   Female     Chennai      Contact
+21338   68   Female     Chennai      Contact
+21339   39    Male      Chennai      Contact
+21340   34   Female     Chennai      Contact
+21341   46   Female     Chennai      Contact
+21342   48   Female     Chennai      Contact
+21343   90    Male      Chennai      Contact
+21344   36    Male      Chennai      Contact
+21345   47   Female     Chennai      Contact
+21346   22   Female     Chennai      Contact
+21347   35   Female     Chennai      Contact
+21348   19   Female     Chennai      Contact
+21349   32    Male      Chennai      Contact
+21350   23   Female   Kanchipuram   Contact
+21351   31    Male      Chennai     Contact
+21352   47    Male      Chennai     Contact
+21353   39    Male      Chennai     Contact
+21354   60   Female     Chennai     Contact
+21355   24    Male      Chennai     Contact
+21358   45    Male      Chennai     Contact
+21359   33    Male      Chennai     Contact
+21360   22    Male      Chennai     Contact
+21361   36    Male      Chennai     Contact
+21362   25    Male      Chennai     Contact
+21363   39    Male      Chennai     Contact
+21364   30   Female     Chennai     Contact
+21365   72    Male      Chennai     Contact
+21366   51    Male      Chennai     Contact
+21367   51    Male      Chennai     Contact
+21368   55    Male      Chennai     Contact
+21369   52   Female     Chennai     Contact
+21370   49    Male      Chennai     Contact
+21371   28    Male      Chennai     Contact
+21372   46    Male      Chennai     Contact
+21373   62    Male      Chennai     Contact
+21374   50    Male      Chennai     Contact
+21375   78    Male      Chennai     Contact
+21376   41   Female     Chennai     Contact
+21377   19   Female     Chennai     Contact
+21378   78   Female     Chennai     Contact
+21379   62   Female     Chennai     Contact
+21380   67    Male      Chennai     Contact
+21381   18   Female     Chennai     Contact
+21382   48    Male      Chennai     Contact
+21383   36    Male      Chennai     Contact
+21384   46   Female     Chennai     Contact
+21385   52   Female     Chennai     Contact
+21386   27    Male      Chennai     Contact
+21387   58    Male      Chennai     Contact
+21388   58    Male      Chennai     Contact
+21389   47    Male      Chennai     Contact
+21390   56    Male      Chennai     Contact
+21391   53    Male      Chennai     Contact
+21392   34   Female     Chennai     Contact
+21393   61    Male     Tiruvallur   Contact
+21394   37    Male      Chennai     Contact
+21395   70    Male       Chennai      Contact
+21396   11   Female      Chennai      Contact
+21397   49    Male       Chennai      Contact
+21398   29   Female      Chennai      Contact
+21399   44    Male       Chennai      Contact
+21400   35    Male       Chennai      Contact
+21401   70    Male       Chennai      Contact
+21402   47    Male       Chennai      Contact
+21403   34    Male       Chennai      Contact
+21404   30    Male       Chennai      Contact
+21405   24    Male       Chennai      Contact
+21406   47   Female      Chennai      Contact
+21407   55    Male       Chennai      Contact
+21408   55   Female      Chennai      Contact
+21409   36    Male       Chennai      Contact
+21410   29    Male       Chennai      Contact
+21411   75    Male       Chennai      Contact
+21412   40    Male       Chennai      Contact
+21413   47    Male       Chennai      Contact
+21414   47    Male       Chennai      Contact
+21415   62   Female      Chennai      Contact
+21416   28   Female     Cuddalore     Contact
+21417   48    Male      Cuddalore     Contact
+21418   34    Male      Cuddalore     Contact
+21419   43   Female   Nagapattinam    Contact
+21420   26   Female     Cuddalore     Contact
+21421   40   Female     Cuddalore     Contact
+21423   49   Others    Kallakurichi   Contact
+21424   45    Male    Chengalpattu    Contact
+21425   48   Female   Kanchipuram     Contact
+21426   34    Male    Kanchipuram     Contact
+21427   20   Female   Kanchipuram     Contact
+21429   28    Male      Tiruvallur    Contact
+21430   26   Female   Chengalpattu    Contact
+21431   40    Male    Chengalpattu    Contact
+21432   34    Male    Chengalpattu    Contact
+21433    5   Female      Chennai      Contact
+21434   48   Female   Kanchipuram     Contact
+21435   30   Female   Kanchipuram     Contact
+21436   46   Female   Kanchipuram     Contact
+21437   18   Female   Kanchipuram     Contact
+21438   23   Female   Kanchipuram     Contact
+21439   21   Female   Kanchipuram     Contact
+21440   21   Female     Kanchipuram    Contact
+21441   21   Female     Kanchipuram    Contact
+21442   21   Female     Kanchipuram    Contact
+21443   45   Female     Kanchipuram    Contact
+21444   30    Male      Chengalpattu   Contact
+21445   42    Male      Chengalpattu   Contact
+21446   60    Male      Kanchipuram    Contact
+21447   35    Male      Kanyakumari    Contact
+21448    4   Female     Kanyakumari    Contact
+21449   27   Female     Kanyakumari    Contact
+21450   23   Female     Kanyakumari    Contact
+21451   25    Male      Kanyakumari    Contact
+21452   26    Male      Kanyakumari    Contact
+21453   25   Female     Kanyakumari    Contact
+21454   33    Male      Kanyakumari    Contact
+21455   30    Male         KARUR       Contact
+21456   55   Female      Krishnagiri   Contact
+21457   77    Male        Madurai      Contact
+21458   33   Female       Madurai      Contact
+21459   63   Female       Madurai      Contact
+21460   43    Male        Madurai      Contact
+21461   50    Male        Madurai      Contact
+21462   25    Male        Madurai      Contact
+21463   24    Male        Madurai      Contact
+21464   70   Female       Madurai      Contact
+21465   58    Male        Madurai      Contact
+21466   44    Male        Madurai      Contact
+21467   39    Male        Madurai      Contact
+21468   29    Male        Madurai      Contact
+21469   44    Male        Madurai      Contact
+21470   10   Female       Madurai      Contact
+21471   40    Male        Madurai      Contact
+21472   18   Female       Madurai      Contact
+21473   50    Male        Madurai      Contact
+21474   38    Male        Madurai      Contact
+21475    3   Female       Madurai      Contact
+21484   50    Male      Nagapattinam   Contact
+21485   46    Male      Nagapattinam   Contact
+21486   27    Male      Nagapattinam   Contact
+21490   52    Male       Perambalur    Contact
+21492   24   Female   Ramanathapuram   Contact
+21493   29   Female   Ramanathapuram   Contact
+21494   18   Female   Ramanathapuram   Contact
+21495   18   Female   Ramanathapuram   Contact
+21496   51    Male    Ramanathapuram   Contact
+21497   21    Male    Ramanathapuram   Contact
+21498   53    Male    Ramanathapuram   Contact
+21499   37    Male    Ramanathapuram   Contact
+21500   26    Male    Ramanathapuram   Contact
+21501   44    Male    Ramanathapuram   Contact
+21502   24   Female   Ramanathapuram   Contact
+21503   12    Male    Ramanathapuram   Contact
+21506   59   Female   Ramanathapuram   Contact
+21516   19   Female       Salem        Contact
+21517    3   Female       Salem        Contact
+21518   39    Male        Salem        Contact
+21519   53    Male        Salem        Contact
+21520   22    Male        Salem        Contact
+21521   28    Male        Salem        Contact
+21522   38    Male        Salem        Contact
+21523   31    Male        Salem        Contact
+21524   27    Male        Salem        Contact
+21525   46    Male        Salem        Contact
+21526   36    Male        Salem        Contact
+21527   35    Male        Salem        Contact
+21528   31    Male        Salem        Contact
+21529   49    Male        Salem        Contact
+21530   24   Female       Salem        Contact
+21531   57   Female       Salem        Contact
+21532   26   Female       Salem        Contact
+21533   34    Male        Salem        Contact
+21534   79    Male        Salem        Contact
+21535   37   Female       Salem        Contact
+21536   42    Male        Salem        Contact
+21537   52    Male        Salem        Contact
+21538   33    Male        Salem        Contact
+21539   35    Male        Salem        Contact
+21540   35   Female       Salem        Contact
+21541    2   Female       Salem        Contact
+21542   29   Female       Salem        Contact
+21543   70   Female       Salem        Contact
+21544   56   Female       Salem        Contact
+21545   52   Female       Salem        Contact
+21546   37    Male        Salem        Contact
+21547   41    Male        Salem        Contact
+21548   36   Female       Salem        Contact
+21549   18   Female        Salem        Contact
+21550   52    Male         Salem        Contact
+21551   49   Female        Salem        Contact
+21552   66    Male         Salem        Contact
+21553   55   Female        Salem        Contact
+21554   25    Male         Salem        Contact
+21555   28    Male       Sivagangai     Contact
+21556   65   Female       Tenkasi       Contact
+21557   54    Male       Thanjavur      Contact
+21558   24    Male       Thanjavur      Contact
+21559   55   Female         Theni       Contact
+21560   46    Male       Tiruvallur     Contact
+21561   23    Male       Tiruvallur     Contact
+21562   52    Male        Chennai       Contact
+21563   30   Female       Chennai       Contact
+21564   36    Male       Tiruvallur     Contact
+21565   32    Male       Tiruvallur     Contact
+21566   23   Female      Tiruvallur     Contact
+21567   39    Male       Tiruvallur     Contact
+21568   54    Male       Tiruvallur     Contact
+21569   28   Female      Tiruvallur     Contact
+21570   30   Female      Tiruvallur     Contact
+21571   30    Male       Tiruvallur     Contact
+21572   18    Male        Chennai       Contact
+21573   50   Female       Chennai       Contact
+21574   48    Male        Chennai       Contact
+21575   36   Female       Chennai       Contact
+21576   67    Male        Chennai       Contact
+21577   28    Male       Tiruvallur     Contact
+21578   21   Female      Tiruvallur     Contact
+21579   45    Male        Chennai       Contact
+21580   74    Male       Tiruvallur     Contact
+21581   51   Female      Tiruvallur     Contact
+21582   70    Male       Tiruvallur     Contact
+21583   73    Male     Chengalpattu     Contact
+21584   26    Male       Tiruvallur     Contact
+21585   20    Male    Thiruvannamalai   Contact
+21586   20   Female   Thiruvannamalai   Contact
+21589   23   Female   Thiruvannamalai   Contact
+21590   35   Female   Thiruvannamalai   Contact
+21591   18   Female   Thiruvannamalai   Contact
+21592   61   Female   Thiruvannamalai   Contact
+21593   52   Female   Thiruvannamalai   Contact
+21594   63    Male    Thiruvannamalai   Contact
+21595   28    Male       Thiruvarur     Contact
+21596   26    Male       Thiruvarur     Contact
+21597   25    Male       Thiruvarur     Contact
+21598   24    Male       Thiruvarur     Contact
+21603   29    Male      Thoothukudi     Contact
+21604   49    Male      Thoothukudi     Contact
+21605   15    Male      Thoothukudi     Contact
+21606   23   Female     Thoothukudi     Contact
+21607   33    Male      Thoothukudi     Contact
+21608   21    Male      Thoothukudi     Contact
+21609   19    Male      Thoothukudi     Contact
+21610   13    Male      Thoothukudi     Contact
+21611   13    Male      Thoothukudi     Contact
+21612    9   Female     Thoothukudi     Contact
+21613   44    Male      Thoothukudi     Contact
+21614    5   Female     Thoothukudi     Contact
+21615   42    Male      Thoothukudi     Contact
+21616   21    Male      Thoothukudi     Contact
+21617   39    Male      Thoothukudi     Contact
+21618   40   Female     Thoothukudi     Contact
+21619   47    Male      Thoothukudi     Contact
+21620   23    Male     Chengalpattu     Contact
+21621   25    Male     Chengalpattu     Contact
+21622   22    Male     Chengalpattu     Contact
+21623   26    Male     Chengalpattu     Contact
+21624   56    Male       Tirunelveli    Contact
+21625   38   Female      Tirunelveli    Contact
+21626   33   Female      Tirunelveli    Contact
+21627   37    Male       Tirunelveli    Contact
+21628   30    Male       Tirunelveli    Contact
+21629   29   Female      Tirunelveli    Contact
+21630    2   Female      Tirunelveli    Contact
+21631   40    Male       Tirunelveli    Contact
+21632    8    Male       Tirunelveli    Contact
+21633   21   Female      Tirunelveli    Contact
+21634   23    Male       Tirunelveli    Contact
+21635   25    Male       Tirunelveli    Contact
+21636   36    Male        Chennai       Contact
+21637   48    Male        Chennai       Contact
+21638   25    Male        Chennai       Contact
+21639   36    Male        Chennai       Contact
+21640   31    Male        Chennai       Contact
+    21641        55        Male               Trichy        Contact
+    21642        75        Male               Trichy        Contact
+    21643        63        Male               Trichy        Contact
+    21644        25        Male               Trichy        Contact
+    21645        52        Male               Trichy        Contact
+    21646        27        Male               Trichy        Contact
+    21647        67        Male               Trichy        Contact
+    21650        57        Male           VILLUPURAM        Contact
+    21651        55       Female           Villupuram       Contact
+    21652        37       Female           Villupuram       Contact
+    21653        58       Female           Villupuram       Contact
+    21654        28       Female           Villupuram       Contact
+    21655         3       Female           Villupuram       Contact
+    21656         2       Female           Villupuram       Contact
+    21657        20        Male            Villupuram       Contact
+    21658        28        Male            Villupuram       Contact
+    21659        29        Male            Villupuram       Contact
+    21660        46       Female           Villupuram       Contact
+    21661        32        Male            Villupuram       Contact
+    21662        30        Male            Villupuram       Contact
+    21663        36        Male            Villupuram       Contact
+    21664        29       Female           Villupuram       Contact
+    21665         1       Female           Villupuram       Contact
+    21666        45        Male            Villupuram       Contact
+    21667        50        Male            Villupuram       Contact
+    21668        48       Female           Villupuram       Contact
+    21669        40        Male            Villupuram       Contact
+    21670        20        Male            Villupuram       Contact
+    21671        32       Female           Villupuram       Contact
+    21672        27       Female           Villupuram       Contact
+    21673        40       Female           Kallakurichi     Contact
+    21674         7        Male            Kallakurichi     Contact
+    21675        31        Male            Kallakurichi     Contact
+    21676        19        Male            Kallakurichi     Contact
+    21677        18        Male            Kallakurichi     Contact
+    21678        24       Female           Kallakurichi     Contact
+    21679        38        Male           Virudhunagar      Contact
+* Detailed investigation under progress
+~
+    The numbers are COVID case IDs and not serial numbers
+Death Details
+
+Death case No.155:
+A 54 years old male from Chennai admitted on 28.05.2020 in Government
+Medical College & Hospital, Omandurar Government Estate. COVID test sample
+taken on 28.05.2020, Date of result on 29.05.2020, outcome of result is
+Positive.  The patient died on 29.05.2020 at 12.15 PM due to COVID
+Pneumonia / Respiratory Failure / Acute Respiratory Distress Syndrome.
+
+
+Death case No.156:
+A 69 years old male from Chennai with Type II Diabetes Mellitus / Systemic
+Hypertension / Chronic Kidney Disease on Maintenance Haemodialysis /
+Hepatitis C Positive status admitted on 27.05.2020 at 03.48 PM in RGGGH .
+COVID test sample taken on 26.05.2020 in private lab, Date of result on
+26.05.2020, outcome of result is Positive. The patient died on 30.05.2020 at
+07.25 AM due to Cardiopulmonary Arrest / COVID-19 Positive Status /
+Sepsis / Septic Shock / Type II Diabetes mellitus / systemic Hypertension
+/ Chronic Kidney Disease on Maintenance Haemodialysis / Hepatitis C
+Positive status.
+
+
+Death Case No.157:
+A 58 years old male from Chennai with Type II Diabetes Mellitus / Systemic
+Hypertension admitted on 27.05.2020 at 05.25 PM in RGGGH Hospital.
+COVID test sample taken on 27.05.2020 in RGGGH, Date of result on
+29.05.2020, outcome of result is Positive. The patient died on 29.05.2020 at
+05.30 PM due to Cardiopulmonary Arrest / COVID-19 Pneumonia/ Acute
+Respiratory Distress Syndrome / Acute kidney injury /Type II Diabetes
+Mellitus / Systemic Hypertension.
+
+
+
+Death Case No.158:
+    A 37 years old female from Chennai admitted on 27.05.2020 at 11.46 AM
+in RGGGH. COVID test sample taken on 26.05.2020 in GCC Bharathiyar
+Women’s Arts College, Date of result on 28.05.2020. Outcome of result is
+Positive.   The patient died on 28.05.2020 at 05.45 PM due to
+Cardiopulmonary Arrest / Right Lower Lobe COVID Pneumonia / Hypoxic
+Respiratory Failure/ Acute Encephalopathy.
+Death Case No.159:
+A 70 years old male from Chennai with Systemic Hypertension/ Type II
+Diabetes Mellitus / Coronary Artery Disease admitted on 30.05.2020 at
+02.33 AM in RGGGH. COVID test sample taken on 29.05.2020 in Private lab,
+Date of result on 29.05.2020, outcome of result is Positive. The patient died on
+30.05.2020 at 03.55 AM due to Cardiopulmonary Arrest / COVID-19
+Pneumonia / Acute Coronary Syndrome / Myocardial Infarction/ severe
+left ventricular dysfunction/ Cardiogenic shock/ Systemic Hypertension/
+Type II Diabetes Mellitus / Coronary artery disease.
+
+
+
+Death Case No.160:
+
+A 72 years old female from Chennai with Adenocarcinoma right lung on
+chemotherapy admitted on 19.05.2020 at 06.38 PM in RGGGH. COVID test
+sample taken on 18.05.2020 in a private lab, Date of result on 18.05.2020,
+outcome of result is Positive. The patient died on 29.05.2020 at 08.15 AM due
+to Cardiopulmonary Arrest / COVID 19 Pneumonia / Acute Respiratory
+Distress Syndrome / Shock / Acute Encephalopathy / Adenocarcinoma
+right lung on chemotherapy.
+                   District wise abstract of COVID-19 positive cases*
+
+                                                               Other State and
+                                                                                   Total
+Sl.                              Till             On            International
+              District                                                           cases till
+No                           29.05.2020       30.05.2020          Returnees
+                                                                                   Date
+                                                               Positive Today
+1     Ariyalur                    365               0                              365
+2     Chengalpattu               1000              94                              1094
+3     Chennai                   13,364            616                             13,980
+4     Coimbatore                  146               0                              146
+5     Cuddalore                   448               5                              453
+6     Dharmapuri                    8               0                                8
+7     Dindigul                    138               0                              138
+8     Erode                        72               0                               72
+9     Kallakurichi                242               2                              244
+10 Kancheepuram                   368              22                              390
+11 Kanyakumari                     60               4                               64
+12 Karur                           80               1                               81
+13 Krishnagiri                     26               1                               27
+14 Madurai                        249              10                              259
+                                                              1-Andhra Pradesh
+15 Nagapattinam                    54               3                               59
+                                                              1-Uttar Pradesh
+16 Namakkal                        77               0                               77
+17 Nilgiris                        14               0                               14
+18 Perambalur                     139               1                              140
+19 Pudukottai                      22               0                               22
+20 Ramanathapuram                  65               1         12-West Bengal        78
+21 Ranipet                         97               0                               97
+                                                              1-Assam
+                                                              1-Delhi
+                                                              5-Gujarat
+                                                              2-Jharkand
+22 Salem                          107              23                              144
+                                                              2-Karnataka
+                                                              1-Madhya
+                                                              Pradesh
+                                                              2-Maharashtra
+          24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+               District Control Room – 1077. Toll Free Number – 1800 1205
+23 Sivagangai                      31               1                            32
+24 Tenkasi                         85               1                            86
+25 Thanjavur                       86               2                            88
+26 Theni                          108               1                            109
+27 Thirupathur                     32               1                            33
+28 Thiruvallur                    874              28                            902
+29 Thiruvannamalai                353               9                            362
+30 Thiruvarur                      42               4                            46
+                                                              1-Maharashtra
+31 Thoothukudi                    199              15                            216
+                                                              1-Uttar Pradesh
+32 Tirunelveli                    345               3         4-Maharashtra      352
+33 Tiruppur                       114               0                            114
+34 Trichy                          80               5                            85
+35 Vellore                         42               0                            42
+36 Villupuram                     343               2                            345
+37 Virudhunagar                   120               1                            121
+38 Airport Quarantine          41 + 45$             0         3-Kuwait           89#
+      Railway                                                 1-Gujarat
+39                                155                                           195@
+      Quarantine                                              39-Maharashtra
+                                                              1-Chandigarh
+      Airport quarantine                                      2-Delhi
+40                                 10               0                            15
+      (Domestic)                                              1-Gujarat
+                                                              1-Karnataka
+        Grand Total             20,246            856                  82       21,184
+
+  *Note: Figures are reconciled to the respective districts based on detailed
+  epidemiological investigation
+  #89 passengers returned from other countries reported positive till
+  today
+  $ 45 passengers returned from other countries initially tested
+
+  negative and turned positive during the exit screening after seven
+  days.
+  @
+    195 passengers returned from other states kept under railway quarantine
+  reported positive till today
+
+
+
+
+          24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+               District Control Room – 1077. Toll Free Number – 1800 1205
+                      Age and Sex distribution till date
+
+
+
+19000
+                                     18030
+18000                                  6
+
+17000
+
+16000
+
+15000
+                                     6513
+
+14000
+
+13000
+
+12000
+
+11000                                                                 Total
+
+10000
+                                                                      TG
+ 9000
+                                                                      Female
+ 8000
+                                                                      Male
+ 7000
+
+ 6000
+                                     11511
+ 5000
+
+ 4000
+
+ 3000
+                                                            1915
+ 2000
+               1239                                          729
+ 1000          600
+                                                            1186
+               639
+    0
+               0-12                  13-60                   60+
+
+
+
+
+    24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+         District Control Room – 1077. Toll Free Number – 1800 1205
+       Tamil Nadu COVID 19 – District Wise Case Details
+                                       Total
+Sl.                                                                      Active
+              District               Positive       Discharged                    Death
+No                                                                       Cases
+                                      Cases
+1     Ariyalur                          365             355                10       0
+2     Chengalpattu                    1,094             583               499     11#
+3     Chennai                         13,980           7,321             6,539    119*
+4     Coimbatore                        146             144                0       1*
+5     Cuddalore                         453             420                32       1
+6     Dharmapuri                         8               5                 3        0
+7     Dindigul                          138             120                17       1
+8     Erode                              72             69                 2        1
+9     Kallakurichi                      244             110               134       0
+10    Kancheepuram                      390             225               164       1
+11    Kanyakumari                        64             28                 35       1
+12    Karur                              81             76                 5        0
+13    Krishnagiri                        27             20                 7        0
+14    Madurai                           259             158                99       2
+15    Nagapattinam                       59             51                 8        0
+16    Namakkal                           77             77                 0        0
+17    Nilgiris                           14             14                 0        0
+18    Perambalur                        140             139                1        0
+19    Pudukottai                         22             13                 9        0
+20    Ramanathapuram                     78             37                 40       1
+21    Ranipet                            97             84                 13       0
+22    Salem                             144             45                 99       0
+23    Sivagangai                         32             28                 4        0
+24    Tenkasi                            86             61                 25       0
+25    Thanjavur                          88             76                 12       0
+26    Theni                             109             86                 21       2
+27    Thirupathur                        33             28                 5        0
+28    Thiruvallur                       902             564               327      11
+29    Thiruvannamalai                   362             108               252       2
+30    Thiruvarur                         46             33                 13       0
+31    Thoothukudi                       216             127                87       2
+32    Tirunelveli                       352             183               168       1
+33    Tiruppur                          114             114                0        0
+34    Trichy                             85             70                 15       0
+35    Vellore                            42             33                 8        1
+36    Villupuram                        345             315                28       2
+37    Virudhunagar                      121             58                 63       0
+38    Airport Quarantine                 89             14                 75       0
+      Airport Quarantine
+39                                      15               0                15       0
+      (Domestic)
+40    Railway Quarantine               195               8                187      0
+          Grand Total                 21,184          12,000             9,021    160
+*
+ 2 deaths cross notified to other states. #1 patient died after turning negative for
+infection.
+
+       24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+            District Control Room – 1077. Toll Free Number – 1800 1205
+     Airport Quarantine & Surveillance details from 09/05/2020 to 30/05/2020
+
+                                                                              Persons     Persons
+                                                                              positive    positive
+S.                                   Persons      Under
+          Airport           Total                             Negative         during      during
+No                                    tested     Process
+                                                                               Entry        Exit
+                                                                             Screening   Screening
+Chennai Airport
+     Air India Express
+ 1   09/05/2020              371        371          0           371            0
+     (Dubai)
+                                                                                            18
+     Air India Express
+ 2   10/05/2020              186        186          0           182            4
+     (Kuwait)
+     Air India Express
+ 3   11/05/2020              186        186          0           181            5           0
+     (Kuala Lumpur)
+     Air India Express
+ 4   12/05/2020              189        189          0           189            0           1
+     (Muscat)
+     Air India Express
+ 5   12/05/2020               16        16           0           16             0           0
+     (Crew)
+     Air India Express
+ 6   13/05/2020              143        143          0           143            0           6
+     (Chicago)
+     Air India Express
+ 7   14/05/2020              186        186          0           182            4           0
+     (Dhaka)
+     Air India Express
+ 8   14/05/2020              167        167          0           167            0           7
+     (Manila)
+     Air India Express
+ 9   15/05/2020              333        333          0           333            0           8
+     (London)
+     Fly Dubai FZ 8533
+10   18/05/2020              178        178          0           155            23          5
+     (Dubai)
+     FZ 8534                                                                                0
+11   23/05/2020              100        100          0           95             5
+     (Dubai)
+     Myanmar National
+     Airlines
+12                            83        83           0           83             0           0
+     23/05/2020
+     (Myanmar)
+     Air Mauritius
+13   Flight No. MK110         98        70           0           70             0           0
+     (Mauritius)
+           24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+                District Control Room – 1077. Toll Free Number – 1800 1205
+     23/05/2020
+
+     Asiana Airlines
+14   29/05/2020              296        296         296
+     (Korea)
+Chennai Airport Total       2,532     2,504         296        2,167         41   45
+
+Trichy Airport
+     Air India Express
+ 1                           184        184          0           184         0    -
+     09/05/2020
+Trichy Airport Total         184        184          0          184          0    -
+
+Other Airports                                                               3*
+
+Airport Total               2,716     2,688         296        2,351         44   45
+
+     *3 passengers from Kuwait returned through Trivandrum Airport to
+     Kanyakumari district tested positive today.
+
+
+
+
+           24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+                District Control Room – 1077. Toll Free Number – 1800 1205
+ Railway Station / Train Quarantine & Surveillance details from 14/05/2020
+                              to 30/05/2020
+                                              Persons      Under
+S.No      Railway Station           Total                                Negative   Positive
+                                               tested     Process
+       12434 – MGR Chennai
+       Central Rajdhani
+ 1                                   849        849           0            847         2
+       Express 14/05/2020
+       (NZM to MAS)
+       12434 – MGR Chennai
+       Central Rajdhani
+ 2                                   847        847           0            847         0
+       Express 16/05/2020
+       (NZM to MAS)
+       04074 – Special Train
+ 3     NDLS to TEN                  1,105      1,105          0           1,090       15
+       17/05/2020
+       01903 – Pune Tenkasi
+ 4     Sharmik Special Train        1,090      1,090          0           1,088        2
+       (19/05/2020)
+       04446 – Jalandhar to
+ 5     Thiruvananthapuram            250        250           0            241         9
+       (22/05/2020)
+       09561 – Ahmedabad to
+ 6     Tirunelveli                   610        610           0            594        16
+       (22/05/2020)
+       2434 – Rajdhani
+ 7     Superfast Special             386        386           0            386         0
+       (22/05/2020)
+       01738 – Special train
+ 8     Mumbai to Tirunelveli        1,577       952           0            819        133
+       (25/05/2020)
+       02434 – Rajdhani
+ 9     superfast Special             499        499          499            0          0
+       express (26/05/2020)
+       01981 Mumbai CST to
+10                                  1,396      1,396         808           583         5
+       TVLI (27/05/2020)
+
+       01980 Mumbai CSMT
+11                                  1,141      1,141       1,047           81         13
+       to TVLI (28/05/2020)
+
+       02434 Rajdhani
+12     Special (Ex NDLS –            482        482          482            -          -
+       MAS) on 29/05/2020
+
+                      Total        10,232      9,607       2,836          6,576       195
+
+
+
+
+       24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+            District Control Room – 1077. Toll Free Number – 1800 1205
+          Airport Surveillance upto 30-05-2020 (Domestic Flights)
+
+                               No. of Flights           No. of
+ Sl.No.          Airport                                                    No. Positive
+                                  arrived             Passengers
+
+      1       Chennai                         81                  4476                 0
+
+      2       Coimbatore                      25                  2127                 7
+
+      3       Madurai                         15                   856                 5
+
+      4       Trichy                           7                   397                 3
+
+             Total                          128                 7,856                 15
+
+
+
+
+Passengers entered Tamil Nadu by various routes till 29.05.2020
+
+                                                     No. of
+S.No.                Mode of travel                                      No. Positive
+                                                   Passengers
+           Airport - International Flights
+  1                                                           2,716                    89
+           (Since 09.05.2020)
+
+           Airport - Domestic flights
+  2                                                           7,856                    15
+           (Since 26.05.2020)
+
+  3        By train                                          10,222                   195
+           (Since 14.05.2020)
+
+  4        By road - Own vehicle                             47,811
+           (Since 19.05.2020)
+                                                                                    1,176
+  5        By road – Bus                                     24,877
+           (Since 19.05.2020)
+                      Total                                93,482                 1,475
+
+
+
+
+          24*7 Control Room: 044-29510400, 044-29510500, 9444340496,
+               District Control Room – 1077. Toll Free Number – 1800 1205
+

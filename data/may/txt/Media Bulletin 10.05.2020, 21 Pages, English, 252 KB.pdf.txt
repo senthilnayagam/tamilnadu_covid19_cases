@@ -1,0 +1,959 @@
+                         State Control Room,
+         Directorate of Public Health and Preventive Medicine
+  Health and Family Welfare Department, Government of Tamil Nadu
+
+                       Media Bulletin 10.05.2020
+
+         Daily report on Public Health measures taken for COVID-19
+
+     Till now 2,43,037 samples have been taken and sent for testing.
+COVID-19 testing is done in 37 Government and 16 Private labs all over
+Tamil Nadu. 7,204 persons have tested positive till date. 2,35,157 samples
+were tested negative. Testing of 676 samples are under process. 10,669
+samples are repeat samples. 1,959 COVID-19 positive patients have been
+discharged following treatment till today. Hence, 5,195 active cases are
+under treatment as on today.
+
+
+     The general public are advised to adhere to health advisories and
+travel advisories issued by the state Government. Public should follow the
+cough etiquette by covering the face using handkerchief / towel while
+sneezing/ coughing. Do frequent hand washing with soap and water.
+S.NO                     COVID-19 STATISTICS                              DETAILS
+
+ 1     Number of active cases on date                                             5,195*
+
+ 2     Total Number of persons tested positive today/ till date            669/ 7,204
+
+ 3     No of Male / Female / Transgender tested positive today            412/ 257/ 0
+
+ 4     No of Male / Female / Transgender tested positive till date    4,907/ 2,295/ 2
+
+                                                                               13,367/
+ 5     Total Number of samples tested today/ till date
+                                                                              2,43,037
+                                                                               12,962/
+ 6     Total Number of persons tested today/ till date
+                                                                              2,32,368
+       Number of functioning COVID -19 testing facilities in Tamil        53 (37 Govt+
+ 7
+       Nadu                                                                 16 Private)
+       Number of COVID-19 positive patients discharged following
+ 8                                                                          135/ 1,959
+       treatment today/ till date
+       Number of COVID-19 suspected individuals in isolation
+ 9                                                                                 4,305
+       ward admission
+
+ 10    Total number of deaths today/ till date                                    3 / 47
+
+
+          *Note: 2 deaths cross notified to other states. 1 patient died after turning
+          negative for infection.
+
+
+
+
+          24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+               District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                                    www.stopcorona.tn.gov.in
+669 new cases reported today bringing the total to 7,204.
+                                                                 Primary /
+ Case ID       Age           Sex             District
+                                                                 Contact *
+  6536          47          Male            Ariyalur              Contact
+  6537          51          Male            Ariyalur              Contact
+  6538          45          Male            Ariyalur              Contact
+  6539          31          Male            Ariyalur              Contact
+  6540          55          Male          Chengalpattu            Contact
+  6541          25          Male          Chengalpattu            Contact
+  6542          34         Female         Chengalpattu            Contact
+  6543          39         Female         Chengalpattu            Contact
+  6544          29          Male          Chengalpattu            Contact
+  6545           6          Male          Chengalpattu            Contact
+  6546          10          Male          Chengalpattu            Contact
+  6547          38         Female         Chengalpattu            Contact
+  6548          52          Male          Chengalpattu            Contact
+  6549           4          Male          Chengalpattu            Contact
+  6550          65          Male          Chengalpattu            Contact
+  6551          61          Male          Chengalpattu            Contact
+  6552          28         Female         Chengalpattu            Contact
+  6553          29          Male          Chengalpattu            Contact
+  6554          20          Male          Chengalpattu            Contact
+  6555          42         Female         Chengalpattu            Contact
+  6556          74          Male          Chengalpattu            Contact
+  6557          28          Male          Chengalpattu            Contact
+  6558          48         Female         Chengalpattu            Contact
+  6559          45          Male          Chengalpattu            Contact
+  6560          55         Female         Chengalpattu            Contact
+  6561          26          Male          Chengalpattu            Contact
+  6562           7          Male          Chengalpattu            Contact
+  6563          50          Male          Chengalpattu            Contact
+  6564          18          Male          Chengalpattu            Contact
+  6565          32          Male          Chengalpattu            Contact
+  6566          80         Female         Chengalpattu            Contact
+  6567          50         Female         Chengalpattu            Contact
+  6568          65         Female         Chengalpattu            Contact
+  6569          38          Male          Chengalpattu            Contact
+  6570           9          Male          Chengalpattu            Contact
+  6571          66         Female         Chengalpattu            Contact
+  6572          50          Male          Chengalpattu            Contact
+  6573          36         Female         Chengalpattu            Contact
+  6574          22          Male          Chengalpattu            Contact
+  6575          11          Male          Chengalpattu            Contact
+
+      24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+           District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                                www.stopcorona.tn.gov.in
+6576        63          Male          Chengalpattu             Contact
+6577        24          Male          Chengalpattu             Contact
+6578        74         Female         Chengalpattu             Contact
+6579        48          Male          Chengalpattu             Contact
+6580        31          Male          Chengalpattu             Contact
+6581        29         Female         Chengalpattu             Contact
+6582        21          Male            Chennai                Contact
+6583        36         Female           Chennai                Contact
+6584        60         Female           Chennai                Contact
+6585        21         Female           Chennai                Contact
+6586        21          Male            Chennai                Contact
+6587        45          Male            Chennai                Contact
+6588        40          Male            Chennai                Contact
+6589        62          Male            Chennai                Contact
+6590        22          Male            Chennai                Contact
+6591        34          Male            Chennai                Contact
+6592        26          Male            Chennai                Contact
+6593        36          Male            Chennai                Contact
+6594        41          Male            Chennai                Contact
+6595        32          Male            Chennai                Contact
+6596        52          Male            Chennai                Contact
+6597        52         Female           Chennai                Contact
+6598        27          Male            Chennai                Contact
+6599        29          Male            Chennai                Contact
+6600        31          Male            Chennai                Contact
+6601        31          Male            Chennai                Contact
+6602        30          Male            Chennai                Contact
+6603        12         Female           Chennai                Contact
+6604        47         Female           Chennai                Contact
+6605        32          Male            Chennai                Contact
+6606        30         Female           Chennai                Contact
+6607        48          Male            Chennai                Contact
+6608        18          Male            Chennai                Contact
+6609        49         Female           Chennai                Contact
+6610        34          Male            Chennai                Contact
+6611        30          Male            Chennai                Contact
+6612        40          Male            Chennai                Contact
+6613        37          Male            Chennai                Contact
+6614        45          Male            Chennai                Contact
+6615        56          Male            Chennai                Contact
+6616        25          Male            Chennai                Contact
+6617        27          Male            Chennai                Contact
+6618        38          Male            Chennai                Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6619        43          Male             Chennai               Contact
+6620        35          Male             Chennai               Contact
+6621        18          Male             Chennai               Contact
+6622        19          Male             Chennai               Contact
+6623        44          Male             Chennai               Contact
+6624        18          Male             Chennai               Contact
+6625        35          Male             Chennai               Contact
+6626        32          Male             Chennai               Contact
+6627        30         Female            Chennai               Contact
+6628        31         Female            Chennai               Contact
+6629        72         Female            Chennai               Contact
+6630        42          Male             Chennai               Contact
+6631        21          Male             Chennai               Contact
+6632        50          Male             Chennai               Contact
+6633        17          Male             Chennai               Contact
+6634        27          Male             Chennai               Contact
+6635        26         Female            Chennai               Contact
+6636        10          Male             Chennai               Contact
+6637        39          Male             Chennai               Contact
+6638        26          Male             Chennai               Contact
+6639        50         Female            Chennai               Contact
+6640        37          Male             Chennai               Contact
+6641        38          Male             Chennai               Contact
+6642        34          Male             Chennai               Contact
+6643        48          Male             Chennai               Contact
+6644        43          Male             Chennai               Contact
+6645        30          Male             Chennai               Contact
+6646        31         Female            Chennai               Contact
+6647        29         Female            Chennai               Contact
+6648        25         Female            Chennai               Contact
+6649        40         Female            Chennai               Contact
+6650        65         Female            Chennai               Contact
+6651        23          Male             Chennai               Contact
+6652        34         Female            Chennai               Contact
+6653        23         Female            Chennai               Contact
+6654        23          Male             Chennai               Contact
+6655        48          Male             Chennai               Contact
+6656        36          Male             Chennai               Contact
+6657        24          Male             Chennai               Contact
+6658        12         Female            Chennai               Contact
+6659         6          Male             Chennai               Contact
+6660        49          Male             Chennai               Contact
+6661        38          Male             Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6662        36          Male             Chennai               Contact
+6663        53          Male             Chennai               Contact
+6664        55         Female            Chennai               Contact
+6665        33          Male             Chennai               Contact
+6666        50          Male             Chennai               Contact
+6667        55          Male             Chennai               Contact
+6668        33          Male             Chennai               Contact
+6669        52          Male             Chennai               Contact
+6670        51          Male             Chennai               Contact
+6671        33         Female            Chennai               Contact
+6672        30         Female            Chennai               Contact
+6673        27         Female            Chennai               Contact
+6674        25         Female            Chennai               Contact
+6675        30          Male             Chennai               Contact
+6676        34          Male             Chennai               Contact
+6677        25         Female            Chennai               Contact
+6678        14         Female            Chennai               Contact
+6679        25          Male             Chennai               Contact
+6680        22          Male             Chennai               Contact
+6681        82         Female            Chennai               Contact
+6682         3          Male             Chennai               Contact
+6683        70          Male             Chennai               Contact
+6684        58          Male             Chennai               Contact
+6685        30         Female            Chennai               Contact
+6686        70          Male             Chennai               Contact
+6687        47         Female            Chennai               Contact
+6688        35          Male             Chennai               Contact
+6689        29          Male             Chennai               Contact
+6690        26          Male             Chennai               Contact
+6691        20          Male             Chennai               Contact
+6692        34         Female            Chennai               Contact
+6693        56          Male             Chennai               Contact
+6694        58          Male             Chennai               Contact
+6695        34         Female            Chennai               Contact
+6696        38          Male             Chennai               Contact
+6697        38         Female            Chennai               Contact
+6698        19         Female            Chennai               Contact
+6699        54         Female            Chennai               Contact
+6700        36          Male             Chennai               Contact
+6701        22          Male             Chennai               Contact
+6702        15          Male             Chennai               Contact
+6703        60          Male             Chennai               Contact
+6704        24         Female            Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6705        18          Male             Chennai               Contact
+6706        13          Male             Chennai               Contact
+6707        35         Female            Chennai               Contact
+6708        13         Female            Chennai               Contact
+6709        29         Female            Chennai               Contact
+6710        21          Male             Chennai               Contact
+6711        18         Female            Chennai               Contact
+6712        26         Female            Chennai               Contact
+6713        30         Female            Chennai               Contact
+6714        37         Female            Chennai               Contact
+6715        24         Female            Chennai               Contact
+6716        12         Female            Chennai               Contact
+6717        48         Female            Chennai               Contact
+6718        28         Female            Chennai               Contact
+6719        27         Female            Chennai               Contact
+6720        47         Female            Chennai               Contact
+6721        28          Male             Chennai               Contact
+6722        60          Male             Chennai               Contact
+6723        61          Male             Chennai               Contact
+6724        35         Female            Chennai               Contact
+6725        21          Male             Chennai               Contact
+6726        14          Male             Chennai               Contact
+6727        20         Female            Chennai               Contact
+6728        26          Male             Chennai               Contact
+6729        27          Male             Chennai               Contact
+6730        40         Female            Chennai               Contact
+6731        36          Male             Chennai               Contact
+6732        45         Female            Chennai               Contact
+6733        34         Female            Chennai               Contact
+6734        54         Female            Chennai               Contact
+6735        22         Female            Chennai               Contact
+6736        42         Female            Chennai               Contact
+6737        33         Female            Chennai               Contact
+6738        30         Female            Chennai               Contact
+6739        75         Female            Chennai               Contact
+6740        32         Female            Chennai               Contact
+6741        74         Female            Chennai               Contact
+6742        47          Male             Chennai               Contact
+6743        26         Female            Chennai               Contact
+6744        11          Male             Chennai               Contact
+6745        52          Male             Chennai               Contact
+6746        48          Male             Chennai               Contact
+6747        29          Male             Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6748        19         Female            Chennai               Contact
+6749         8         Female            Chennai               Contact
+6750        29          Male             Chennai               Contact
+6751        34         Female            Chennai               Contact
+6752        37         Female            Chennai               Contact
+6753        18          Male             Chennai               Contact
+6754        24         Female            Chennai               Contact
+6755        38         Female            Chennai               Contact
+6756        40         Female            Chennai               Contact
+6757        30          Male             Chennai               Contact
+6758        56          Male             Chennai               Contact
+6759        26         Female            Chennai               Contact
+6760        45         Female            Chennai               Contact
+6761        29         Female            Chennai               Contact
+6762        52          Male             Chennai               Contact
+6763        30          Male             Chennai               Contact
+6764        30         Female            Chennai               Contact
+6765        44          Male             Chennai               Contact
+6766        45          Male             Chennai               Contact
+6767        53         Female            Chennai               Contact
+6768        35          Male             Chennai               Contact
+6769        34          Male             Chennai               Contact
+6770        22          Male             Chennai               Contact
+6771        31          Male             Chennai               Contact
+6772         6          Male             Chennai               Contact
+6773        17          Male             Chennai               Contact
+6774        55          Male             Chennai               Contact
+6775        63          Male             Chennai               Contact
+6776        28          Male             Chennai               Contact
+6777        34         Female            Chennai               Contact
+6778        17         Female            Chennai               Contact
+6779        27         Female            Chennai               Contact
+6780        10         Female            Chennai               Contact
+6781        24          Male             Chennai               Contact
+6782        55          Male             Chennai               Contact
+6783        45          Male             Chennai               Contact
+6784        57          Male             Chennai               Contact
+6785        65         Female            Chennai               Contact
+6786         6          Male             Chennai               Contact
+6787        63          Male             Chennai               Contact
+6788        60          Male             Chennai               Contact
+6789        89          Male             Chennai               Contact
+6790        81          Male             Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6791        52          Male             Chennai               Contact
+6792        42          Male             Chennai               Contact
+6793        12          Male             Chennai               Contact
+6794         8         Female            Chennai               Contact
+6795        38          Male             Chennai               Contact
+6796        32          Male             Chennai               Contact
+6797        68         Female            Chennai               Contact
+6798        36         Female            Chennai               Contact
+6799        26         Female            Chennai               Contact
+6800        37         Female            Chennai               Contact
+6801        32          Male             Chennai               Contact
+6802        22          Male             Chennai               Contact
+6803        40          Male             Chennai               Contact
+6804        47          Male             Chennai               Contact
+6805        28          Male             Chennai               Contact
+6806        33          Male             Chennai               Contact
+6807        28          Male             Chennai               Contact
+6808        25         Female            Chennai               Contact
+6809        24          Male             Chennai               Contact
+6810        26          Male             Chennai               Contact
+6811        40          Male             Chennai               Contact
+6812        39         Female            Chennai               Contact
+6813        51          Male             Chennai               Contact
+6814        24         Female            Chennai               Contact
+6815        34         Female            Chennai               Contact
+6816        21         Female            Chennai               Contact
+6817        59         Female            Chennai               Contact
+6818        33         Female            Chennai               Contact
+6819        28          Male             Chennai               Contact
+6820        31          Male             Chennai               Contact
+6821        48          Male             Chennai               Contact
+6822        11          Male             Chennai               Contact
+6823        20          Male             Chennai               Contact
+6824        25         Female            Chennai               Contact
+6825        23          Male             Chennai               Contact
+6826        37         Female            Chennai               Contact
+6827        17         Female            Chennai               Contact
+6828        46          Male             Chennai               Contact
+6829        21          Male             Chennai               Contact
+6830        24          Male             Chennai               Contact
+6831        30         Female            Chennai               Contact
+6832        52          Male             Chennai               Contact
+6833        55         Female            Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6834        35         Female           Chennai                Contact
+6835        34          Male            Chennai                Contact
+6836        57         Female           Chennai                Contact
+6837        36         Female           Chennai                Contact
+6838        38          Male            Chennai                Contact
+6839        25         Female           Chennai                Contact
+6840        19          Male            Chennai                Contact
+6841        20          Male            Chennai                Contact
+6842        33          Male            Chennai                Contact
+6843        58          Male            Chennai                Contact
+6844        78          Male            Chennai                Contact
+6845        51          Male            Chennai                Contact
+6846         3          Male            Chennai                Contact
+6847        56          Male            Chennai                Contact
+6848        32          Male            Chennai                Contact
+6849        68          Male            Chennai                Contact
+6850        80          Male            Chennai                Contact
+6851        26          Male            Chennai                Contact
+6852        40          Male            Chennai                Contact
+6853        44          Male            Chennai                Contact
+6854        52          Male            Chennai                Contact
+6855        66          Male            Chennai                Contact
+6856        71          Male            Chennai                Contact
+6857        25          Male            Chennai                Contact
+6858        17          Male            Chennai                Contact
+6859        30          Male            Chennai                Contact
+6860        44          Male            Chennai                Contact
+6861        22          Male            Chennai                Contact
+6862        60          Male            Chennai                Contact
+6863        29          Male            Chennai                Contact
+6864        18          Male            Chennai                Contact
+6865        65          Male            Chennai                Contact
+6866        45          Male            Chennai                Contact
+6867        47          Male            Chennai                Contact
+6868        45          Male            Chennai                Contact
+6869        36          Male            Chennai                Contact
+6870        40          Male            Chennai                Contact
+6871        31         Female           Chennai                Contact
+6872        42         Female           Chennai                Contact
+6873        50         Female           Chennai                Contact
+6874        26         Female           Chennai                Contact
+6875        66         Female           Chennai                Contact
+6876        25         Female         Chengalpattu             Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6877        66         Female           Chennai                Contact
+6878        50         Female           Chennai                Contact
+6879        26         Female           Chennai                Contact
+6880        67         Female           Chennai                Contact
+6881        51         Female           Chennai                Contact
+6882        32         Female           Chennai                Contact
+6883        40         Female           Chennai                Contact
+6884        73         Female           Chennai                Contact
+6885        36         Female           Chennai                Contact
+6886        27         Female           Chennai                Contact
+6887        47         Female           Chennai                Contact
+6888        65         Female           Chennai                Contact
+6889        61          Male            Chennai                Contact
+6890        43          Male            Chennai                Contact
+6891        45          Male            Chennai                Contact
+6892        49          Male            Chennai                Contact
+6893        43          Male            Chennai                Contact
+6894        37          Male            Chennai                Contact
+6895        55          Male            Chennai                Contact
+6896        66         Female           Chennai                Contact
+6897        43          Male            Chennai                Contact
+6898        38         Female           Chennai                Contact
+6899        31         Female           Chennai                Contact
+6900        29         Female           Chennai                Contact
+6901        35         Female           Chennai                Contact
+6902        40          Male            Chennai                Contact
+6903        58          Male            Chennai                Contact
+6904        55         Female           Chennai                Contact
+6905        26          Male            Chennai                Contact
+6906        67          Male            Chennai                Contact
+6907        25         Female           Chennai                Contact
+6908        56         Female           Chennai                Contact
+6909        52          Male            Chennai                Contact
+6910        45          Male            Chennai                Contact
+6911        50         Female        Kancheepuram              Contact
+6912        12         Female           Chennai                Contact
+6913        67         Female           Chennai                Contact
+6914        24         Female           Chennai                Contact
+6915         3         Female           Chennai                Contact
+6916        58         Female           Chennai                Contact
+6917        64         Female           Chennai                Contact
+6918        52         Female           Chennai                Contact
+6919        30         Female           Chennai                Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6920        45          Male             Chennai               Contact
+6921        56          Male             Chennai               Contact
+6922        48          Male             Chennai               Contact
+6923        46          Male             Chennai               Contact
+6924        40         Female            Chennai               Contact
+6925        27          Male             Chennai               Contact
+6926        30          Male             Chennai               Contact
+6927        17         Female            Chennai               Contact
+6928        37         Female            Chennai               Contact
+6929        55         Female            Chennai               Contact
+6930        56          Male             Chennai               Contact
+6931        40          Male             Chennai               Contact
+6932        17          Male             Chennai               Contact
+6933        49          Male             Chennai               Contact
+6934        34          Male             Chennai               Contact
+6935        82          Male             Chennai               Contact
+6936        37         Female            Chennai               Contact
+6937        23         Female            Chennai               Contact
+6938        38          Male             Chennai               Contact
+6939         7          Male             Chennai               Contact
+6940        44          Male             Chennai               Contact
+6941        13          Male             Chennai               Contact
+6942        20          Male             Chennai               Contact
+6943        24         Female            Chennai               Contact
+6944        29         Female            Chennai               Contact
+6945        47          Male             Chennai               Contact
+6946        54         Female            Chennai               Contact
+6947        37         Female            Chennai               Contact
+6948        45         Female            Chennai               Contact
+6949        68          Male             Chennai               Contact
+6950        49          Male             Chennai               Contact
+6951        22         Female            Chennai               Contact
+6952         2         Female            Chennai               Contact
+6953        28          Male             Chennai               Contact
+6954        50          Male             Chennai               Contact
+6955        44          Male             Chennai               Contact
+6956        25          Male             Chennai               Contact
+6957        24         Female            Chennai               Contact
+6958        58          Male             Chennai               Contact
+6959        60          Male             Chennai               Contact
+6960        41          Male             Chennai               Contact
+6961        35          Male             Chennai               Contact
+6962        60         Female            Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+6963        22         Female           Chennai                Contact
+6964        46         Female           Chennai                Contact
+6965        21         Female           Chennai                Contact
+6966        52          Male            Chennai                Contact
+6967        58          Male            Chennai                Contact
+6968        58         Female           Chennai                Contact
+6969        54         Female           Chennai                Contact
+6970        47          Male            Chennai                Contact
+6971        28          Male            Chennai                Contact
+6972        52          Male            Chennai                Contact
+6973        35         Female           Chennai                Contact
+6974        16          Male            Chennai                Contact
+6975        52          Male            Chennai                Contact
+6976        35         Female           Chennai                Contact
+6977        65         Female           Chennai                Contact
+6978        35          Male            Chennai                Contact
+6979        26         Female           Chennai                Contact
+6980        43          Male            Chennai                Contact
+6981        37         Female           Chennai                Contact
+6982        32          Male            Chennai                Contact
+6983        23          Male            Chennai                Contact
+6984        73          Male            Chennai                Contact
+6985         1         Female           Chennai                Contact
+6986        27         Female           Chennai                Contact
+6987        37         Female           Chennai                Contact
+6988        24         Female           Chennai                Contact
+6989        23         Female           Chennai                Contact
+6990        32         Female           Chennai                Contact
+6991        44          Male            Chennai                Contact
+6992        32         Female           Chennai                Contact
+6993        24         Female           Chennai                Contact
+6994        40          Male            Chennai                Contact
+6995        31          Male            Chennai                Contact
+6996        34          Male            Chennai                Contact
+6997        45          Male            Chennai                Contact
+6998        24          Male            Chennai                Contact
+6999        37          Male           Thiruvallur             Contact
+7000        42          Male            Chennai                Contact
+7001        45         Female           Chennai                Contact
+7002        51          Male            Chennai                Contact
+7003        52          Male            Chennai                Contact
+7004        39          Male            Chennai                Contact
+7005        55         Female           Chennai                Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+7006        60          Male             Chennai               Contact
+7007        32         Female            Chennai               Contact
+7008        45          Male             Chennai               Contact
+7009        48          Male             Chennai               Contact
+7010        50          Male             Chennai               Contact
+7011        57         Female            Chennai               Contact
+7012        23         Female            Chennai               Contact
+7013        80         Female            Chennai               Contact
+7014        30          Male             Chennai               Contact
+7015        26         Female            Chennai               Contact
+7016        36         Female            Chennai               Contact
+7017        30         Female            Chennai               Contact
+7018        32         Female            Chennai               Contact
+7019        23          Male             Chennai               Contact
+7020        20          Male             Chennai               Contact
+7021        43          Male             Chennai               Contact
+7022         5          Male             Chennai               Contact
+7023        40          Male             Chennai               Contact
+7024        30         Female            Chennai               Contact
+7025        60         Female            Chennai               Contact
+7026        18          Male             Chennai               Contact
+7027        39          Male             Chennai               Contact
+7028        36         Female            Chennai               Contact
+7029        21         Female            Chennai               Contact
+7030        11          Male             Chennai               Contact
+7031         2         Female            Chennai               Contact
+7032        24          Male             Chennai               Contact
+7033        22         Female            Chennai               Contact
+7034        19         Female            Chennai               Contact
+7035        29         Female            Chennai               Contact
+7036        43         Female            Chennai               Contact
+7037        21         Female            Chennai               Contact
+7038        46          Male             Chennai               Contact
+7039        38          Male             Chennai               Contact
+7040        35          Male             Chennai               Contact
+7041        26          Male             Chennai               Contact
+7042        38          Male             Chennai               Contact
+7043        50          Male             Chennai               Contact
+7044        21         Female            Chennai               Contact
+7045        24         Female            Chennai               Contact
+7046        27         Female            Chennai               Contact
+7047        25         Female            Chennai               Contact
+7048        55          Male             Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+7049        60          Male             Chennai               Contact
+7050        50          Male             Chennai               Contact
+7051        50          Male             Chennai               Contact
+7052        59          Male             Chennai               Contact
+7053        65          Male             Chennai               Contact
+7054        56         Female            Chennai               Contact
+7055        47          Male             Chennai               Contact
+7056        20         Female            Chennai               Contact
+7057        15          Male             Chennai               Contact
+7058        47          Male             Chennai               Contact
+7059        48          Male             Chennai               Contact
+7060         9         Female            Chennai               Contact
+7061        44          Male             Chennai               Contact
+7062        24          Male             Chennai               Contact
+7063        20          Male             Chennai               Contact
+7064        49         Female            Chennai               Contact
+7065        17         Female            Chennai               Contact
+7066        36         Female            Chennai               Contact
+7067        26          Male             Chennai               Contact
+7068        51          Male             Chennai               Contact
+7069        35          Male             Chennai               Contact
+7070        30          Male             Chennai               Contact
+7071        40          Male             Chennai               Contact
+7072        41          Male             Chennai               Contact
+7073        43          Male             Chennai               Contact
+7074        45          Male             Chennai               Contact
+7075        31          Male             Chennai               Contact
+7076        20          Male             Chennai               Contact
+7077        23         Female            Chennai               Contact
+7078        37         Female            Chennai               Contact
+7079        50         Female            Chennai               Contact
+7080        49         Female            Chennai               Contact
+7081        36          Male             Chennai               Contact
+7082        20         Female            Chennai               Contact
+7083        30          Male             Chennai               Contact
+7084        31          Male             Chennai               Contact
+7085        11          Male             Chennai               Contact
+7086        27          Male             Chennai               Contact
+7087        46          Male             Chennai               Contact
+7088        24          Male             Chennai               Contact
+7089        56         Female            Chennai               Contact
+7090         5          Male             Chennai               Contact
+7091        29          Male             Chennai               Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+7092        32          Male           Cuddalore               Contact
+7093        36          Male         Kancheepuram              Contact
+7094        29         Female        Kancheepuram              Contact
+7095        52          Male         Kancheepuram              Contact
+7096        52          Male         Kancheepuram              Contact
+7097        52          Male         Kancheepuram              Contact
+7098        52          Male         Kancheepuram              Contact
+7099        51          Male         Kancheepuram              Contact
+7100        56          Male             Karur                 Contact
+7101        37          Male          Krishnagiri              Contact
+7102        50         Female         Krishnagiri              Contact
+7103        55         Female         Krishnagiri              Contact
+7104        30         Female         Krishnagiri              Contact
+7105        24          Male          Krishnagiri              Contact
+7106        27         Female         Krishnagiri              Contact
+7107        60         Female         Krishnagiri              Contact
+7108        33         Female         Krishnagiri              Contact
+7109        14         Female         Krishnagiri              Contact
+7110        11          Male          Krishnagiri              Contact
+7111        20         Female           Madurai                Contact
+7112        29          Male            Madurai                Contact
+7113        23         Female           Madurai                Contact
+7114        24         Female           Madurai                Contact
+7115        28         Female         Perambalur               Contact
+7116        29         Female         Perambalur               Contact
+7117        21         Female         Perambalur               Contact
+7118        55          Male          Perambalur               Contact
+7119        42          Male          Perambalur               Contact
+7120        32         Female         Perambalur               Contact
+7121        30          Male          Perambalur               Contact
+7122        20         Female         Perambalur               Contact
+7123        55          Male          Perambalur               Contact
+7124        37          Male           Pudukottai              Contact
+7125        25          Male        Ramanathapuram             Contact
+7126        32          Male            Ranipet                Contact
+7127        24         Female           Ranipet                Contact
+7128         4          Male            Ranipet                Contact
+7129        33          Male            Ranipet                Contact
+7130        26          Male             Vellore               Contact
+7131        36          Male            Ranipet                Contact
+7132        34          Male            Ranipet                Contact
+7133        36          Male             Theni                 Contact
+7134        42          Male             Theni                 Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+7135        39          Male             Theni                 Contact
+7136        35          Male            Chennai                Contact
+7137        24          Male           Thiruvallur             Contact
+7138        35          Male           Thiruvallur             Contact
+7139        27          Male           Thiruvallur             Contact
+7140        28          Male           Thiruvallur             Contact
+7141        23          Male           Thiruvallur             Contact
+7142        26         Female           Chennai                Contact
+7143        39          Male           Thiruvallur             Contact
+7144        36         Female          Thiruvallur             Contact
+7145        29          Male           Thiruvallur             Contact
+7146        13          Male           Thiruvallur             Contact
+7147        55          Male           Thiruvallur             Contact
+7148        34          Male           Thiruvallur             Contact
+7149        60         Female          Thiruvallur             Contact
+7150        54          Male           Thiruvallur             Contact
+7151        34          Male           Thiruvallur             Contact
+7152        35          Male           Thiruvallur             Contact
+7153        26          Male           Thiruvallur             Contact
+7154        58          Male           Thiruvallur             Contact
+7155        40          Male           Thiruvallur             Contact
+7156        24          Male           Thiruvallur             Contact
+7157        20          Male           Thiruvallur             Contact
+7158        16          Male           Thiruvallur             Contact
+7159        60          Male           Thiruvallur             Contact
+7160        65          Male           Thiruvallur             Contact
+7161        14         Female          Thiruvallur             Contact
+7162        23         Female          Thiruvallur             Contact
+7163        19          Male           Thiruvallur             Contact
+7164        36          Male           Thiruvallur             Contact
+7165        65         Female          Thiruvallur             Contact
+7166        44          Male           Thiruvallur             Contact
+7167        45         Female          Thiruvallur             Contact
+7168        30          Male           Thiruvallur             Contact
+7169        41         Female          Thiruvallur             Contact
+7170        29          Male           Thiruvallur             Contact
+7171        21         Female          Thiruvallur             Contact
+7172        35          Male           Thiruvallur             Contact
+7173        50         Female          Thiruvallur             Contact
+7174        26          Male           Thiruvallur             Contact
+7175        49         Female          Thiruvallur             Contact
+7176        51          Male           Thiruvallur             Contact
+7177        56          Male           Thiruvallur             Contact
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+  7178           26        Female          Thiruvallur             Contact
+  7179           35        Female          Thiruvallur             Contact
+  7180           38         Male           Thiruvallur             Contact
+  7181           34         Male           Thiruvallur             Contact
+  7182           32         Male           Thiruvallur             Contact
+  7183           49         Male           Thiruvallur             Contact
+  7184           13        Female           Tirunelveli            Contact
+  7185            2        Female           Tirunelveli            Contact
+  7186           30        Female           Tirunelveli            Contact
+  7187           60         Male            Tirunelveli            Contact
+  7188           63        Female           Tirunelveli            Contact
+  7189           37         Male            Tirunelveli            Contact
+  7190           50        Female           Tirunelveli            Contact
+  7191           52         Male            Tirunelveli            Contact
+  7192           73        Female           Tirunelveli            Contact
+  7193           28         Male            Tirunelveli            Contact
+  7194           41         Male           Thirupathur             Contact
+  7195           43         Male              Vellore              Contact
+  7196           31         Male              Vellore              Contact
+  7197           56         Male           Villupuram              Contact
+  7198           28         Male           Villupuram              Contact
+  7199           50         Male           Villupuram              Contact
+  7200           46         Male           Villupuram              Contact
+  7201           26         Male           Villupuram              Contact
+  7202           32         Male           Villupuram              Contact
+  7203           59         Male          Virudhunagar             Contact
+  7204           38        Female         Virudhunagar             Contact
+* Detailed investigation under progress
+
+
+Death details:
+Death Case No.45: A 74 years old Male from Chengalpattu, admitted on
+08.05.2020 in Chengalpattu MCH, died on 08.05.2020 at 12.20 PM, tested
+positive today.
+Death Case No.46: A 59 years old male with Type-2 Diabetes Mellitus &
+Coronary Artery Disease from Chennai, admitted on 07.05.2020 in Stanley MCH,
+died on 10.05.2020 at 02.30 AM.
+Death Case No.47: A 55 years old male with Chronic Kidney Disease, Type-2
+Diabetes Mellitus & Systemic Hypertension from Thiruvallur, admitted on
+04.05.2020 in Kilpauk MCH, died on 09.05.2020 at 01.20 AM tested positive
+today.
+
+
+      24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+           District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                                www.stopcorona.tn.gov.in
+               District wise abstract of COVID-19 positive cases*
+
+                                                                     Total cases till
+  Sl.No         District        Till 09.05.2020   On 10.05.2020
+                                                                          Date
+    1      Ariyalur                         271                 4                275
+    2      Chengalpattu                     224                43                267
+    3      Chennai                         3330               509               3839
+    4      Coimbatore                       146                                  146
+    5      Cuddalore                        394                  1               395
+    6      Dharmapuri                         4                                    4
+    7      Dindigul                         108                                  108
+    8      Erode                             70                                   70
+    9      Kallakurichi                      59                                   59
+   10      Kancheepuram                     114                  8               122
+   11      Kanyakumari                       24                                   24
+   12      Karur                             47                 1                 48
+   13      Krishnagiri                       10                10                 20
+   14      Madurai                          113                 4                117
+   15      Nagapattinam                      45                                   45
+   16      Namakkal                          77                                   77
+   17      Nilgiris                          14                                   14
+   18      Perambalur                        95                  9               104
+   19      Pudukottai                         5                  1                 6
+   20      Ramanathapuram                    25                  1                26
+   21      Ranipet                           60                  6                66
+   22      Salem                             35                                   35
+   23      Sivagangai                        12                                   12
+   24      Tenkasi                           52                                   52
+   25      Thanjavur                         66                                   66
+   26      Theni                             56                 3                 59
+   27      Thirupathur                       27                 1                 28
+   28      Thiruvallur                      290                47                337
+   29      Thiruvannamalai                   82                                   82
+   30      Thiruvarur                        32                                   32
+   31      Thoothukudi                       30                                   30
+   32      Tirunelveli                       80                10                 90
+   33      Tiruppur                         114                                  114
+   34      Trichy                            65                                   65
+   35      Vellore                           29                  3                32
+   36      Villupuram                       293                  6               299
+   37      Virudhunagar                      37                  2                39
+          Grand Total                     6,535               669               7,204
+* Note: Figures are reconciled to the respective districts based on
+detailed epidemiological investigation
+
+
+
+
+        24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+             District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                                  www.stopcorona.tn.gov.in
+                   Age and Sex distribution till date
+
+
+
+7000
+
+6500                           6337
+                                2
+6000
+
+5500
+                               2080
+5000
+
+4500
+
+4000                                                                Total
+
+3500                                                                TG
+                                                                    Female
+3000
+                                                                    Male
+2500
+                               4255
+2000
+
+1500
+
+1000
+                                                   503
+ 500         364
+                                                   193
+             177
+             187                                   310
+  0
+            0-12               13-60               60+
+
+
+
+
+  24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+       District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                            www.stopcorona.tn.gov.in
+          Tamil Nadu COVID 19 ² District Wise Case Details
+
+                                      Total
+ Sl.                                                              Active
+                District             Positive     Discharged                   Death
+ No                                                               Cases
+                                      Cases
+  1    Ariyalur                        275            6            269
+  2    Chengalpattu                    267            56           206            4#
+  3    Chennai                        3,839          639          3,171          28*
+  4    Coimbatore                      146           140            4            1*
+  5    Cuddalore                       395            27           368
+  6    Dharmapuri                        4            1             3
+  7    Dindigul                        108            79           28             1
+  8    Erode                            70            69            0             1
+  9    Kallakurichi                     59            5            54
+ 10    Kancheepuram                    122            20           101            1
+ 11    Kanyakumari                      24            16            8
+ 12    Karur                            48            42            6
+ 13    Krishnagiri                      20            0            20
+ 14    Madurai                         117            73           42             2
+ 15    Nagapattinam                     45            44            1
+ 16    Namakkal                         77            56           21
+ 17    Nilgiris                         14            11            3
+ 18    Perambalur                      104            5            99
+ 19    Pudukottai                        6            1             5
+ 20    Ramanathapuram                   26            15           10             1
+ 21    Ranipet                          66            39           27
+ 22    Salem                            35            29            6
+ 23    Sivagangai                       12            12            0
+ 24    Tenkasi                          52            21           31
+ 25    Thanjavur                        66            47           19
+ 26    Theni                            59            42           16             1
+ 27    Thirupathur                      28            18           10
+ 28    Thiruvallur                     337            63           272            2
+ 29    Thiruvannamalai                  82            13           69
+ 30    Thiruvarur                       32            29            3
+ 31    Thoothukudi                      30            26            3             1
+ 32    Tirunelveli                      90            62           27             1
+ 33    Tiruppur                        114           112            2
+ 34    Trichy                           65            51           14
+ 35    Vellore                          32            17           14             1
+ 36    Villupuram                      299            42           255            2
+ 37    Virudhunagar                     39            31            8
+          Grand Total                 7,204         1,959         5,195          47
+*2 deaths cross notified to other states. #1 patient died after turning negative for
+infection.
+
+
+       24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+            District Control Room ² 1077. Toll Free Number ² 1800 1205 55550
+                                 www.stopcorona.tn.gov.in
+
