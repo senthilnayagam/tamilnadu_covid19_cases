@@ -25,7 +25,11 @@ CaseNumber INTEGER,
 Age INTEGER, 
 Gender TEXT, 
 District TEXT, 
-DeathCause TEXT)"
+DeathCause TEXT,
+admitted_on TEXT, 
+died_on TEXT, 
+sample_taken_on TEXT, 
+result_on TEXT, 
 
 
 

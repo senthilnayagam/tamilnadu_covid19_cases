@@ -43,6 +43,57 @@ def parse_data(file_string)
 
 		death_cause = cause[1] if cause.length ==2
 
+		# admitted_on
+		if fs.downcase.include? 'admitted on '
+		admitted_on = fs.split("admitted on ")[1].split(" ")[0]
+		admitted_on = admitted_on.gsub(/\.$/, '').gsub('.','-')
+		puts "admitted_on: " + admitted_on
+
+		end
+
+
+		# died_on
+		if fs.downcase.include? 'died on '
+		died_on = fs.split("died on ")[1].split(" ")[0]
+		died_on = died_on.gsub(/\.$/, '').gsub('.','-')
+		puts "died_on: " + died_on
+
+		end
+
+		# sample_taken_on
+		sample_taken_on = ''
+		if fs.downcase.include? ' sample taken on '
+		#	print "#### 742}"
+		begin  
+		sample_taken_on = fs.split(" sample taken on ")[1].split(" ")[0]
+		sample_taken_on = sample_taken_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
+		puts "sample_taken_on: " + sample_taken_on
+		rescue StandardError => e 
+			puts e.message 
+
+		end
+
+		end
+
+		# result_on
+		result_on = ''
+		if fs.downcase.include? ' result on '
+			begin  
+		result_on = fs.split(" result on ")[1].split(" ")[0]
+		result_on = result_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
+		puts "result_on: " + result_on
+			rescue StandardError => e 
+				puts e.message 
+
+			end
+
+		end
+
+
+
+
+		#death_cause = cause[1] if cause.length ==2
+
 		puts "raw_content:" + fs
 		puts "case_number:" + case_number
 		puts "age:" + age.to_s
@@ -59,6 +110,12 @@ def parse_data(file_string)
 		death_case["gender"]  = gender.to_s
 		death_case["district"]  = district.to_s
 		death_case["death_cause"]  = death_cause.to_s
+		death_case["admitted_on"]  = admitted_on.to_s
+		death_case["died_on"]  = died_on.to_s
+		death_case["sample_taken_on"]  = sample_taken_on.to_s
+		death_case["result_on"]  = result_on.to_s
+		death_case["death_cause"]  = death_cause.to_s
+
 
 		return death_case
 		# return as hash and use it in the sql insert statement appropriately
