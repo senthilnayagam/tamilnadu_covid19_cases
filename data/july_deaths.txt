@@ -11553,7 +11553,7 @@ Death Case No.2030:
 A 67 Years old Male from Chennai with Diabetes Mellitus / Hypertension
 / CAD admitted on 06.07.2020 at 07.00 PM at Southern Railway
 Headquarters Hospital, with Fever for five days, Difficulty in Breathing for
-three days, died on at 12.07.2020 at 03.10 PM due to COVID-19
+three days, died on 12.07.2020 at 03.10 PM due to COVID-19
 Pneumonia / Cardio Pulmonary Arrest.
 
 
