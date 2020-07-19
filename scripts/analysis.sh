@@ -65,13 +65,21 @@ cat ../cases/cases.csv | grep -i 'COPD' | wc -l
 
 echo ""
 echo "## cause of death ##"
+
 echo 'pneumonia'
 cat ../cases/cases.csv | grep -i 'pneumonia'| wc -l
+
 echo "lung diseases respiratory ILI SARI ARDS"
 cat ../cases/cases.csv | grep -i 'respiratory\|lung\|ILI\|SARI\|ARDS'| wc -l
 
 echo 'Septic Shock'
 cat ../cases/cases.csv | grep -i 'Septic Shock'| wc -l
+
+
+echo 'Brain Damage'
+cat ../cases/cases.csv | grep -i 'Encephalopathy'| wc -l
+
+
 
 echo ""
 echo "## miscellaneous ##"
