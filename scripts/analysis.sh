@@ -94,6 +94,11 @@ echo 'fracture'
 cat ../cases/cases.csv | grep -i  'fracture' | wc -l
 
 
+echo 'urinary'
+cat ../cases/cases.csv | grep -i  'urosepsis\|bladder' | wc -l
+
+
+
 
 
 
