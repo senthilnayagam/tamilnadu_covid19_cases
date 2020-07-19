@@ -2589,7 +2589,7 @@ Diabetes Mellitus.
 
 Death Case No.398:
 A 47 Years old male from Chennai with complaints of fever for 6 Days,
-Cough for 4 Days and Breathing difficulty for 4 Days admitted on 13.06.20 at
+Cough for 4 Days and Breathing difficulty for 4 Days admitted on 13.06.2020 at
 01.11 AM in a private hospital, died on 13.06.2020 at 07.45 AM due to
 ARDS and Acute Respiratory Failure.
 
@@ -7077,7 +7077,7 @@ Death Case No.705:
 A 53 years old male from Chennai with Type II DM / SHT / CKD / S/P-
 Renal Transplant admitted on 07.06.2020 at 06.30 PM in a private
 Hospital, Chennai with the complaints of Fever for 2 days, breathing
-difficulty for 1 day, died on 18.06.20 at 09.43 PM due to Septic
+difficulty for 1 day, died on 18.06.2020 at 09.43 PM due to Septic
 Shock/Pneumonia.
 
 
@@ -7182,7 +7182,7 @@ to ARDS / Ischemic Heart Disease / Complete Heart Block / COVID-19.
 
 Death Case No.713:
 A 60 years old male from Tiruvallur with DM / HTN / AKI admitted on
-06.06.20 at 03.37 AM in a private hospital with the complaints of fever for 5
+06.06.2020 at 03.37 AM in a private hospital with the complaints of fever for 5
 days and difficulty in breathing for 10 days, died on 20.06.2020 at 03.44 PM
 due to Severe ARDS / Pneumonia.
 
@@ -7264,7 +7264,7 @@ Acute Respiratory Dysfunction Syndrome / Sepsis / MODS.
 Death Case No.719:
 A 58 years old male from Chennai with HTN/CAD admitted on 14.06.2020
 in a private hospital, with complaints of fever and difficulty in breathing for
-1 day and vomiting for 2 days, died on 20.06.20 at 04.50 p.m. due to ARDS
+1 day and vomiting for 2 days, died on 20.06.2020 at 04.50 p.m. due to ARDS
 / Bilateral Viral Pneumonia / COVID 19.
 
 
@@ -9383,7 +9383,7 @@ fever, cough & difficulty in breathing for 7 days, died on 24.06.2020 at
 
 Death Case No.873:
 A 57 years old female from Chennai with Diabetes Mellitus &
-Hypertrophic Cardio Myopathy admitted on 23.06.20 at 05.50 PM in a
+Hypertrophic Cardio Myopathy admitted on 23.06.2020 at 05.50 PM in a
 private hospital with complaints of fever, cough & difficulty in breathing for
 7 days, died on 24.06.2020 at 08.45 PM due to ARDS / Septic Shock /
 Acute Kidney Injury / Sepsis / COVID-19.
