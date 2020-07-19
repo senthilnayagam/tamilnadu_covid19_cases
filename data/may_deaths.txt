@@ -1,9 +1,10 @@
-
-
 Death Case No. 28: 
 A 98 year old male from Chennai admitted in
 Omandurar MCH died due to COVID-19 infection on 01.05.2020 at
 10.20 AM.
+
+
+
 
 
 
@@ -15,9 +16,15 @@ due to COVID-19 infection on 01.05.2020 at 05.30 PM.
 
 
 
+
+
+
 Death Case No.30: 
 A 44 years old male from Coimbatore admitted in RGGGH died
 due to COVID-19 infection on 03.05.2020 at 02.15 PM.
+
+
+
 
 
 
@@ -30,9 +37,18 @@ AM.
 
 
 
+
+
+
 Death Case No.32: 
 A 56 years old male with comorbidities from Chennai admitted
 on 26.04.2020 in Kilpauk MCH, died on 04.05.2020 at 06.20 PM.
+
+
+
+
+
+
 
 Death Case No.33: 
 A 60 years old female from Chennai admitted on 02.05.2020 in
@@ -41,9 +57,18 @@ Kilpauk MCH died on 04.05.2020 at 09.30 AM reported positive today.
 
 
 
+
+
+
 Death Case No.34: 
 A 68 years old male with comorbidities from Chennai admitted
 on 05.05.2020 in Stanley MCH, died on 05.05.2020 at 06.15 PM.
+
+
+
+
+
+
 
 Death Case No.35: 
 A 59 years old male from Chennai admitted on 03.05.2020 in
@@ -52,9 +77,18 @@ Kilpauk MCH died on 05.05.2020 at 07.00 PM.
 
 
 
+
+
+
 Death Case No.36: 
 A 56 year old female with comorbidities from Thiruvallur
 admitted on 01.05.2020 in Kilpauk MCH, died on 06.05.2020 at 04.30 PM.
+
+
+
+
+
+
 
 Death Case No.37: 
 A 48 year old female with comorbidities from Chennai admitted
@@ -64,13 +98,27 @@ on 03.05.2020 in RGGGH, died on 07.05.2020 at 03.30 AM.
 
 
 
+
+
 Death Case No.38: 
 A 78 year old male with comorbidities from Tambaram, Chennai
 admitted on 30.04.2020 in RGGGH, died on 07.05.2020 at 9 PM.
 
+
+
+
+
+
+
 Death Case No.39: 
 A 56 year old male from Chennai admitted on 06.05.2020 in
 RGGGH, died on 07.05.2020 at 11.50 PM.
+
+
+
+
+
+
 
 Death Case No.40: 
 A 83 year old male with comorbidities from Tirunelveli admitted on
@@ -78,22 +126,47 @@ A 83 year old male with comorbidities from Tirunelveli admitted on
 
 
 
+
+
+
+
 Death Case No.41: 
 A 67 year old female with comorbidities from Chennai admitted on
 01.05.2020 in RGGGH, died on 08.05.2020 at 10 PM.
+
+
+
+
+
+
 
 Death Case No.42: 
 A 70 year old female with comorbidities from Ramanathapuram
 admitted on 05.05.2020 in Sivagangai Medical College, died on 09.05.2020 at 12.15
 PM.
 
+
+
+
+
+
+
 Death Case No.43: 
 A 58 year old female from Chennai, admitted on 07.05.2020 in
 Kilpauk MCH, died on 08.05.2020 at 12.05 AM.
 
+
+
+
+
+
+
 Death Case No.44: 
 A 73 year old female with comorbidities from Chennai, admitted
 on 04.05.2020 in Kilpauk MCH, died on 04.05.2020 at 03.40 PM.
+
+
+
 
 
 
@@ -106,10 +179,16 @@ positive today.
 
 
 
+
+
+
 Death Case No.46: 
 A 59 years old male with Type-2 Diabetes Mellitus &
 Coronary Artery Disease from Chennai, admitted on 07.05.2020 in Stanley MCH,
 died on 10.05.2020 at 02.30 AM.
+
+
+
 
 
 
@@ -119,6 +198,7 @@ A 55 years old male with Chronic Kidney Disease, Type-2
 Diabetes Mellitus & Systemic Hypertension from Thiruvallur, admitted on
 04.05.2020 in Kilpauk MCH, died on 09.05.2020 at 01.20 AM tested positive
 today.
+
 
 
 
@@ -136,12 +216,11 @@ Mellitus from Chennai admitted on 06.05.2020 in RGGGH, died on 10.05.2020 at
 
 
 
-
-
 Death Case No.49: 
 A 67 years old female with Systemic Hypertension, Diabetes
 Mellitus and Hypothyroidism from Chennai admitted on 09.05.2020 in RGGGH,
 died on 10.05.2020 at 5.30 PM
+
 
 
 
@@ -158,10 +237,12 @@ RGGGH, died on 08.05.2020 at 2.10 PM
 
 
 
+
 Death Case No.51:
 A 36 years old female with Diabetes Mellitus & Bronchial
 asthma from Chennai admitted on 09.05.2020 in RGGGH died on 09.05.2020 at
 7.30 PM
+
 
 
 
@@ -183,6 +264,7 @@ Death Case No 53:
 A 65 years old male with Stage 4 Carcinoma pancreas with
 multiple metastasis from Kanyakumari admitted on 09.05.2020 in Kanyakumari
 MCH died on 09.05.2020 at 9.40 PM
+
 
 
 
@@ -693,7 +775,7 @@ Respiratory failure.
 
 Death Case No.100:
 A 75 years old female from Chennai with Senile Dementia, Chronic Debilitated
-State admitted on 14.05.2020 in Government Stanley Hospital        died on
+State admitted on 14.05.2020 in Government Stanley Hospital died on
 22.05.2020 at 02.00 PM due to Senile Dementia / Chronic Debilitated State /
 Aspiration Pneumonitis / COVID Positive.
 
@@ -706,7 +788,7 @@ Aspiration Pneumonitis / COVID Positive.
 Death Case No.101:
 A 68 years old male from Chennai with Systemic Hypertension / Type 2
 Diabetes Mellitus admitted on 21.05.2020 at 11.13 PM in RGGGH, died on
-22.05.2020 at 12.15 PM due to Respiratory Failure / COVID²19 Pneumonia /
+22.05.2020 at 12.15 PM due to Respiratory Failure / COVID19 Pneumonia /
 Systemic Hypertension / Type 2 Diabetes Mellitus.
 
 
@@ -1038,7 +1120,7 @@ Pneumonia.
 
 
 Death Case No.126:
- A 65 years old male from Chennai with Diabetes Mellitus and Systemic
+A 65 years old male from Chennai with Diabetes Mellitus and Systemic
 Hypertension with complaints of difficulty in breathing, fever, cough for 5 days
 admitted on 24.05.2020 at private hospital, Chennai died on 24.05.2020 due to
 Acute Respiratory Distress Syndrome.
@@ -1353,7 +1435,7 @@ Death Case No.155:
 A 54 years old male from Chennai admitted on 28.05.2020 in Government
 Medical College & Hospital, Omandurar Government Estate. COVID test sample
 taken on 28.05.2020, Date of result on 29.05.2020, outcome of result is
-Positive.  The patient died on 29.05.2020 at 12.15 PM due to COVID
+Positive. The patient died on 29.05.2020 at 12.15 PM due to COVID
 Pneumonia / Respiratory Failure / Acute Respiratory Distress Syndrome.
 
 
@@ -1388,7 +1470,7 @@ Death Case No.158:
 A 37 years old female from Chennai admitted on 27.05.2020 at 11.46 AM
 in RGGGH. COVID test sample taken on 26.05.2020 in GCC Bharathiyar
 Women’s Arts College, Date of result on 28.05.2020. Outcome of result is
-Positive.   The patient died on 28.05.2020 at 05.45 PM due to
+Positive. The patient died on 28.05.2020 at 05.45 PM due to
 Cardiopulmonary Arrest / Right Lower Lobe COVID Pneumonia / Hypoxic
 Respiratory Failure/ Acute Encephalopathy.
 
@@ -1522,7 +1604,7 @@ A 77 years old male from Chennai with Systemic Hypertension admitted on
 24.05.2020 at 07.24 PM in RGGGH. COVID test sample taken on 21.05.2020
 in a private lab, Date of result on 22.05.2020, Outcome of result is Positive.
 The patient died on 30.05.2020 at 10.00 AM due to Type I Respiratory
-Failure / Cardiopulmonary Arrest /           COVID 19 Positive Status /
+Failure / Cardiopulmonary Arrest / COVID 19 Positive Status /
 Aspiration Pneumonitis / Systemic Hypertension / Old Cerebrovascular
 Accident / Left Hemiparesis.
 
@@ -1571,3 +1653,9 @@ Chennai. COVID test sample taken on 30.05.2020, Date of result on
 31.05.2020, Outcome of result is Positive. The patient died on 30.05.2020 at
 7.20 PM due to Accelerated Hypertension / Acute Pulmonary Edema /
 SHT / COVID Positive.
+
+
+
+
+
+
