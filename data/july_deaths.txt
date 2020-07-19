@@ -2038,7 +2038,7 @@ Arrest / COVID Pneumonia / Acute Respiratory Distress Syndrome .
 
 
 Death Case No.1349:
-A 60 years old female from Chennai admitted on 01.072020 in Govt Stanley
+A 60 years old female from Chennai admitted on 01.07.2020 in Govt Stanley
 Medical College & Hospital, Chennai. COVID test sample taken on
 30.06.2020. Date of result on 01.07.2020. Outcome of result is Positive.
 The patient died on 02.07.2020 at 02.30 AM due to Bronchopneumonia /
@@ -3858,7 +3858,7 @@ Sequelae/ Coronary Artery Disease / Systemic Hypertension.
 
 
 Death Case No.1478:
-A 88 years old male from Chengalpattu admitted on 04.072020 in
+A 88 years old male from Chengalpattu admitted on 04.07.2020 in
 Chengalpattu Medical College & Hospital, Chennai. COVID test sample
 taken on 25.06.2020. Date of result on 26.06.2020. Outcome of result is
 Positive. The patient died on 04.07.2020 at 05.30 AM due to Respiratory
@@ -6041,7 +6041,7 @@ taken on 28.06.2020. Outcome of result is Positive. The patient died on
 
 
 Death Case No.1637:
-A 55 years old female from Madurai admitted on 02.072020 in Govt Rajaji
+A 55 years old female from Madurai admitted on 02.07.2020 in Govt Rajaji
 Hospital, Madurai. COVID test sample taken on 02.07.2020. Date of result
 on 03.07.2020. Outcome of result is Positive. The patient died on
 05.07.2020 at 10.00 AM due to Acute Respiratory Distress Syndrome /
@@ -15131,7 +15131,7 @@ cough, difficulty in breathing for 4 days and giddiness for 7 days died on
 
 
 Death Case No.2300:
-A 59 years old male, from Chennai with Diabetes mellitus admitted on -
+A 59 years old male, from Chennai with Diabetes mellitus admitted on 
 03.07.2020 at 06.16 AM in a private hospital with complaints of fever for 7
 days and difficulty in breathing for 2 days died on 16.07.2020 at 10.00 AM
 due to Severe COVID-19 Pneumonia / CR Klebsiella Bacteremia / Septic
@@ -15144,7 +15144,7 @@ Shock.
 
 Death Case No.2301:
 A 51 years old male, from Chennai with Hypertension/ Diabetes Mellitus
-and CKD admitted on 20.6.2020 at 2.45 in a private hospital with
+and CKD admitted on 20.06.2020 at 2.45 in a private hospital with
 complaints of fever for 3 days and cough for 2 days died on 16.07.2020 at
 09.25 AM due to Hemorrhage / COVID-19.
 
