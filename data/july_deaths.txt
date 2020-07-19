@@ -11551,7 +11551,7 @@ COVID-19 Pneumonia / ARDS.
 
 Death Case No.2030:
 A 67 Years old Male from Chennai with Diabetes Mellitus / Hypertension
-/ CAD admitted on 06.7.2020 at 07.00 PM at Southern Railway
+/ CAD admitted on 06.07.2020 at 07.00 PM at Southern Railway
 Headquarters Hospital, with Fever for five days, Difficulty in Breathing for
 three days, died on at 12.07.2020 at 03.10 PM due to COVID-19
 Pneumonia / Cardio Pulmonary Arrest.
@@ -13757,7 +13757,7 @@ Syndrome / Viral Pneumonia / COVID Status Positive.
 Death Case No.2200:
 A 45 year old male from Chengalpattu admitted on 04.07.2020 at 04.00 PM
 in Chengalpattu Medical College Hospital. COVID Test sample taken on
-05.07. 2020. Date of result on 06.07.2020. Outcome of result is Positive.
+05.07.2020. Date of result on 06.07.2020. Outcome of result is Positive.
 The patient died on 14.07.2020 at 11.00 AM due to Viral Pneumonia /
 COVID 19 Positive / Respiratory Failure / Cardio Respiratory Arrest.
 
