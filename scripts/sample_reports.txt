@@ -95,3 +95,21 @@ top causes
 1018 pneumonia
 1027 respiratory
 1475 covid
+
+
+
+
+
+select id from cases where admitted_on=''
+select id from cases where died_on=''
+
+
+
+select id from cases where admitted_on=died_on and died_on!=''
+225
+
+
+
+select * from cases where sample_taken_on=result_on and result_on!=''
+
+
