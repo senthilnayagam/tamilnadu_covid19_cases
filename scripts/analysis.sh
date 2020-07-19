@@ -50,6 +50,18 @@ cat ../cases/cases.csv | grep -i "Hypothyroidism" | wc -l
 echo "Cancer"
 cat ../cases/cases.csv | grep -i 'Carcinoma\|cancer' | wc -l
 
+echo "Asthma"
+cat ../cases/cases.csv | grep -i 'Asthma' | wc -l
+
+
+echo "Tuberculosis"
+cat ../cases/cases.csv | grep -i 'Tuberculosis\|ptb' | wc -l
+
+echo "COPD"
+cat ../cases/cases.csv | grep -i 'COPD' | wc -l
+
+
+
 
 echo ""
 echo "## cause of death ##"
