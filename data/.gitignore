@@ -1,4 +1,3 @@
-*.txt
-**/*.txt
+dump/*
 .DS_Store
-**/txt/*
+ignored/*
