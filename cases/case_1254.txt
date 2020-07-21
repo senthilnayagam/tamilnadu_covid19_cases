@@ -1,7 +1,7 @@
 Death Case No.1254:
 A 59 years old male from Chennai with Diabetes Mellitus admitted on
-26.6.2020 in Government Stanley Medical College and Hospital, Chennai.
-COVID test sample taken on 25.6.2020. Date of result on 26.6.2020,
+26.06.2020 in Government Stanley Medical College and Hospital, Chennai.
+COVID test sample taken on 25.06.2020. Date of result on 26.06.2020,
 Outcome of result is Positive. The patient died on 30.06.2020 at 02.25 PM
 due to Poorly Controlled Diabetes Mellitus / Accelerated Hypertension /
 Bronchopneumonia / Respiratory Failure / COVID Positive.

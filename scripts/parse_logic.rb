@@ -1,3 +1,13 @@
+require 'date'
+
+def valid_date?(string)
+  return true if string == 'never'
+
+  !!(string.match(/\d{2}-\d{2}-\d{4}/) && Date.strptime(string, '%d-%m-%Y'))
+rescue ArgumentError
+  false
+end
+
 
 def parse_data(file_string)
 		fs = file_string
@@ -45,19 +55,28 @@ def parse_data(file_string)
 
 		# admitted_on
 		if fs.downcase.include? 'admitted on '
+			begin
 		admitted_on = fs.split("admitted on ")[1].split(" ")[0]
 		admitted_on = admitted_on.gsub(/\.$/, '').gsub('.','-')
-		puts "admitted_on: " + admitted_on
+		puts "##error## admitted_on: " + admitted_on unless valid_date?(admitted_on)
+			rescue StandardError => e 
+			puts e.message 
+
+		end
 
 		end
 
 
 		# died_on
 		if fs.downcase.include? 'died on '
+			begin
 		died_on = fs.split("died on ")[1].split(" ")[0]
 		died_on = died_on.gsub(/\.$/, '').gsub('.','-')
-		puts "died_on: " + died_on
+		puts "##error## died_on: " + died_on unless valid_date?(died_on)
+		rescue StandardError => e 
+			puts e.message 
 
+		end
 		end
 
 		# sample_taken_on
@@ -67,7 +86,8 @@ def parse_data(file_string)
 		begin  
 		sample_taken_on = fs.split(" sample taken on ")[1].split(" ")[0]
 		sample_taken_on = sample_taken_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
-		puts "sample_taken_on: " + sample_taken_on
+		puts "##error## sample_taken_on: " + sample_taken_on unless valid_date?(sample_taken_on)
+
 		rescue StandardError => e 
 			puts e.message 
 
@@ -81,6 +101,7 @@ def parse_data(file_string)
 			begin  
 		result_on = fs.split(" result on ")[1].split(" ")[0]
 		result_on = result_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
+		puts "##error## result_on: " + result_on unless valid_date?(result_on)
 		puts "result_on: " + result_on
 			rescue StandardError => e 
 				puts e.message 

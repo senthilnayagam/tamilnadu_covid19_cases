@@ -1,8 +1,8 @@
 Death Case No.1234:
 A 68 years old male from Chennai with Type 2 Diabetes Mellitus / OLD
 CAD admitted on 24.06.2020 at 04.01 PM in Rajiv Gandhi Government
-General Hospital, Chennai. COVID test sample taken on 17.6.2020 in
-RGGGH. Date of result on 17.6.2020, Outcome of result is Positive. The
+General Hospital, Chennai. COVID test sample taken on 17.06.2020 in
+RGGGH. Date of result on 17.06.2020, Outcome of result is Positive. The
 patient died on 30.06.2020 at 11.45 AM due to Cardiopulmonary Arrest /
 COVID Pneumonia / Type 2 Diabetes Mellitus / OLD CAD.
 

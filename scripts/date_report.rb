@@ -27,7 +27,9 @@ begin
         died_on  = Date.strptime(row['died_on'], '%d-%m-%Y') if row['died_on'] != ''
         sample_taken_on =  Date.strptime(row['sample_taken_on'], '%d-%m-%Y') if row['sample_taken_on'] != ''
         result_on = Date.strptime(row['result_on'], '%d-%m-%Y') if row['result_on'] != ''
-        puts "case: " + row['CaseNumber'].to_s + " # admission to death: " + (died_on-admitted_on).to_i.to_s if died_on !='' && admitted_on !=''
+        #puts "case: " + row['CaseNumber'].to_s + " # admission to death: " + (died_on-admitted_on).to_i.to_s if died_on !='' && admitted_on !=''
+        #puts "Age: " + row['Age'].to_s + " # admission to death: " + (died_on-admitted_on).to_i.to_s if died_on !='' && admitted_on !=''
+        puts row['Age'].to_s + "," + (died_on-admitted_on).to_i.to_s if died_on !='' && admitted_on !=''
 
     rescue ArgumentError => ee
     	puts ee

@@ -1,7 +1,7 @@
 Death Case No.1252:
 A 58 years old male from Thiruvallur with Diabetes Mellitus admitted on
-22.6.2020 in Government Stanley Medical College and Hospital, Chennai.
-Covid test sample taken on 21.6.2020. Date of result on 22.6.2020,
+22.06.2020 in Government Stanley Medical College and Hospital, Chennai.
+Covid test sample taken on 21.06.2020. Date of result on 22.06.2020,
 Outcome of result is Positive. The patient died on 30.06.2020 at 03.50 PM
 due to Septic Shock / Septic Encephalopathy / Diabetic Ketoacidosis /
 COVID Positive.
