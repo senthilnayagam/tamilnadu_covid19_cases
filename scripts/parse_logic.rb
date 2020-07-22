@@ -112,7 +112,6 @@ def parse_data(file_string)
 
 
 
-
 		#death_cause = cause[1] if cause.length ==2
 
 		puts "raw_content:" + fs
@@ -123,6 +122,16 @@ def parse_data(file_string)
 		puts "death_cause:" + death_cause.to_s
 
 		death_case = Hash.new
+
+		# home death
+		if fs.downcase.include? 'home death'
+		death_case["home_death"] = "true"
+		end
+
+		# brought_dead
+		if fs.downcase.include? 'brought dead'
+		death_case["brought_dead"] = "true"			
+		end
 
 
 		death_case["raw_content"] = fs

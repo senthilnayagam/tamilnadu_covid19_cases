@@ -26,12 +26,12 @@ db = SQLite3::Database.open "tamilnadu_case.db"
 db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
-db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, District TEXT, DeathCause TEXT, admitted_on TEXT,died_on TEXT, sample_taken_on TEXT, result_on TEXT)"
+db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, District TEXT, DeathCause TEXT, admitted_on TEXT,died_on TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT)"
 puts "Table created"
 
 puts "Creating data......"
 
-(1..3000).each do |i|  # 1.. 1636 # put a big number so as not to increase the count daily
+(1..5000).each do |i|  # 1.. 1636 # put a big number so as not to increase the count daily
 	filename = "../cases/case_"+i.to_s.rjust(4, "0")+".txt"
 
 	if File.file?(filename)
@@ -45,7 +45,7 @@ puts "Creating data......"
   	end
 
 	db.execute "INSERT INTO Cases (Id, RawContent,
-		CaseNumber, Age, Gender, District, DeathCause,admitted_on,died_on,sample_taken_on,result_on) 
+		CaseNumber, Age, Gender, District, DeathCause ,admitted_on ,died_on, sample_taken_on, result_on, brought_dead, home_death) 
 		VALUES( 
 						#{i}, 
 						'#{res['raw_content']}',
@@ -57,7 +57,9 @@ puts "Creating data......"
 						'#{res['admitted_on']}',
 						'#{res['died_on']}',
 						'#{res['sample_taken_on']}',
-						'#{res['result_on']}'
+						'#{res['result_on']}',
+						'#{res['brought_dead']}',
+						'#{res['home_death']}'
 					)"	
 	end
 end
