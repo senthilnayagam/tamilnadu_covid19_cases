@@ -76,13 +76,13 @@ worksheet.add_cell(row, 0, row)
 end
 
 
-(0..30).each  do |column|
+(0..100).each  do |column|
 worksheet.add_cell(0, column+1, column)
 end    
 
 (0..99).each  do |row|
-    (0..30).each  do |column|
-        worksheet.add_cell(row+1, column+1, grid[row][column]) if grid[row][column] != 0
+    (0..99).each  do |column|
+        worksheet.add_cell(row, column+1, grid[row][column]) if grid[row][column] != 0
     end
 end
 
