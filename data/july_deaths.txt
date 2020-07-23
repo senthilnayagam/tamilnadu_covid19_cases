@@ -3368,7 +3368,7 @@ due to Respiratory Failure / COVID-19.
 
 
 Death Case No.1441:
-A 72 years old male from Chennai with Diabetes admitted on 17.06.2020ina
+A 72 years old male from Chennai with Diabetes admitted on 17.06.2020 in a
 private hospital with complaints of Fever & Cough for 05 days died on
 03.07.2020 at 10.30 AM due to Type-I Respiratory Failure/ COVID-19.
 
@@ -18829,7 +18829,7 @@ Systemic Hypertension.
 
 Death Case No.2550:
 A 68 year old male from Tirupathur with Type 2 Diabetes Mellitus /
-Systemic Hypertension / CVA-Left hemiplegia admitted on 11.07.2020at
+Systemic Hypertension / CVA-Left hemiplegia admitted on 11.07.2020 at
 10.00 PM in Government Dharmapuri Medical College Hospital,
 Dharmapuri. COVID test result on 13.07.2020. Outcome of result is
 Positive. The patient died on 18.07.2020 at 09.30 PM due to COVID
@@ -24199,7 +24199,7 @@ due to Hypoxic respiratory failure / COVID 19.
 
 Death Case No.3166:
 A 43 years old male from Thanjavur with Bronchial Asthma admitted on
-17.07.20 in a private hospital, Trichy with complaints of fever and cough for
+17.07.2020 in a private hospital, Trichy with complaints of fever and cough for
 5 days, died on 20.07.2020 at 05.39 PM due to Severe ARDS / COVID 19
 Pneumonia.
 
@@ -24233,7 +24233,7 @@ Death Case No.3168:
 A 72 years old male from Trichy with Diabetes Mellitus / Hypertension /
 CAD-Post CABG admitted on 12.07.2020 at 11.25 PM. in a private hospital,
 Trichy with complaints of Cough and breathing difficulty for 3 days, died on
-16.07.20 at 10.50 AM due to ARDS /COVID 19 Pneumonia.
+16.07.2020 at 10.50 AM due to ARDS /COVID 19 Pneumonia.
 
 
 
@@ -24429,7 +24429,7 @@ Pneumonia.
 
 Death Case No.3180:
 A 78 year old male from Coimbatore with Diabetes Mellitus admitted on
-13.07.2020in Government Medical College & ESI Hospital, Coimbatore.
+13.07.2020 in Government Medical College & ESI Hospital, Coimbatore.
 COVID test sample taken on 12.07.2020. Date of result on
 13.07.2020.Outcome of result is Positive. The patient died on 18.07.2020 at
 07.30 PM due to Acute Respiratory Distress Syndrome / COVID

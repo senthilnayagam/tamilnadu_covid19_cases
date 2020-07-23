@@ -57,7 +57,7 @@ def parse_data(file_string)
 		if fs.downcase.include? 'admitted on '
 			begin
 		admitted_on = fs.split("admitted on ")[1].split(" ")[0]
-		admitted_on = admitted_on.gsub(/\.$/, '').gsub('.','-')
+		admitted_on = admitted_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
 		puts "##error## admitted_on: " + admitted_on unless valid_date?(admitted_on)
 			rescue StandardError => e 
 			puts e.message 
@@ -71,7 +71,7 @@ def parse_data(file_string)
 		if fs.downcase.include? 'died on '
 			begin
 		died_on = fs.split("died on ")[1].split(" ")[0]
-		died_on = died_on.gsub(/\.$/, '').gsub('.','-')
+		died_on = died_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
 		puts "##error## died_on: " + died_on unless valid_date?(died_on)
 		rescue StandardError => e 
 			puts e.message 
