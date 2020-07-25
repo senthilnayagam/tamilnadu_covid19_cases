@@ -26,7 +26,9 @@ db = SQLite3::Database.open "tamilnadu_case.db"
 db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
-db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, District TEXT, DeathCause TEXT, admitted_on TEXT,died_on TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT)"
+db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, 
+District TEXT, DeathCause TEXT, admitted_on TEXT,died_on TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT,
+comorbidity TEXT,diabetes TEXT, hypertension TEXT, kidney TEXT, heart TEXT)"
 puts "Table created"
 
 puts "Creating data......"
@@ -66,3 +68,28 @@ end
 
 id = db.last_insert_row_id
 puts "The last id of the inserted row is #{id}"
+
+puts "update comorbidity"
+db.execute "UPDATE  Cases SET comorbidity = 'true' WHERE lower(RawContent) like '% from % with %' "
+puts db.changes
+
+
+puts "update diabetes cases"
+db.execute "UPDATE  Cases SET diabetes = 'true' WHERE lower(RawContent)  like '%diabetes%' or lower(RawContent)  like '%t2dm%' or lower(RawContent)  like '%mellitus%'"
+puts db.changes
+
+puts "update hypertension cases"
+db.execute "UPDATE  Cases SET hypertension = 'true' WHERE lower(RawContent)  like '%hypertension%' or lower(RawContent)  like '%shtn%'"
+puts db.changes
+
+puts "update kidney diseases"
+db.execute "UPDATE  Cases SET kidney = 'true' WHERE lower(RawContent)  like '%kidney%' or lower(RawContent)  like '%ckd%'"
+puts db.changes
+
+puts "update heart diseases"
+db.execute "UPDATE  Cases SET heart = 'true' where lower(RawContent)  like '%heart%' or lower(RawContent)  like '%CAD%' "
+puts db.changes
+
+puts "updating additional comorbidity cases"
+db.execute "UPDATE  Cases SET comorbidity = 'true' where diabetes='true' or hypertension='true' or kidney='true' or heart='true'"
+puts db.changes
