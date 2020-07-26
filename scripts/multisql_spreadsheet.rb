@@ -15,7 +15,8 @@ report = [
     ["sheet 3","died on","select distinct died_on, count(died_on) from Cases where died_on !='' group by admitted_on order by count(died_on) desc"],
     ["sheet 4","brought dead","select * from Cases where brought_dead='true' "],
     ["sheet 5","home dead","select * from Cases where home_death='true'"],
-    ["sheet 6","deaths district wise","select distinct district, count(district) from Cases where district !='' group by district order by count(district) desc"]
+    ["sheet 6","deaths district wise","select distinct district, count(district) from Cases where district !='' group by district order by count(district) desc"],
+    ["sheet 7","death by age", "select DISTINCT Age, count(Age) from cases where  AGE !=''  group by Age order by Age"]
 
 ]
 
