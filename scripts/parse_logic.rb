@@ -166,6 +166,8 @@ def parse_data(file_string)
 		death_case["sample_taken_on"]  = sample_taken_on.to_s
 		death_case["result_on"]  = result_on.to_s
 		death_case["death_cause"]  = death_cause.to_s
+		death_case["death_time"]  = time.to_s
+		death_case["death_ampm"]  = ampm.to_s
 
 
 		return death_case

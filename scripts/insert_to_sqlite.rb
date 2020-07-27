@@ -15,6 +15,8 @@ require './parse_logic.rb'
 		death_case["sample_taken_on"]  = sample_taken_on.to_s
 		death_case["result_on"]  = result_on.to_s
 		death_case["death_cause"]  = death_cause.to_s
+		death_case["death_time"]  = time.to_s
+		death_case["death_ampm"]  = ampm.to_s
 	
 =end
 
@@ -27,7 +29,7 @@ db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
 db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, 
-District TEXT, DeathCause TEXT, admitted_on TEXT,died_on TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT,
+District TEXT, DeathCause TEXT, admitted_on TEXT, died_on TEXT, death_time TEXT, death_ampm TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT,
 comorbidity TEXT,diabetes TEXT, hypertension TEXT, kidney TEXT, heart TEXT)"
 puts "Table created"
 
@@ -47,7 +49,7 @@ puts "Creating data......"
   	end
 
 	db.execute "INSERT INTO Cases (Id, RawContent,
-		CaseNumber, Age, Gender, District, DeathCause ,admitted_on ,died_on, sample_taken_on, result_on, brought_dead, home_death) 
+		CaseNumber, Age, Gender, District, DeathCause ,admitted_on , died_on, death_time , death_ampm, sample_taken_on, result_on, brought_dead, home_death) 
 		VALUES( 
 						#{i}, 
 						'#{res['raw_content']}',
@@ -58,6 +60,8 @@ puts "Creating data......"
 						'#{res['death_cause']}',
 						'#{res['admitted_on']}',
 						'#{res['died_on']}',
+						'#{res['death_time']}',
+						'#{res['death_ampm']}',
 						'#{res['sample_taken_on']}',
 						'#{res['result_on']}',
 						'#{res['brought_dead']}',
