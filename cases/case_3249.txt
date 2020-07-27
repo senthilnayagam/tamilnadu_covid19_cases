@@ -2,7 +2,7 @@ Death Case No.3249:
 A 64 Years Female from Virudhunagar with Type-2 Diabetes Mellitus,
 Hypertension admitted on 16.07.2020 at 12.30 PM at private hospital,
 Madurai with Complaints of Fever for 3 days, Cough for 1 day and Difficulty
-in Breathing for 2 days died on 23.07.2020 at 9.35 PM due to Cardiac Arrest
+in Breathing for 2 days died on 23.07.2020 at 09.35 PM due to Cardiac Arrest
 / ARDS / Viral Pneumonia/ COVID-19.
 
 

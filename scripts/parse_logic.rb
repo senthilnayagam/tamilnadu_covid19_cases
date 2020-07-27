@@ -79,6 +79,27 @@ def parse_data(file_string)
 		end
 		end
 
+
+		# death time
+		if fs.downcase.include? 'died on '
+			begin
+		 date_string = fs.split("died on ")[1].split(" ") #[0]
+		 if date_string[1] == 'at'
+		 time = date_string[2]
+		 ampm = date_string[3]
+		 ampm = ampm.upcase.gsub('.','').gsub(',','')
+		 puts "###time: "  + time + ' ' + ampm + ' case:' + case_number
+		end
+
+		#puts "##error## died_on: " + died_on unless valid_date?(died_on)
+		rescue StandardError => e 
+			puts e.message 
+
+		end
+		end
+
+
+
 		# sample_taken_on
 		sample_taken_on = ''
 		if fs.downcase.include? ' sample taken on '
