@@ -1,6 +1,6 @@
 Death Case No.1012:
 A 61 years old male from Chennai with Systemic Hypertension / Type II
-Diabetes Mellitus / CKD V admitted on 17.06.2020 at 05:54 PM in Rajiv
+Diabetes Mellitus / CKD V admitted on 17.06.2020 at 05.54 PM in Rajiv
 Gandhi Government General Hospital, Chennai. COVID test sample taken
 on 17.06.2020 in TVM LAB, Date of result on 17.06.2020, Outcome of result
 is Positive. The patient died on 27.06.2020 at 02.10 AM due to Cardio

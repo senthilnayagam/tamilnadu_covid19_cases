@@ -1,6 +1,6 @@
 Death Case No.283:
 A 56 years old male from Chennai with Type II Diabetes Mellitus admitted
-on 03.06.2020 at 11:57 AM in Rajiv Gandhi Government General Hospital,
+on 03.06.2020 at 11.57 AM in Rajiv Gandhi Government General Hospital,
 Chennai. COVID test sample taken on 01.06.2020 in RGGGH, Date of result
 on 02.06.2020. Outcome of result is Positive. The patient died on 07.06.2020
 at 09.20 AM due to Cardiopulmonary Arrest / COVID-19 Pneumonia / Type

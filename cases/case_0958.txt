@@ -1,7 +1,7 @@
 Death Case No.958:
-A 33 years old male from Chennai admitted on 17.06.2020 11:36 PM in a
+A 33 years old male from Chennai admitted on 17.06.2020 11.36 PM in a
 private hospital with complaints of fever and cough for 05 days and
-difficulty in breathing for 01 day, died on 26.06.2020 at 10:46 AM, due to
+difficulty in breathing for 01 day, died on 26.06.2020 at 10.46 AM, due to
 Severe Acute Respiratory Infection / Bi-lateral Broncho Pneumonia.
 
 
@@ -11,4 +11,4 @@ Severe Acute Respiratory Infection / Bi-lateral Broncho Pneumonia.
 
 
 
- 
+

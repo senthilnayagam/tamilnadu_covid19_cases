@@ -1,7 +1,7 @@
 Death Case No.247:
 A 66 years old male from Chennai admitted on 31.05.2020 with Diabetes
 Mellitus and complaints of Fever for 3 days in a Private Hospital, Chennai
-died on 05.06.2020, 11:15 AM due to Anterior wall Myocardial Infarction
+died on 05.06.2020, 11.15 AM due to Anterior wall Myocardial Infarction
 and Type I Respiratory failure.
 
 
