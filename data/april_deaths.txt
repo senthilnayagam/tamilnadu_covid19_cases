@@ -129,7 +129,7 @@ No Data released
 
 Death Case No.23: 
 34 years old Male admitted at Chrompet GH died due
-to COVID-19 infection on 24.04.2020 at 10.15 PM.
+to COVID-19 infection. died on 24.04.2020 at 10.15 PM.
 
 
 
@@ -139,7 +139,7 @@ to COVID-19 infection on 24.04.2020 at 10.15 PM.
 
 Death Case No.24: 
 42 years old Male admitted at Private Hospital, Chennai
-died due to COVID-19 infection on 25.04.2020 at 04.30 PM.
+died due to COVID-19 infection. died on 25.04.2020 at 04.30 PM.
 
 
 
@@ -149,7 +149,7 @@ died due to COVID-19 infection on 25.04.2020 at 04.30 PM.
 
 Death Case No.25: 
 A 68 year old male from Chennai admitted in private
-hospital died due to COVID-19 infection on 28.04.2020.
+hospital died due to COVID-19 infection. died on 28.04.2020.
 
 
 
@@ -159,7 +159,7 @@ hospital died due to COVID-19 infection on 28.04.2020.
 
 Death Case No.26: 
 A 65 year old male from Chennai admitted in RGGGH died due
-to COVID-19 infection on 29.04.2020.
+to COVID-19 infection. died on 29.04.2020.
 
 
 

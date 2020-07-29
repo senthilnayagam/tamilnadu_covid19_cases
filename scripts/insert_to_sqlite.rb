@@ -28,9 +28,9 @@ db = SQLite3::Database.open "tamilnadu_case.db"
 db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
-db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, RawContent TEXT, CaseNumber INTEGER, Age INTEGER DEFAULT 0, Gender TEXT, 
+db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, CaseNumber INTEGER,  Age INTEGER DEFAULT 0, Gender TEXT, 
 District TEXT, DeathCause TEXT, admitted_on TEXT, died_on TEXT, death_time TEXT, death_ampm TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT,
-comorbidity TEXT,diabetes TEXT, hypertension TEXT, kidney TEXT, heart TEXT)"
+comorbidity TEXT,diabetes TEXT, hypertension TEXT, kidney TEXT, heart TEXT, RawContent TEXT)"
 puts "Table created"
 
 puts "Creating data......"
@@ -48,7 +48,7 @@ puts "Creating data......"
 
   	end
 
-	db.execute "INSERT INTO Cases (Id, RawContent,
+	 sql = "INSERT INTO Cases (Id, RawContent,
 		CaseNumber, Age, Gender, District, DeathCause ,admitted_on , died_on, death_time , death_ampm, sample_taken_on, result_on, brought_dead, home_death) 
 		VALUES( 
 						#{i}, 
@@ -67,6 +67,9 @@ puts "Creating data......"
 						'#{res['brought_dead']}',
 						'#{res['home_death']}'
 					)"	
+	sql = sql.gsub(/\s+/, ' ')
+	puts(sql)
+	db.execute sql
 	end
 end
 

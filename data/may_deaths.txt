@@ -1,6 +1,6 @@
 Death Case No. 28: 
 A 98 year old male from Chennai admitted in
-Omandurar MCH died due to COVID-19 infection on 01.05.2020 at
+Omandurar MCH died due to COVID-19 infection. died on 01.05.2020 at
 10.20 AM.
 
 
@@ -11,7 +11,7 @@ Omandurar MCH died due to COVID-19 infection on 01.05.2020 at
 
 Death Case No.29: 
 A 76 year old female from Chennai admitted in RGGGH died
-due to COVID-19 infection on 01.05.2020 at 05.30 PM.
+due to COVID-19 infection. died on 01.05.2020 at 05.30 PM.
 
 
 
@@ -21,7 +21,7 @@ due to COVID-19 infection on 01.05.2020 at 05.30 PM.
 
 Death Case No.30: 
 A 44 years old male from Coimbatore admitted in RGGGH died
-due to COVID-19 infection on 03.05.2020 at 02.15 PM.
+due to COVID-19 infection. died on 03.05.2020 at 02.15 PM.
 
 
 
@@ -31,8 +31,7 @@ due to COVID-19 infection on 03.05.2020 at 02.15 PM.
 
 Death Case No.31: 
 A 65 years old male with comorbidities from Chennai admitted
-in Stanley Medical College died due to COVID-19 infection on 04.05.2020 at 12.45
-AM.
+in Stanley Medical College died due to COVID-19 infection. died on 04.05.2020 at 12.45 AM.
 
 
 
