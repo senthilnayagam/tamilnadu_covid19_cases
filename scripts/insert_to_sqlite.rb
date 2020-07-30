@@ -1,6 +1,7 @@
 require 'sqlite3'
 require 'pp'
 require './parse_logic.rb'
+require 'csv'
 
 
 =begin
@@ -19,6 +20,17 @@ require './parse_logic.rb'
 		death_case["death_ampm"]  = ampm.to_s
 	
 =end
+
+
+
+if ARGV.length == 1
+$debug = 1
+else
+$debug = 0
+end	
+
+
+
 
 
 SQLite3::Database.new "tamilnadu_case.db"
@@ -68,7 +80,7 @@ puts "Creating data......"
 						'#{res['home_death']}'
 					)"	
 	sql = sql.gsub(/\s+/, ' ')
-	puts(sql)
+	puts(sql) if $debug==1
 	db.execute sql
 	end
 end
@@ -100,3 +112,35 @@ puts db.changes
 puts "updating additional comorbidity cases"
 db.execute "UPDATE  Cases SET comorbidity = 'true' where diabetes='true' or hypertension='true' or kidney='true' or heart='true'"
 puts db.changes
+
+
+# add hospitals
+hospital_list = ["Category-I-Dedicated-COVID-Hospitals-DCH.pdf.csv",
+"Category-II-Dedicated-COVID-Health-Center-DCHC.pdf.csv",
+"Category-III-Dedicated-COVID-Center-DCCC.pdf.csv"]
+
+db.execute "DROP TABLE IF EXISTS Hospitals"
+db.execute "CREATE TABLE Hospitals(Id INTEGER PRIMARY KEY AUTOINCREMENT, District TEXT, Hospital TEXT, Type TEXT)"
+
+hospital_list.each do |i|  # 1.. 1636 # put a big number so as not to increase the count daily
+	filename = "../data/hospitals/" + i
+	puts(filename) if $debug==1
+	if File.file?(filename)
+	
+	table = CSV.parse(File.read(filename), headers: true)
+		table.each do |row|
+		puts row["District"].to_s.strip + "," + row["Hospital"].to_s.strip + "," + row["Type"].to_s.strip  if $debug==1
+		sql = "INSERT INTO Hospitals (District, Hospital ,Type) 
+				VALUES( 
+								'#{row['District']}',
+								'#{row['Hospital']}',
+								'#{row['Type']}'
+							)"	
+			sql = sql.gsub(/\s+/, ' ')
+			puts(sql)  if $debug==1
+			db.execute sql
+		end
+	 
+	end
+end
+

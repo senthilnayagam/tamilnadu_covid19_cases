@@ -1,5 +1,11 @@
 require 'date'
 
+if ARGV.length == 1
+$debug = 1
+else
+$debug = 0
+end	
+
 def valid_date?(string)
   return true if string == 'never'
 
@@ -88,7 +94,7 @@ def parse_data(file_string)
 		 time = date_string[2]
 		 ampm = date_string[3]
 		 ampm = ampm.upcase.gsub('.','').gsub(',','')
-		 puts "###time: "  + time + ' ' + ampm + ' case:' + case_number
+		 puts "###time: "  + time + ' ' + ampm + ' case:' + case_number if $debug==1
 		end
 
 		#puts "##error## died_on: " + died_on unless valid_date?(died_on)
@@ -123,7 +129,7 @@ def parse_data(file_string)
 		result_on = fs.split(" result on ")[1].split(" ")[0]
 		result_on = result_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
 		puts "##error## result_on: " + result_on unless valid_date?(result_on)
-		puts "result_on: " + result_on
+		puts "result_on: " + result_on if $debug==1
 			rescue StandardError => e 
 				puts e.message 
 
@@ -135,12 +141,14 @@ def parse_data(file_string)
 
 		#death_cause = cause[1] if cause.length ==2
 
-		puts "raw_content:" + fs
-		puts "case_number:" + case_number
-		puts "age:" + age.to_s
-		puts "gender:" + gender.to_s
-		puts "district:" + district.to_s
-		puts "death_cause:" + death_cause.to_s
+		if $debug==1
+			puts "raw_content:" + fs
+			puts "case_number:" + case_number
+			puts "age:" + age.to_s
+			puts "gender:" + gender.to_s
+			puts "district:" + district.to_s
+			puts "death_cause:" + death_cause.to_s
+		end
 
 		death_case = Hash.new
 
