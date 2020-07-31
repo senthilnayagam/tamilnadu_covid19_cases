@@ -66,6 +66,7 @@ def parse_data(file_string)
 		admitted_on = admitted_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
 		puts "##error## admitted_on: " + admitted_on unless valid_date?(admitted_on)
 			rescue StandardError => e 
+			puts "case:" + case_number.to_s
 			puts e.message 
 
 		end
@@ -76,30 +77,48 @@ def parse_data(file_string)
 		# died_on
 		if fs.downcase.include? 'died on '
 			begin
-		died_on = fs.split("died on ")[1].split(" ")[0]
-		died_on = died_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
-		puts "##error## died_on: " + died_on unless valid_date?(died_on)
-		rescue StandardError => e 
-			puts e.message 
+				dd, mm, yyyy =0,0,0
+				weekday = ''
+				died_on = fs.split("died on ")[1].split(" ")[0]
+				died_on = died_on.gsub(/\.$/, '').gsub(/,$/, '').gsub('.','-')
+				puts "##error## died_on: " + died_on unless valid_date?(died_on)
+				dd, mm, yyyy= died_on.split('-')
+				weekday = Time.new(yyyy,mm,dd).strftime('%A')
 
-		end
+			rescue StandardError => e 
+				puts "case:" + case_number.to_s
+				puts e.message 
+
+			end
 		end
 
 
 		# death time
 		if fs.downcase.include? 'died on '
 			begin
-		 date_string = fs.split("died on ")[1].split(" ") #[0]
-		 if date_string[1] == 'at'
-		 time = date_string[2]
-		 ampm = date_string[3]
-		 ampm = ampm.upcase.gsub('.','').gsub(',','')
-		 puts "###time: "  + time + ' ' + ampm + ' case:' + case_number if $debug==1
-		end
+				 date_string = fs.split("died on ")[1].split(" ") #[0]
+				 if date_string[1] == 'at'
+				 time = date_string[2]
+				 ampm = date_string[3]
+				 ampm = ampm.upcase.gsub('.','').gsub(',','')
+				 puts "###time: "  + time + ' ' + ampm + ' case:' + case_number if $debug==1
+				 hour,minute = time.split('.')
+
+				if ampm =='PM' and hour.to_i !=12
+				 hour =  hour.to_i + 12 
+				end
+				if ampm =='AM' and hour.to_i ==12
+				 hour =  0 
+				end
+
+				 #hour, ampm= 0,'AM'  if hour==24
+				end
 
 		#puts "##error## died_on: " + died_on unless valid_date?(died_on)
 		rescue StandardError => e 
+			puts "case:" + case_number.to_s
 			puts e.message 
+			puts time
 
 		end
 		end
@@ -116,6 +135,7 @@ def parse_data(file_string)
 		puts "##error## sample_taken_on: " + sample_taken_on unless valid_date?(sample_taken_on)
 
 		rescue StandardError => e 
+			puts "case:" + case_number.to_s
 			puts e.message 
 
 		end
@@ -131,6 +151,7 @@ def parse_data(file_string)
 		puts "##error## result_on: " + result_on unless valid_date?(result_on)
 		puts "result_on: " + result_on if $debug==1
 			rescue StandardError => e 
+				puts "case:" + case_number.to_s
 				puts e.message 
 
 			end
@@ -176,6 +197,12 @@ def parse_data(file_string)
 		death_case["death_cause"]  = death_cause.to_s
 		death_case["death_time"]  = time.to_s
 		death_case["death_ampm"]  = ampm.to_s
+		death_case["dd"]  = dd.to_i
+		death_case["mm"]  = mm.to_i
+		death_case["yyyy"]  = yyyy.to_i
+		death_case["weekday"]  = weekday.to_s
+		death_case["hour"]  = hour.to_i
+		death_case["minute"]  = minute.to_i
 
 
 		return death_case

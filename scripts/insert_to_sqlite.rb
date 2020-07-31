@@ -41,7 +41,7 @@ db.execute "DROP TABLE IF EXISTS Cases"
 puts "Drop table cases if present"
 
 db.execute "CREATE TABLE Cases(Id INTEGER PRIMARY KEY, CaseNumber INTEGER,  Age INTEGER DEFAULT 0, Gender TEXT, 
-District TEXT, DeathCause TEXT, admitted_on TEXT, died_on TEXT, death_time TEXT, death_ampm TEXT, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT,
+District TEXT, DeathCause TEXT, admitted_on TEXT, died_on TEXT, death_time TEXT, death_ampm TEXT, dd INTEGER, mm INTEGER, yyyy INTEGER, weekday TEXT, hour INTEGER , minute INTEGER, sample_taken_on TEXT, result_on TEXT,brought_dead TEXT, home_death TEXT,
 comorbidity TEXT,diabetes TEXT, hypertension TEXT, kidney TEXT, heart TEXT, RawContent TEXT)"
 puts "Table created"
 
@@ -61,7 +61,7 @@ puts "Creating data......"
   	end
 
 	 sql = "INSERT INTO Cases (Id, RawContent,
-		CaseNumber, Age, Gender, District, DeathCause ,admitted_on , died_on, death_time , death_ampm, sample_taken_on, result_on, brought_dead, home_death) 
+		CaseNumber, Age, Gender, District, DeathCause ,admitted_on , died_on, death_time , death_ampm, sample_taken_on, result_on, brought_dead, home_death,dd,mm,yyyy,weekday,hour,minute) 
 		VALUES( 
 						#{i}, 
 						'#{res['raw_content']}',
@@ -77,7 +77,13 @@ puts "Creating data......"
 						'#{res['sample_taken_on']}',
 						'#{res['result_on']}',
 						'#{res['brought_dead']}',
-						'#{res['home_death']}'
+						'#{res['home_death']}',
+						'#{res['dd']}',
+						'#{res['mm']}',
+						'#{res['yyyy']}',
+						'#{res['weekday']}',
+						'#{res['hour']}',
+						'#{res['minute']}'
 					)"	
 	sql = sql.gsub(/\s+/, ' ')
 	puts(sql) if $debug==1
