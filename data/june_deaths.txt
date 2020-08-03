@@ -1976,7 +1976,7 @@ Severe Respiratory Depression.
 
 Death Case No.353:
 A 74 years old male from Chennai with complaints of difficulty in breathing for
-3days with Diabetes Mellitus & Hypertension admitted on 07.06.2020 in a
+3 days with Diabetes Mellitus & Hypertension admitted on 07.06.2020 in a
 private hospital, Chennai, died on 10.06.2020 at 06.40 pm due to COVID-19
 Pneumonia / Septic Shock.
 
@@ -11510,7 +11510,7 @@ Mellitus / Systemic Hypertension / COVID positive.
 Death Case No.1026:
 A 29 years old male from Chengalpattu admitted on 16.06.2020 at 23.02
 PM in a private hospital with complaints of fever for 3 days and cough and
-difficulty in breathing for 2days,headache for 3days and died on 28.06.2020
+difficulty in breathing for 2 days,headache for 3days and died on 28.06.2020
 at 08.35 AM due to Type -1 Respiratory Failure.
 
 
@@ -11522,8 +11522,8 @@ at 08.35 AM due to Type -1 Respiratory Failure.
 
 Death Case No.1027:
 A 58 Years old Male from Chennai admitted on 19.06.2020 at 05.47 PM in
-a private hospital with complaints of fever and cough for 2days and
-difficulty in breathing for 1day and died on 27.06.2020 at 01.19 PM due to
+a private hospital with complaints of fever and cough for 2 days and
+difficulty in breathing for 1 day and died on 27.06.2020 at 01.19 PM due to
 Type-II Respiratory Failure / Severe Acute Respiratory Distress
 Syndrome / Multi Organ Dysfunction Syndrome.
 
@@ -11536,7 +11536,7 @@ Syndrome / Multi Organ Dysfunction Syndrome.
 
 Death Case No.1028:
 A 61 years old male from Chennai admitted on 16.06.2020 in a private
-hospital at Chennai with complaints of fever for 2days and died on
+hospital at Chennai with complaints of fever for 2 days and died on
 27.06.2020 at 10.08 PM due to Severe Acute Respiratory Distress
 Syndrome / Sepsis.
 
@@ -11549,7 +11549,7 @@ Syndrome / Sepsis.
 
 Death Case No.1029:
 A 59 Years old male from Chennai admitted on 23.06.2020 at 03.46 PM in a
-private hospital with complaints of fever and cough for 2days and died on
+private hospital with complaints of fever and cough for 2 days and died on
 28.06.2020 at 05.30 AM due to Severe Acute Respiratory Distress
 Syndrome / Multi Organ Dysfunction Syndrome.
 
@@ -11625,7 +11625,7 @@ A 84 years old male from Chennai with Diabetes Mellitus admitted on
 Death Case No.1035:
 A 17 years old male from Thiruvallur with Vitamin D deficiency and hypo
 parathyroidism admitted on 26.06.2020 at 02.26 AM in a private medical
-college with complaints of difficulty in breathing for 2days, headache for
+college with complaints of difficulty in breathing for 2 days, headache for
 3days and died on 27.06.2020 at 03.20 PM, due to Type-I Respiratory
 Failure & ? Cardiomyopathy.
 
@@ -11640,7 +11640,7 @@ Death Case No.1036:
 A 65 years old male from Chennai with Bronchial Asthma and Systemic
 Hypertension admitted on 24.06.2020 at 01.15 PM at ESIC Medical College
 & PGIMSR, K.K Nagar, Chennai with complaints of fever and difficulty in
-breathing for 3days died on 27.06.2020 at 04.40 PM due to Severe Acute
+breathing for 3 days died on 27.06.2020 at 04.40 PM due to Severe Acute
 Respiratory Distress Syndrome / Respiratory Failure.
 
 

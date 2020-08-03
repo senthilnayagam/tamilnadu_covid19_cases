@@ -1026,7 +1026,7 @@ Pneumonia / Systemic Hypertension.
 
 Death Case No. 3991:
 A 82 years old male from Tenkasi with Type 2 Diabetes Mellitus admitted
-on 26.07.2020in Tirunelveli Medical College Hospital. COVID test sample
+on 26.07.2020 in Tirunelveli Medical College Hospital. COVID test sample
 taken on 25.07.2020. Outcome of result is Positive. The patient died on
 29.07.2020 at 10.30 PM due to Acute Respiratory Failure / Viral
 Pneumonia / COVID Positive / Type 2 Diabetes Mellitus.
@@ -1045,7 +1045,7 @@ Pneumonia / COVID Positive / Type 2 Diabetes Mellitus.
 
 Death Case No. 3992:
 A 50 years old male from Tenkasi with Systemic Hypertension / COPD
-admitted on 16.07.2020in Tirunelveli Medical College Hospital. COVID test
+admitted on 16.07.2020 in Tirunelveli Medical College Hospital. COVID test
 sample taken on 23.07.2020. Outcome of result is Positive. The patient died
 on 29.07.2020 at 02.30 PM due to Acute Respiratory Failure / Viral
 Pneumonia / COVID Positive / Systemic Hypertension / COPD.
@@ -1104,7 +1104,7 @@ Positive / Type 2 Diabetes Mellitus / Pulmonary Tuberculosis.
 
 Death Case No. 3995:
 A 57 years old male from Tenkasi with Systemic Hypertension admitted on
-28.07.2020in Tirunelveli Medical College Hospital. COVID test sample taken
+28.07.2020 in Tirunelveli Medical College Hospital. COVID test sample taken
 on 28.07.2020. Outcome of result is Positive. The patient died on
 29.07.2020 at 11.15 PM due to Acute Respiratory Failure / Viral
 Pneumonia / COVID Positive / Systemic Hypertension.
@@ -1123,7 +1123,7 @@ Pneumonia / COVID Positive / Systemic Hypertension.
 
 Death Case No. 3996:
 A 68 years old male from Tirunelveli with Type 2 Diabetes Mellitus
-admitted on 25.07.2020in Tirunelveli Medical College Hospital. COVID test
+admitted on 25.07.2020 in Tirunelveli Medical College Hospital. COVID test
 sample taken on 24.07.2020. Outcome of result is Positive. The patient died
 on 29.07.2020 at 03.00 AM due to Viral Pneumonia / COVID Positive /
 Type 2 Diabetes Mellitus.
@@ -2703,7 +2703,7 @@ Metastasis / Type 2 Diabetes Mellitus / Systemic Hypertension.
 
 Death Case No.4080:
 A 75 years old male from Chengalpattu with Systemic Hypertension
-admitted on 23.07.2020in Chengalpattu Medical College Hospital. COVID
+admitted on 23.07.2020 in Chengalpattu Medical College Hospital. COVID
 test sample taken on 21.07.2020. Date of result is 22.07.2020. Outcome of
 result is Positive. The patient died on 30.07.2020 at 04.30 PM due to
 Respiratory Failure / Hypoxic Encephalopathy / Systemic
@@ -2804,7 +2804,7 @@ Syndrome / Seizure Disorder.
 
 Death Case No.4085:
 A 46 years old female from Coimbatore with Type 2 Diabetes Mellitus /
-Systemic Hypertension admitted on 24.07.2020 at 02.16PM in Coimbatore
+Systemic Hypertension admitted on 24.07.2020 at 02.16 PM in Coimbatore
 Medical College Hospital. COVID test date taken on 24.07.2020. Date of
 result on 25.07.2020. Outcome of result is Positive. The patient died on
 31.07.2020 at 10.00 AM due to Cerebrovascular Accident / Haemorrhagic
@@ -3087,7 +3087,7 @@ A 80 years old male from Coimbatore with Type 2 Diabetes Mellitus
 admitted on 30.07.2020 at 02.57 PM in Coimbatore Medical College
 Hospital. COVID test date taken on 30.07.2020. Date of result on
 30.07.2020. Outcome of result is Positive. The patient died on 31.07.2020 at
-10.1 5AM due to COVID 19 Positive / Bilateral Bronchopneumonia
+10.15 AM due to COVID 19 Positive / Bilateral Bronchopneumonia
 /Acute Respiratory Distress Syndrome / Type 2 Diabetes mellitus.
 
 
@@ -3713,6 +3713,1653 @@ result on 26.07.2020. Outcome of result is positive. The patient died on
 31.07.2020 at 07.50 PM due to Respiratory Failure / COVID Pneumonia /
 Chronic Kidney Disease / Hypertension / Diabetes.
 
+
+
+
+
+
+
+
+
+
+
+
+Death Case No.4133:
+A 55 years old male, from Chennai with Diabetes Mellitus admitted on
+01.08.2020 in a private hospital with complaints of Fever, Difficulty in
+Breathing for 1 day and Cough for 3 days and Sudden chest Pain, died on
+02.08.2020 at 09.39 AM due to COVID Pneumonia/RespiratoryArrest.
+
+
+
+
+
+
+
+
+
+Death Case No.4134
+A 68 years old male, from Virudhunagar with Type 2 DM admitted on
+26.07.2020 at 08.00 PM in a private hospital , Madurai with complaints of
+Fever for 19 days Difficulty in Breathing for 9 days Diarrhorea 13 Days, died
+on 02.08.2020 at 03.15 PM due to ARDS / COVID-19 Viral Pneumonitis.
+
+
+
+
+
+
+
+
+
+Death Case No.4135:
+A 72 years old male, from Virudhunagar with T2 DM / System
+Hypertension admitted on 21.07.2020 at 10.45 PM in a private hospital,
+with complaints of Fever,Cough and Difficulty in Breathing for 6 days, died
+on 02.08.2020 at 05.20 AM due to Viral Pneumonitis / COVID-19
+Pneumonia / Hypoxic Respiratory Failure / ARDS.
+
+
+
+
+
+
+
+
+
+Death Case No.4136:
+A 72 years old male, from Chengalpattu with T2 DM /SHTN admitted on
+29.07.2020 at 10.07 AM in a private Medical College,, with complaints of
+Fever for 9 days and Difficulty in Breathing for 1 day Nausea, Headache,
+died on 01.08.2020 at 10.01 PM due to COVID-19 /Viral
+Pneumonia/Respiratory-Failure.
+
+
+
+
+
+
+
+
+
+Death Case No.4137:
+A 70 years old male, from Karur with T2 DM / SHTN / CAD / Post CABG
+admitted on 22.07.2020 in a private hospital, with complaints of Fever for 6
+days Cough for 5 days Difficulty in Breathing for 2 days, died on 01.08.2020
+at 10.35 PM due to Viral Pneumonia / HypoxiA / ARDS /Respiratory-
+Failure.
+
+
+
+
+
+
+
+
+
+Death Case No.4138:
+A 86 years old male, from Chennai with Hypertension /Chronic Kidney
+Disease admitted on 30.07.2020 at 07.22 PM in a private hospital, with
+complaints of Cough for 5 days, died on 02.08.2020 at 08.25 AM due to
+Cardio Respiratory Failure / Chronic Kidney-Disease / COVID-19-
+Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4139:
+A 78 years old male, from Vellore, admitted on 28.07.2020 at 02.00 AM in a
+private Medical College, Vellore, with complaints of Difficulty in Breathing
+for 4 days duration, died on 01.08.2020 at 06.25 AM due to T-1
+Respiratory Failure / Severe COVID-19 Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4140:
+A 71 years old male, from Ranipet with T2 DM / Systemic Hypertension
+admitted on 31.07.2020 at 03.24 AM in a private Medical College, Vellore,
+with complaints of Fever for 2 days, Difficulty in Breathing for 1 day, died on
+01.08.2020 at 07.50 PM due to Acute T1 Respiratory Failure / COVID-19
+Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4141:
+A 35 years old female, from Ranipet with Bronchial Asthma /
+Spondyloarthropathy / Obesity admitted on 01.08.2020 at 12.10 PM in a
+private Medical College, Vellore with complaints of Abdominal Pain for 4
+days Difficulty in Breathing for 1 day, died on 02.08.2020 at 12.45 AM due
+to Severe Acute Respiratory Distress Syndrome / Severe MODS
+/COVID19.
+
+
+
+
+
+
+
+
+
+Death Case No.4142:
+A 70 years Old male, from Chengalpattu with T2 DM / HTN / Parkinsons
+admitted on 27.07.2020 in a private Hospital, died on 02.08.2020 at 01.00
+PM due to ARDS / COVID-19 .
+
+
+
+
+
+
+
+
+
+Death Case No.4143:
+A 76 years old female, from Chennai with T2 DM / SHTN admitted on
+29.07.2020 at 09.20 PM in a private Hospital, with complaints of difficulty
+in breathing for 1 day, decreased appetite, altered sensorium for 3 days died
+on 02.08.2020 at 04.10 PM due to Septic Shock / Respiratory Failure /
+COVID-19 Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4144:
+A 79 years old female, from Chennai with Cholangio Carcinoma /
+Hypothyroidism / HTN admitted on 31.07.2020 at 10.20 AM in a private
+Hospital, with complaints of Difficulty in Breathing, died on 01.08.2020 at
+11.30 AM due to Cardio Arrest / Cardio Pulmonary Arrest / COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4145:
+A 58 years old male, from Kanchipuram with T2 DM admitted on
+31.07.2020 at 01.04 PM in a private Medical College Hospital, with
+complaints of Fever,Cough for 5 days Difficulty in Breathing for 1 day, died
+on 02.08.2020 at 06.32 AM due to MODS / COVID-19 Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4146:
+A 51 years old male, from Thiruvallur with T2 DM admitted on 18.07.2020
+at 04.41 PM in a private Medical College, with complaints of Fever Cough
+and Difficulty in Breathing for 3 days, died on 02.08.2020 at 02.55 PM due
+to Cardio Pulmonary Arrest / COVID-19 Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4147:
+A 82 years old male, from Thiruvallur with T2 DM / SHTN / Old CVA
+admitted on 27.07.2020 at 06.03 PM in a private Medical College, with
+complaints of Fever Cough and Difficulty in Breathing for 6 days, died on
+02.08.2020 at 07.00 AM due to ARDS / Septic Shock / AKI / COVID-19
+Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4148:
+A 26 years old Female, from Madurai with Hypothyroidism / PCOD &
+Morbid Obesity admitted on 18.07.2020 at 10.45 PM in a private Hospital,
+Madurai with complaints of fever, cough and difficulty in breathing died on
+02.08.2020 at 07.58 AM due to Cardio Respiratory Arrest / COVID-19 /
+Severe Viral Pneumonitis.
+
+
+
+
+
+
+
+
+
+Death Case No.4149:
+A 63 years old male, from Thootukudi, with T2 DM / SHTN admitted on
+28.07.2020 at 01.17 AM in a private Medical College Hospital, Madurai with
+complaints of cough and difficulty in breathing for 7 days and loss of taste
+died on 02.08.2020 at 03.49 AM due to Sepsis / Septic shock / Viral
+Pneumonia / COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4150:
+A 58 Years old male, from Chengalpattu with SHTN / DM admitted on
+30.07.2020 at 07.14 AM in a private Hospital, with complaints of cough for
+10 days and difficulty in breathing for 2 days died on 02.08.2020 at 02.25
+AM due to Acute Respiratory Distress Syndrome / Bilateral Viral
+Pneumonia / COVID-19 / Sepsis.
+
+
+
+
+
+
+
+
+
+Death Case No.4151:
+A 59 years old female, from Ranipet, with DM admitted on 30.07.2020 at in
+a private Medical College, Vellore with complaints of right shoulder pain and
+severe restriction of movement right shoulder joint for one day died on
+02.08.2020 at 08.30 AM due to Multi focal septic arthritis/ Necrotising
+fasciitis of right arm / Septic Shock / AKI / COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4152:
+A 80 Years old female, from Chennai with Hypothyroidism admitted on
+02.08.2020 at 09.56 PM in a private hospital died on 02.08.2020 at 10.20
+PM due to Severe ARDS / Type I Respiratory Failure / Severe COVID-19
+Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4153:
+A 59 Years old male, from Thoothukudi with HTN / Polycythemia admitted
+on 26.07.2020 at 08.35 PM in a private hospital with complaints of fever for
+11 days and difficulty in breathing for 8 days died on 02.08.2020 at 10.55
+AM due to Shock / MODS / COVID-19 Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4154:
+A 65 years old male, from Chennai with DM / HTN / CAD admitted on
+29.07.2020 at 05.03 PM in a private medical college and hospital with
+complaints of fever, myalgia for 3 days died on 01.08.2020 at 12.49 PM due
+to ARDS / Type I Respiratory Failure / COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4155
+A 17 years old male, from Chennai with Hepatic Encepalopathy admitted
+on 22.07.2020 in a private hospital with complaints of Fever for 2 days,&
+altered sensorium, died on 31.07.2020 at 09.25 PM due to Sepsis / MODS
+/ Intracranial HT / COVID-19.
+
+
+
+
+
+
+
+
+
+
+Death Case No.4156:
+A 71 years old male, from Kanchipuram with T2 DM admitted on
+25.07.2020 at 11.00 PM at Government HeadQuarters Hospital,
+Kanchipuram, with complaints of Fever for 4 days Difficulty in Breathing 5
+Days, died on 01.08.2020 at 10.10 PM due to Respiratory Failure /
+COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4157:
+A 75 years old male, from Kanchipuram with admitted on 29.07.2020 at
+08.55 PM at Government HeadQuarters Hospital, Kanchipuram, died on
+01.08.2020 at 09.15 PM due to COVID Pneumonia / Respiratory-Failure.
+
+
+
+
+
+
+
+
+
+Death Case No.4158:
+A 69 years old male from Dindigul with T2 DM / Parkinsons / Bed Sore
+admitted on 01.08.2020 at 04.45 PM at Government HeadQuarters Hospital,
+Dindigul with complaints of fever, cough and difficulty in breathing, died on
+02.08.2020 at 05.35 AM due to Respiratory Failure/COVID-19.
+Death Case No.4159:
+
+
+
+
+
+
+
+
+
+A 51 Years old male, from Virudhunagar with T2 DM / Cerebero vascular
+Accident admitted on 28.07.2020 at 05.25 PM at Govt. Medical College
+Hospital, Virudhunagar with complaints of difficulty in breathing for 3 days
+died on 28.07.2020 at 05.35 PM due to Respiratory Failure / COVID-19 /
+Viral Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4160:
+A 60 Years old male, with DM from Ramanathapuram, admitted on
+25.07.2020 at 11.38 AM at Govt. Medical College Hospital,
+Ramanathapuram with complaints of fever, cough and difficulty in
+breathing for 5 days died on 02.08.2020 at 04.30 PM Due to ARDS / Viral
+Pneumonitis / Respiratory Failure / COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4161:
+A 49 years old female, with Obesity admitted on 31.07.2020 at 06.56 PM at
+Govt. Medical College Hospital, Ramanathapuram with complaints of fever
+for 2 days, cough and difficulty in breathing for 1 day died on 02.08.2020 at
+05.45 PM due to Viral Pneumonia / ARDS / Respiratory Failure /
+COVID-19.
+
+
+
+
+
+
+
+
+
+Death Case No.4162:
+A 66 Years old male, from Tirupattur, with DM / SHTN admitted on
+22.07.2020 at 12.30 AM at Govt. HeadQuarters Hospital, Krishnagiri with
+complaints of difficulty in breathing for 5 days died on 02.08.2020 at 05.30
+PM due to Type II Respiratory Failure / COVID-19.
+
+
+
+
+
+
+
+
+
+
+Death Case No.4163:
+A 76 Years old female, from Chennai, with CKD / Old CVA / SHTN
+admitted on 12.07.2020 at 08.15 PM at Southern Railway HeadQuarters
+Hospital, Perambur with complaints of giddiness for 1 day died on
+02.08.2020 at 03.30 PM due to ARDS / Severe COVID-19 Pneumonia /
+Cardio Pulmonary Arrest.
+
+
+
+
+
+
+
+
+
+Death Case No.4164:
+A 75 years old male from Coimbatore admitted on 31.07.2020 in
+Government Medical College & ESI Hospital, Coimbatore. COVID test
+sample taken on 16.07.2020. Outcome of result is positive. The patient died
+on 01.08.2020 at 03.35 PM due to Acute Respiratory Distress Syndrome
+/ COVID Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4165:
+A 73 years old male from Coimbatore with Systemic Hypertension
+admitted on 28.07.2020 in Government Medical College & ESI Hospital,
+Coimbatore. COVID test outcome of result is positive. The patient died on
+01.08.2020 at 07.30 PM due to Acute Respiratory Distress Syndrome /
+COVID Pneumonia.
+
+
+
+
+
+
+
+
+
+
+Death Case No.4166:
+A 55 years old male from Coimbatore admitted on 27.07.2020 at 04.40 PM
+in Government Medical College & ESI Hospital, Coimbatore. COVID test
+sample taken on 25.07.2020. Outcome of result is positive. The patient died
+on 02.08.2020 at 05.00 AM due to Acute Respiratory Distress Syndrome
+/ COVID Pneumonia.
+
+
+
+
+
+
+
+
+
+
+Death Case No.4167:
+A 63 years old female from Sivagangai admitted on 01.08.2020 at 02.04 PM
+in Sivagangai Medical College Hospital. COVID test date of result on
+01.08.2020. Outcome of result is Positive. The patient died on 01.08.2020 at
+09.30 PM due to COVID 19 Positive / Bilateral Pneumonia / Acute
+Respiratory Distress Syndrome /Coronary Artery Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4168:
+A 54 years old male from Thiruvannamalai District admitted on
+28.07.2020 at 07.36 PM in Thiruvannamalai Medical College Hospital.
+COVID test sample date of result on 28.07.2020. Outcome of result is
+Positive. The patient died on 02.08.2020 at 06.45 AM due to COVID
+Pneumonia / Acute Respiratory Distress Syndrome.
+
+
+
+
+
+
+
+
+
+Death Case No.4169:
+A 59 years old male from Thanjavur admitted on 30.07.2020 at 12.20 PM in
+Thanjavur Medical College Hospital. COVID test sample taken on
+27.07.2020. Date of result on29.07.2020. Outcome of result is positive. The
+patient died on 01.08.2020 at 10.00 PM due to Respiratory Failure /
+COVID 19 Positive / Viral Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4170:
+A 56 years old male from Madurai admitted on 23.07.2020 at 09.00 AM in
+Government Rajaji Hospital, Madurai. COVID test sample taken on
+25.07.2020. Outcome of result is positive. The patient died on 01.08.2020 at
+05.00 AM due to Acute Respiratory Distress Syndrome / COVID Positive
+Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4171:
+A 63 years old male from Virudhunagar admitted on 25.07.2020 in
+Tirunelveli Medical College Hospital, Tirunelveli. COVID test sample taken
+on 25.07.2020. Outcome of result is positive. The patient died on
+29.07.2020 at 08.20 PM due to Acute Respiratory Failure / Viral
+Pneumonia / COVID Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4172:
+A 58 years old male from Tenkasi admitted on 29.07.2020 in Tirunelveli
+Medical College Hospital, Tirunelveli. COVID test sample taken on
+28.07.2020. Outcome of result is positive. The patient died on 31.07.2020 at
+05.25 AM due to Acute Respiratory Failure / COVID Positive.
+
+
+
+
+
+
+
+
+
+
+Death Case No.4173:
+A 60 years old male from Villupuram admitted on 24.07.2020 at 05.40 AM
+in Chengalpattu Medical College Hospital. COVID test sample taken on
+24.07.2020. Outcome of result is positive. The patient died on 01.08.2020
+at 09.30 AM due to Hollow viscus Perforation / Emergency Laparotomy
+/ Liver Omental Patch Closure / Post Laparotomy wound Dehiscence /
+Septic Shock / Septic Encephalopathy / Sudden Cardio Pulmonary
+Arrest.
+
+
+
+
+
+
+
+
+
+Death Case No.4174:
+A 50 years old female from Sivagangai with Type 2 Diabetes Mellitus
+admitted on 23.07.2020 at 06.30 AM in Sivagangai Medical College Hospital,
+. COVID test date of result on 23.07.2020. Outcome of result is positive. The
+patient died on 01.08.2020 at 06.45 AM due to Severe COVID Pneumonia
+/Acute Respiratory Distress Syndrome / Newly detected Type 2
+Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4175:
+A 65 years old male from Sivagangai with Diabetes Mellitus / Coronary
+Artery Disease admitted on 30.07.2020 at 04.06 PM in Sivagangai Medical
+College Hospital. COVID test date of result on 30.07.2020. Outcome of
+result is Positive. The patient died on 30.07.2020 at 05.00 PM due to COVID
+19 / Acute Respiratory Distress Syndrome / Diabetes Mellitus
+/Coronary Artery Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4176:
+A 63 years old male from Sivagangai with Diabetes Mellitus / Chronic
+Renal Failure admitted on 20.07.2020 at 05.06 PM in Sivagangai Medical
+College Hospital. COVID test date of result on 21.07.2020. Outcome of
+result is Positive. The patient died on 30.07.2020 at 10.30 PM due to COVID
+19 Positive / Acute Respiratory Distress Syndrome / Severe Pneumonia
+/ Diabetes Mellitus / Chronic Kidney Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4177:
+A 61 years old male from Theni with Systemic Hypertension admitted on
+28.07.2020 at 07.31 PM in Theni Medical College Hospital. COVID test
+date of result on 29.07.2020. Outcome of result is Positive. The patient died
+on 29.07.2020 at 09.35 PM due to COVID 19 Pneumonia / Acute
+Respiratory Failure / Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4178:
+A 67 years old male from Theni with Type 2 Diabetes Mellitus admitted on
+28.07.2020 at 02.45 PM in Theni Medical College Hospital. COVID test
+date of result on 29.07.2020. Outcome of result is Positive. The patient died
+on 30.07.2020 at 04.20 PM due to COVID 19 Pneumonia / Acute
+Respiratory Failure / Type 2 Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4179:
+A 62 years old male from Theni with Type 2 Diabetes Mellitus / Chronic
+Kidney Disease admitted on 28.07.2020 at 03.40 PM in Theni Medical
+College Hospital. COVID test date of result on 29.07.2020. Outcome of
+result is Positive. The patient died on 30.07.2020 at 04.10 PM due to COVID
+19 Pneumonia / Acute Respiratory Failure / Type 2 Diabetes Mellitus /
+Chronic Kidney Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4180:
+A 65 years old male from Theni with Hyper Tension admitted on 21.07.2020
+at 02.12 PM in Theni Medical College Hospital. Date of result on
+23.07.2020. Outcome of result is Positive. The patient died on 31.07.2020
+at 08.35 AM due to Acute Respiratory Failure / COVID 19 Pneumonia /
+Hyper Tension.
+
+
+
+
+
+
+
+
+
+Death Case No.4181:
+A 65 years old male from Theni with SHTN / DM / CKD admitted on
+29.07.2020 at 04.02 PM in Government Theni Medical College Hospital,
+Theni. COVID test date of result on 30.07.2020. Outcome of result is
+Positive. The patient died on 01.08.2020 at 02.06 AM due to ARDS /SHTN /
+DM / CKD / COVID Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4182:
+A 51 years old male from Thiruvannamalai District with Type 2 Diabetes
+Mellitus admitted on 27.07.2020 at 04.43 PM in Thiruvannamalai Medical
+College Hospital. COVID test sample taken on 30.07.2020. Outcome of
+result is Positive. The patient died on 30.07.2020 at 04.45 PM due to Viral
+Pneumonia / Respiratory Failure / Type 2 Diabetes Mellitus / Morbid
+obesity.
+
+
+
+
+
+
+
+
+
+Death Case No.4183:
+A 70 years old male from Thiruvannamalai District with Type 2 Diabetes
+Mellitus admitted on 29.07.2020 at 07.00 PM in Thiruvannamalai Medical
+College Hospital. COVID test sample taken on 29.07.2020. Outcome of
+result is Positive. The patient died on 30.07.2020 at 05.45 PM due to Type 2
+Diabetes Mellitus / Sepsis / Septic Encephalopathy / Septic Shock /
+COVID 19 Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4184:
+A 63 years old female from Thiruvannamalai District with Type 2 Diabetes
+Mellitus / Systemic Hypertension admitted on 25.07.2020 at 04.23 AM in
+Thiruvannamalai Medical College Hospital. COVID test sample date of result
+on 25.07.2020. Outcome of result is Positive. The patient died on
+01.08.2020 at 09.20 PM due to COVID Pneumonia / Acute Respiratory
+Distress Syndrome / Type 2 Diabetes Mellitus / Systemic
+Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4185:
+A 8 years old female from Chennai with Wilson Disease / Acute Liver
+Failure / Coagulopathy admitted on 30.07.2020 in Institute of Child
+Health and Hospital for Children, Chennai. COVID test outcome of result is
+positive. The patient died on 01.08.2020 at 04.50 AM due to Wilson Disease
+/ Acute Liver Failure / Coagulopathy / Refractory seizures /
+Pneumonia / COVID 19.
+
+
+
+
+
+
+
+
+
+Death Case No.4186:
+A 80 years old female from Perambalur with Type 2 Diabetes Mellitus
+admitted on 31.07.2020 in KAPV Government Medical College, MGMGH,
+Trichy. COVID test sample taken on 29.07.2020. Date of result on
+30.07.2020. Outcome of result is positive. The patient died on 31.07.2020 at
+08.30 PM due to COVID 19 Pneumonia / Respiratory Failure / Type 2
+Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4187:
+A 66 years old male from Perambalur admitted on 30.07.2020 in KAPV
+Government Medical College, MGMGH, Trichy. COVID test sample taken on
+29.07.2020. Date of result on 30.07.2020. Outcome of result is positive. The
+patient died on 31.07.2020 at 02.20 PM due to COVID 19 Pneumonia /
+Respiratory Failure.
+
+
+
+
+
+
+
+
+
+Death Case No.4188:
+A 58 years old male from Kanyakumari with Diabetes Mellitus / Systemic
+Hypertension admitted on 22.07.2020 at 04.45 PM in Kanyakumari
+Medical College Hospital, Asaripallam. Date of COVID test result on
+22.07.2020. Outcome of result is positive. The patient died on 02.08.2020 at
+12.30 AM due to Respiratory Failure / COVID Pneumonia / Diabetes
+Mellitus / Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4189:
+A 59 years old male from Kanyakumari District with Coronary Artery
+Disease / Seizure Disorder admitted on 01.08.2020 at 12.50 PM in
+Kanyakumari Medical College Hospital, Asaripallam. Date of COVID test
+result on 01.08.2020. Outcome of result is positive. The patient died on
+02.08.2020 at 07.10 AM due to Respiratory Failure / COVID Pneumonia /
+Seizure Disorder /Coronary Artery Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4190:
+A 77 years old male from Salem with Type 2 Diabetes Mellitus / Systemic
+Hypertension / Coronary Artery Disease post CABG / BPH admitted on
+31.07.2020 at 01.57 PM in Government Mohan Kumaramangalam Medical
+College Hospital, Salem. Date of COVID test result on31.07.2020. Outcome
+of result is positive. The patient died on 01.08.2020 at 11.40 PM due to
+Respiratory Failure / COVID Pneumonia / Type 2 Diabetes Mellitus /
+Systemic Hypertension / Coronary Artery Disease post CABG / BPH.
+
+
+
+
+
+
+
+
+
+Death Case No.4191:
+A 50 years old male from Salem with Type 2 Diabetes Mellitus admitted on
+30.07.2020 at 08.18 PM in Government Mohan Kumaramangalam Medical
+College Hospital, Salem. Outcome of result is positive. The patient died on
+31.07.2020 at 06.05 AM due to Respiratory Failure / Atypical Pneumonia
+/ Septic Shock / Type 2 Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4192:
+A 40 years old male from Thanjavur with Alcohol related Seizure Disorder
+admitted on 19.07.2020 at 08.05 PM in Thanjavur Medical College Hospital.
+COVID test sample taken on 21.07.2020. Date of result on 23.07.2020.
+Outcome of result is positive. The patient died on 01.08.2020 at07.45 PM
+due to Respiratory Failure / COVID 19 Positive / Viral Pneumonia /
+Alcohol related Seizure Disorder.
+
+
+
+
+
+
+
+
+
+Death Case No.4193:
+A 70 years old male from Nagapattinam with Coronary Artery Disease /
+Diabetes Mellitus / Systemic Hypertension admitted on 25.07.2020 at
+07.27 PM in Thiruvarur Medical College Hospital. COVID test sample taken
+on 26.07.2020. Outcome of result is positive. The patient died on
+01.08.2020 at 02.10 PM due to COVID Pneumonia / Metabolic
+Encephalopathy / Chronic Kidney Disease / Coronary Artery Disease /
+Stricture Urethra / Diabetes Mellitus / Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4194:
+A 65 years old male from Kancheepuram admitted on 30.07.2020 in
+Kilpauk Medical College Hospital, Chennai. COVID test sample taken on
+30.07.2020. Outcome of result is positive. The patient died on 01.08.2020
+at 04.10 PM due to Acute Respiratory Distress Syndrome / Viral
+Pneumonia / COVID Status Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4195:
+A 45 years old female from Chennai with Diabetes Mellitus / Systemic
+Hypertension admitted on 31.07.2020 in Kilpauk Medical College Hospital,
+Chennai. COVID test sample taken on 01.08.2020. Outcome of result is
+positive. The patient died on 01.08.2020 at 11.30 AM due to Acute
+Respiratory Distress Syndrome / Viral Pneumonia / Diabetes Mellitus /
+Systemic Hypertension / COVID Status Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4196:
+A 84 years old male from Chennai with Diabetes Mellitus / Systemic
+Hypertension / Post CABG admitted on 31.07.2020 at 05.00 PM in
+Government Medical College, Omandurar Government Estate, Chennai.
+Outcome of result is positive. The patient died on 01.08.2020 at 03.55 AM
+due to Acute Respiratory Distress Syndrome / Acute Respiratory
+Failure /COVID 19 Positive / Diabetes Mellitus / Systemic
+Hypertension / Post CABG.
+
+
+
+
+
+
+
+
+
+Death Case No.4197:
+A 56 years old male from Chennai with Diabetes Mellitus / Systemic
+Hypertension on16.07.2020 at 05.45 PM in Government Medical College,
+Omandurar Government Estate, Chennai. COVID test sample taken on
+17.07.2020. Outcome of result is positive. The patient died on 01.08.2020 at
+02.35 PM due to Acute Respiratory Distress Syndrome / Acute
+Respiratory Failure / COVID Pneumonia / Diabetes Mellitus / Systemic
+Hypertension / COVID 19 Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4198:
+A 69 years old female from Madurai with Hypertension / Malignant
+Melanoma admitted on 30.07.2020 at 09.15 PM in Government Rajaji
+Hospital, Madurai. COVID test sample taken on 31.07.2020. Outcome of
+result is positive. The patient died on 01.08.2020 at 05.40 PM due to Acute
+Respiratory Distress Syndrome / COVID Positive Pneumonia /
+Hypertension / Malignant Melanoma.
+
+
+
+
+
+
+
+
+
+Death Case No.4199:
+A 76 years old male from Madurai admitted on 29.07.2020 at 06.35 PM in
+Government Rajaji Hospital, Madurai. COVID test sample taken on
+30.07.2020. Outcome of result is positive. The patient died on 01.08.2020 at
+09.00 AM due to Acute Respiratory Distress Syndrome / COVID Positive
+Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4200:
+A 70 years old male from Thiruvallur District with Type 2 Diabetes
+Mellitus / Systemic Hypertension / Coronary Artery Disease admitted
+on 28.07.2020 at 05.45 PM in Government Stanley Hospital, Chennai.
+COVID test sample taken on 29.07.2020. Outcome of result is positive. The
+patient died on 02.08.2020 at 03.05 AM due to B/L Bronchopneumonia /
+Respiratory Failure / Type 2 Diabetes Mellitus / Coronary Artery
+Disease / COVID 19 Positive / Systemic Hypertension.
+Death Case No.4201:
+A 62 years old male from Chennai with Coronary Artery Disease / Type 2
+Diabetes Mellitus admitted on 23.07.2020 at 11.15 PM in Government
+Stanley Hospital, Chennai. COVID test sample taken on 23.07.2020.
+Outcome of result is positive. The patient died on 01.08.2020 at 07.45 AM
+due to Sepsis / Septic Shock / Coronary Artery Disease / B/L
+Bronchopneumonia / Respiratory Failure / Coronary Artery Disease /
+Type 2 Diabetes Mellitus / COVID 19 Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4202:
+A 71 years old male from Chennai with Systemic Hypertension admitted
+on 25.07.2020 at 02.46 PM in Government Stanley Hospital, Chennai.
+COVID test sample taken on 25.07.2020. Outcome of result is positive. The
+patient died on 01.08.2020 at 01.15 PM due to B/L Bronchopneumonia /
+Respiratory Failure / Systemic Hypertension / AKI / COVID 19
+Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4203:
+A 65 years old male from Ranipet with Type 2 Diabetes Mellitus /
+Systemic Hypertension admitted on 17.07.2020 at 12.39 AM in
+Dharmapuri Medical College Hospital. COVID test sample taken on
+18.07.2020. Outcome of result is positive. The patient died on 02.08.2020 at
+11.05 AM due to Respiratory Failure / Type 2 Diabetes Mellitus /
+Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4204:
+A 61 years old male from Coimbatore with Type 2 Diabetes Mellitus /
+Systemic Hypertension admitted on 31.07.2020 at 10.23 AM in Coimbatore
+Medical College Hospital. COVID test sample taken on 31.07.2020. Date of
+result on 01.08.2020. Outcome of result is positive. The patient died on
+01.08.2020 at 02.05 PM due to Bilateral Bronchopneumonia / COVID 19
+Positive / Acute Respiratory Distress Syndrome / Type 2 Diabetes
+Mellitus / Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4205:
+A 87 years old male from Coimbatore with Type 2 Diabetes Mellitus
+admitted on 01.08.2020 at 06.20 AM in Coimbatore Medical College
+Hospital. COVID test sample taken on 01.08.2020. Date of result on
+01.08.2020. Outcome of result is positive. The patient died on 01.08.2020 at
+02.05 PM due to COVID 19 Positive / BilateralBronchopneumonia
+/Acute Respiratory Distress Syndrome / Type 2 Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4206:
+A 62 years old male from Tirupur with Chronic Kidney Disease / Type 2
+Diabetes Mellitus / Bronchial Asthma admitted on 31.07.2020 at 03.26
+AM in Coimbatore Medical College Hospital. COVID test sample taken on
+31.07.2020. Date of result on 01.08.2020. Outcome of result is positive. The
+patient died on 02.08.2020 at 04.50 AM due to COVID 19 Positive /
+Bilateral Bronchopneumonia / Chronic Kidney Disease / Systemic
+Hypertension / Bronchial Asthma.
+
+
+
+
+
+
+
+
+
+Death Case No.4207:
+A 57 years old male from Chengalpattu with Type 2 Diabetes Mellitus /
+SHTN admitted on 31.07.2020 at 01.13 AM in Rajiv Gandhi Govt General
+Hospital. COVID test sample taken on 31.07.2020. The patient died on
+02.08.2020 at 07.15 PM due to Respiratory Failure / COVID Pneumonia /
+Type 2 Diabetes Mellitus / SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4208:
+A 50 years old female from Kancheepuram with SHTN admitted on
+29.07.2020 at 11.18 PM in Rajiv Gandhi Govt General Hospital. COVID test
+sample taken on 01.08.2020. The patient died on 02.08.2020 at 07.30 AM
+due to Occipital Bone Fracture / Left Frontal Contusion / COVID
+Pneumonia / SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4209:
+A 55 years old female from Chennai with Type 2 Diabetes Mellitus
+admitted on 30.07.2020 at 03.28 PM in Rajiv Gandhi Govt General Hospital.
+COVID test sample taken on 02.08.2020. The patient died on 01.08.2020 at
+01.20 PM due to RF / COVID Pneumonia / Type 2 Diabetes Mellitus /
+HUN.
+
+
+
+
+
+
+
+
+
+Death Case No.4210:
+A 68 years old male from Chennai with Type 2 Diabetes Mellitus / SHTN
+admitted on 24.07.2020 at 01.40 AM in Rajiv Gandhi Govt General Hospital.
+COVID test sample taken on 23.07.2020. The patient died on 02.08.2020 at
+02.30 PM due to RF / COVID Pneumonia / Type 2 Diabetes Mellitus /
+SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4211:
+A 70 years old male from Chennai with Type 2 Diabetes Mellitus / SHTN /
+Coronary Artery Disease / Chronic Kidney Disease admitted on
+27.07.2020 at 06.33 PM in Rajiv Gandhi Govt General Hospital. COVID test
+sample taken on 20.07.2020. The patient died on 02.08.2020 at 01.20 PM
+due to RF / COVID Pneumonia / Chronic Kidney Disease / Coronary
+Artery Disease /Type 2 Diabetes Mellitus / SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4212:
+A 72 years old male from Chennai with Type 2 Diabetes Mellitus / SHTN
+admitted on 29.07.2020 11.14 PM in Rajiv Gandhi Govt General Hospital.
+COVID test sample taken on 31.07.2020. The patient died on 30.07.2020 at
+01.05 AM due to RF / COVID Pneumonia / Type 2 Diabetes Mellitus /
+SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4213:
+A 65 years old male from Pudukkottai with Type 2 Diabetes Mellitus /
+SHTN admitted on 01.08.2020 09.25 AM in Govt Pudukkottai Medical
+College Hospital, Pudukkottai. COVID test sample taken on 01.08.2020. The
+patient died on 01.08.2020 at 12.50 PM due to COVID Positive / COVID
+Pneumonia / Acute Respiratory Failure / Type 2 Diabetes Mellitus /
+SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4214:
+A 53 years old male from Sivagangai with SHTN / Chronic Kidney Disease
+admitted on 31.07.2020 07.40 PM in Govt Pudukkottai Medical College
+Hospital, Pudukkottai. COVID test sample taken on 01.08.2020. The patient
+died on 02.08.2020 at 10.20 AM due to COVID Positive / COVID
+Pneumonia / Acute Respiratory Failure / SHTN / Chronic Kidney
+Disease / ESRD.
+
+
+
+
+
+
+
+
+
+Death Case No.4215:
+A 55 years old male from Pudukkottai with Type 2 Diabetes Mellitus /
+Systemic Hypertension / Chronic Kidney Disease / DCLD / Portal
+Hypertension admitted on 24.07.2020 01.20 PM in Govt Pudukkottai
+Medical College Hospital, Pudukkottai. COVID test sample taken on
+25.07.2020. The patient died on 02.08.2020 at 04.00 PM due to COVID
+Positive / COVID Pneumonia / Acute Respiratory Failure / Type 2
+Diabetes Mellitus / Systemic Hypertension / Chronic Kidney Disease /
+DCLD / Portal Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4216:
+A 67 years old male from Pudukkottai with Diabetes Mellitus admitted on
+25.07.2020 in Govt Pudukkottai Medical College Hospital, Pudukkottai.
+COVID test sample taken on 25.07.2020. The patient died on 02.08.2020 at
+10.40 PM due to COVID Positive Status / COVID Pneumonia / Acute
+Respiratory Failure / Acute Respiratory Distress Syndrome / Type 2
+Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4217:
+A 70 years old male from Pudukkottai with CAD admitted on 30.07.2020 at
+04.45 PM in Govt Pudukkottai Medical College Hospital, Pudukkottai.
+COVID test sample taken on 31.07.2020. The patient died on 31.07.2020 at
+03.15 PM due to COVID Positive Status / COVID Pneumonia / Acute
+Respiratory Failure / Coronary Artery Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4218:
+A 75 years old male from Thoothukudi with Type 2 Diabetes Mellitus
+admitted on 29.07.2020 at 05.10 PM in Tirunelveli Medical College Hospital,
+Tirunelveli. COVID test sample taken on 29.07.2020. The patient died on
+01.08.2020 at 03.45 AM due to Acute Respiratory Failure /COVID
+Positive / Type 2 Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4219:
+A 45 years old female from Tirunelveli with Systemic Hypertension / CAD
+admitted on 26.07.2020 at 11.59 AM in Tirunelveli Medical College Hospital,
+Tirunelveli. COVID test sample taken on 25.07.2020. The patient died on
+01.08.2020 at 08.30 AM due to Acute Respiratory Failure /COVID
+Positive / Systemic Hypertension / CAD.
+
+
+
+
+
+
+
+
+
+Death Case No.4220:
+A 70 years old male from Virudhunagar with Type 2 Diabetes Mellitus /
+Systemic Hypertension / CAD admitted on 27.07.2020 in Tirunelveli
+Medical College Hospital, Tirunelveli. COVID test sample taken on
+27.07.2020. The patient died on 29.07.2020 at 04.45 PM due to Acute
+Respiratory Failure /Viral Pneumonia / COVID Positive / Type 2
+Diabetes Mellitus / Systemic Hypertension / Coronary Artery Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4221:
+A 52 years old male from Tuticorin with CKD admitted on 30.07.2020 at
+01.30 PM in Tirunelveli Medical College Hospital, Tirunelveli. COVID test
+sample taken on 30.07.2020. The patient died on 01.08.2020 at 02.05 PM
+due to Acute Respiratory Failure / COVID Positive / Chronic Kidney
+Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4222:
+A 65 years old male from Virudhunagar admitted on 25.07.2020 at 04.30
+AM in Tirunelveli Medical College Hospital, Tirunelveli. COVID test sample
+taken on 25.07.2020. The patient died on 02.08.2020 at 05.15 AM due to
+Acute Respiratory Failure / Viral Pneumonia / COVID Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4223:
+A 54 years old male from Tenkasi admitted on 25.07.2020 at 03.30 PM in
+Tirunelveli Medical College Hospital, Tirunelveli. COVID test sample taken
+on 25.07.2020. The patient died on 02.08.2020 at 03.50 AM due to Acute
+Respiratory Failure / COVID Positive / Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4224:
+A 67 years old female from Tenkasi with Diabetes Mellitus admitted on
+30.07.2020 at 01.30 AM in Tirunelveli Medical College Hospital, Tirunelveli.
+COVID test sample taken on 30.07.2020. The patient died on 01.08.2020 at
+07.20 PM due to Acute Respiratory Failure / Viral Pneumonia / COVID
+Positive / Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4225:
+A 60 years old female from Tirunelveli with Bronchial Asthma admitted on
+25.07.2020 in Tirunelveli Medical College Hospital. Date of result on
+25.07.2020. Outcome of result is Positive. The patient died on 27.07.2020
+at 08.50 PM due to Acute Respiratory Failure / Viral Pneumonia /
+COVID Positive / Bronchial Asthma.
+
+
+
+
+
+
+
+
+
+Death Case No.4226:
+A 60 years old male from Tenkasi with Old CVA admitted on 25.07.2020 at
+08.23 PM in Tirunelveli Medical College Hospital. COVID test sample taken
+on 24.07.2020. Outcome of result is Positive. The patient died on
+28.07.2020 at 06.00 AM due to Acute Respiratory Failure / Viral
+Pneumonia / COVID Positive / Old CVA.
+
+
+
+
+
+
+
+
+
+Death Case No.4227:
+A 77 years old male from Virudhunagar with Diabetes Mellitus / SHTN /
+CAD admitted on 23.07.2020 in Tirunelveli Medical College Hospital. COVID
+test sample taken on 22.07.2020. Outcome of result is Positive. The patient
+died on 31.07.2020 at 11.00 PM due to Acute Respiratory Failure / Viral
+Pneumonia / COVID Positive / Diabetes Mellitus / SHTN.
+
+
+
+
+
+
+
+
+
+Death Case No.4228:
+A 61 years old male from Virudhunagar with Diabetes Mellitus admitted on
+31.07.2020 at 06.30 PM in Tirunelveli Medical College Hospital. COVID test
+sample taken on 31.07.2020. Outcome of result is Positive. The patient died
+on 01.08.2020 at 12.05 AM due to Acute Respiratory Failure / Viral
+Pneumonia / COVID Positive / Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4229:
+A 61 years old male from Tenkasi with Diabetes Mellitus / SHTN admitted
+on 28.07.2020 in Tirunelveli Medical College Hospital. COVID test sample
+taken on 28.07.2020. Outcome of result is Positive. The patient died on
+30.07.2020 at 11.00 AM due to Acute Respiratory Failure / Viral
+Pneumonia / COVID Positive / Diabetes Mellitus / Systemic
+Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4230:
+A 54 years old male from Tirunelveli with Diabetes Mellitus / Coronary
+Artery Disease admitted on 30.07.2020 at 08.40 PM in Tirunelveli Medical
+College Hospital. COVID test sample taken on 29.07.2020. Outcome of
+result is Positive. The patient died on 31.07.2020 at 11.10 PM due to
+Acute Respiratory Failure / COVID Positive / Diabetes Mellitus /
+Coronary Artery Disease.
+
+
+
+
+
+
+
+
+
+Death Case No.4231:
+A 77 years old male from Tirunelveli admitted on 25.07.2020 in Tirunelveli
+Medical College Hospital. COVID test sample taken on 24.07.2020. Outcome
+of result is Positive. The patient died on 31.07.2020 at 08.30 PM due to
+Acute Respiratory Failure / COVID Positive / Viral Pneumonia.
+Death Case No.4232:
+A 45 years old male from Tirunelveli with COPD admitted on 31.07.2020 at
+07.45 PM in Tirunelveli Medical College Hospital. COVID test sample taken
+on 01.08.2020. Outcome of result is Positive. The patient died on
+01.08.2020 at 07.00 AM due to Acute Respiratory Failure / COVID
+Positive / COPD.
+
+
+
+
+
+
+
+
+
+Death Case No.4233:
+A 70 years old male from Virudhunagar admitted on 29.07.2020 in
+Tirunelveli Medical College Hospital. COVID test sample taken on
+28.07.2020. Outcome of result is Positive. The patient died on 31.07.2020 at
+09.50 AM due to Acute Respiratory Failure / COVID Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4234:
+A 75 years old female from Coimbatore with Systemic Hypertension
+admitted on 30.07.2020 at 06.29 PM in Coimbatore Medical College
+Hospital. COVID test sample taken on 30.07.2020. Date of result on
+31.07.2020. Outcome of result is positive. The patient died on 02.08.2020 at
+12.05 AM due to COVID 19 Positive / Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4235:
+A 70 years old male from Erode admitted on 30.07.2020 at 12.28 AM in
+Government Erode Medical College Hospital, Perundurai. COVID test sample
+taken on 28.07.2020. Outcome of result is positive. The patient died on
+02.08.2020 at 06.55 AM due to Viral Pneumonia / COVID 19 Positive /
+Respiratory Failure / Cardiopulmonary Arrest / Viral Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4236:
+A 70 years old male from Kanyakumari with Diabetes Mellitus / Systemic
+Hypertension admitted on 24.07.2020 at 04.45 PM in Kanyakumari
+Medical College Hospital, Asaripallam. Date of COVID test result
+on24.07.2020. Outcome of result is positive. The patient died on 02.08.2020
+at 02.30 AM due to Respiratory Failure / COVID Pneumonia / Diabetes
+Mellitus / Systemic Hypertension.
+
+
+
+
+
+
+
+
+
+Death Case No.4237:
+A 86 years old male from Chennai with SHTN admitted on 31.07.2020 at
+07.52 PM in Rajiv Gandhi Govt General Hospital. COVID test sample taken
+on 30.07.2020. The patient died on 02.08.2020 at 09.15 AM due to RF /
+COVID Pneumonia.
+
+
+
+
+
+
+
+
+
+Death Case No.4238:
+A 50 years old male from Salem with admitted on 29.07.2020 at 12.04 AM
+in Government Mohan Kumaramangalam Medical College Hospital, Salem.
+Outcome of result is positive. The patient died on 02.08.2020 at07.00 PM
+due to Respiratory Failure / COVID Pneumonia / Old Pulmonary TB /
+Type 2 Diabetes Mellitus.
+
+
+
+
+
+
+
+
+
+Death Case No.4239:
+A 47 years old male from Chennai with Type 2 Diabetes Mellitus /
+Hypothyroid admitted on 31.07.2020 at 05.33 AM in Rajiv Gandhi Govt
+General Hospital. COVID test sample taken on 02.08.2020. The patient died
+on 03.08.2020 at 05.15 AM due to RF / COVID Pneumonia / Type 2
+Diabetes Mellitus / Hypothyroid.
+
+
+
+
+
+
+
+
+
+Death Case No.4240
+A 64 years old male from Chennai admitted on 30.07.2020 at 02.30 PM in
+Kilpauk Medical College Hospital, Chennai. The patient died on 30.07.2020
+at 02.30 PM due to COVID Status Positive.
+
+
+
+
+
+
+
+
+
+Death Case No.4241:
+A 58 years old male from Coimbatore admitted on 01.08.2020 in
+Coimbatore Medical College Hospital. COVID test sample taken on
+01.08.2020. Outcome of result is positive. The patient died on 01.08.2020 at
+07.30 PM.
 
 
 
