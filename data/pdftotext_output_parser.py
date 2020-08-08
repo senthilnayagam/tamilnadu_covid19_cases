@@ -42,6 +42,7 @@ for filename in filelist:
 			if x[0] != '':
 				while x[0] in final_lines: final_lines.remove(x[0])
 
+		print('')
 		#print("######")
 		#for line in final_lines:
 		#	print(line)
