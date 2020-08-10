@@ -47,7 +47,7 @@ puts "Table created"
 
 puts "Creating data......"
 
-(1..5000).each do |i|  # 1.. 1636 # put a big number so as not to increase the count daily
+(1..10000).each do |i|  # 1.. 1636 # put a big number so as not to increase the count daily
 	filename = "../cases/case_"+i.to_s.rjust(4, "0")+".txt"
 
 	if File.file?(filename)
