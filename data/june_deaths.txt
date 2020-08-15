@@ -1094,7 +1094,7 @@ RGGGH. COVID test sample taken on 28.05.2020 in KMC. Date of result on
 
 
 Death Case No.270:
-A 79-years old male from Chennai with complaints of Fever, Cough, Loose
+A 79 years old male from Chennai with complaints of Fever, Cough, Loose
 stools and breathing difficulty admitted on 02.06.2020 in a private hospital,
 Chennai died on 08.06.2020, 06.00 AM due to Sepsis with Septic Shock /
 ARDS.
@@ -1106,7 +1106,7 @@ ARDS.
 
 
 Death Case No.271:
-A 69-years old female from Chennai with Carcinoma Vocal Cord under
+A 69 years old female from Chennai with Carcinoma Vocal Cord under
 Radiotherapy admitted on 03.06.2020 with complaints of Breathlessness &
 Cough in a private hospital, Chennai died on 07.06.2020 at 04.54 AM due to
 Bilateral Pneumonia COVID Related.
@@ -1135,7 +1135,7 @@ due to Cardiopulmonary Arrest / COVID Pneumonia.
 
 
 Death Case No.274:
-A 54-years old male from Kanchipuram with Diabetes Mellitus,
+A 54 years old male from Kanchipuram with Diabetes Mellitus,
 Hypertension & History of Renal Transplant, admitted on 05.06.2020 in
 Government HeadQuarters Hospital, Kanchipuram died on 07.06.2020 due to
 Respiratory Failure.
@@ -1294,7 +1294,7 @@ breathing, Vomiting & Loose Stools in private Hospital, Chennai died on
 
 
 Death Case No.290:
-A 56-years old male from Chennai with Diabetes Mellitus, Systemic
+A 56 years old male from Chennai with Diabetes Mellitus, Systemic
 Hypertension & Obesity admitted on 02.06.2020 at private hospitals with
 complaints of Fever died on 07.06.2020 at 01.30 PM due to Respiratory
 Failure & Acute Kidney Injury.
