@@ -3,7 +3,7 @@ import glob
 from collections import Counter
 import datetime
 
-filelist = glob.glob("august/*.txt")
+filelist = glob.glob("september/*.txt")
 
 print(filelist)
 
