@@ -1,0 +1,1274 @@
+                            State Control Room,
+            Directorate of Public Health and Preventive Medicine
+     Health and Family Welfare Department, Government of Tamil Nadu
+
+                         Media Bulletin 08.09.2020
+
+          Daily report on Public Health measures taken for COVID-19
+S.No                        Description                           Details
+                                                                163 (64 Govt+
+ 1     Number of COVID -19 testing facilities
+                                                                   99 Private)
+ 2     Number of active cases till yesterday                          51,215
+ 3     Number of persons tested positive today                          5,684
+       Number of COVID-19 positive patients discharged
+ 4                                                                      6,599
+       following treatment today
+ 5     Total number of deaths today                                       87
+ 6     Number of active cases as on today                             50,213
+S.NO                      COVID-19 STATISTICS                               DETAILS
+
+
+ 1         Number of active cases on date (Including isolation)                       50,213
+
+           Number of persons tested positive today in Tamil
+                                                                                       5,682
+           Nadu
+
+           Passengers returned from other states by Domestic
+                                                                   West Bengal-1
+           airport tested positive today
+ 2
+           Passengers returned from other states by Road tested
+                                                                   Karnataka-1
+           positive today
+
+                                    Total                                              5,684
+
+
+ 3         Total Number of persons tested positive till date                        4,74,940
+
+
+           Total Number of samples tested by RT-PCR today/                           83,266/
+ 4
+           till date*                                                              54,62,277
+
+           Total Number of Persons tested by RT-PCR today/                           81,066/
+ 5
+           till date                                                               52,85,823
+
+           No. of Male / Female / Transgender tested positive
+ 6                                                                          3,310 / 2,374 / 0
+           today
+
+           No. of Male / Female / Transgender tested positive
+ 7                                                                      2,86,383/1,88,528/29
+           till date
+
+           Number of functioning COVID -19 testing facilities in               163 (64 Govt+
+ 8
+           Tamil Nadu                                                            99$ Private)
+
+           Number of COVID-19 positive patients discharged                            6,599/
+ 9
+           following treatment today/ till date                                     4,16,715
+
+                                                                             87 (43 Private &
+ 10        Total number of deaths today/ till date
+                                                                             44 Govt) /8,012
+       *Tamil Nadu doesn’t use Rapid Antigen Diagnostic Tests (RADT).
+       $Two private labs (ProGen Molecular Biology Lab Salem & Priya Lab, A
+       Unit of Salem Heart Clinic, Salem) has been recently approved for COVID-
+       19 testing.
+District-wise abstract of cases including active cases, discharges and death * on 08/09/2020
+                               Persons under                                             Persons under
+                                 Treatment             New         Cases                   Treatment
+Sl.
+            District          including Home          Cases      Discharged    Death    including Home
+No
+                               Treatment till         Today        Today                Treatment as on
+                                 yesterday                                                   today
+1     Ariyalur                       406                45            32          1            418
+2     Chengalpattu                  2646               364           392          3           2615
+3     Chennai                      11156               988          1097         18           11029
+4     Coimbatore                    4673               446          1087          0           4032
+5     Cuddalore                     3605               407           346          9           3657
+6     Dharmapuri                     297                59            17          0            339
+7     Dindigul                      1020                95           121          3            991
+8     Erode                         1180               121           226          2           1073
+9     Kallakurichi                  1159               138           140          0           1157
+10    Kancheepuram                  1374               122           194          5           1297
+11    Kanyakumari                    852                95           107          0            840
+12    Karur                          388                46            32          1            401
+13    Krishnagiri                    593                83            31          2            643
+14    Madurai                       1043               110            87          1           1065
+15    Nagapattinam                  1032                21            42          2           1009
+16    Namakkal                       651                94            23          1            721
+17    Nilgiris                       361                76            29          0            408
+18    Perambalur                      94                15            16          0             93
+19    Pudukottai                     956               116           189          2            881
+20    Ramanathapuram                 338                31            34          1            334
+21    Ranipet                        811               121            89          2            841
+22    Salem                         2752               164           552          6           2358
+23    Sivagangai                     217                48            37          2            226
+24    Tenkasi                        633                74            42          2            663
+25    Thanjavur                     1072               128           186          0           1014
+26    Theni                          862                90           107          2            843
+27    Thirupathur                    435                49            37          0            447
+28    Thiruvallur                   1762               277           232          4           1803
+29    Thiruvannamalai               1564               242           141          2           1663
+30    Thiruvarur                     684               198            40          1            841
+31    Thoothukudi                    717                62            65          1            713
+32    Tirunelveli                   1118               135           160          2           1091
+33    Tiruppur                      1220               142            77          0           1285
+34    Trichy                         910                98            97          1            910
+35    Vellore                       1105               148           144          6           1103
+36    Villupuram                    1010               126           324          3            809
+37    Virudhunagar                   430               109            20          2            517
+      Airport Surveillance
+38
+      (International)
+                                      20                 0            4           0             16
+      Airport Surveillance
+39
+      (Domestic)
+                                      67                 1            3           0             65
+                                      2
+40    Railway Surveillance                               0            0           0              2
+       Grand Total                  51,215            5,684          6,599        87           50,213
+       *The district-wise active cases and discharges will vary with yesterday’s bulletin due to cross
+       notification.
+            District wise abstract of COVID-19 positive cases* (08/09/2020)
+                                    Indigenous Cases                 Imported Cases
+                                                                                                  Total cases
+Sl.         District                Till         On                  Till        On
+                                                                                                   till Date
+No                              07.09.2020 08.09.2020            07.09.2020 08.09.2020
+ 1    Ariyalur                          3083          45                   20        0                   3148
+ 2    Chengalpattu                    28625          364                    5        0                  28994
+ 3    Chennai                        142579          988                   35        0                 143602
+ 4    Coimbatore                      19458          446                   44        0                  19948
+ 5    Cuddalore                       14256          407                  202        0                  14865
+ 6    Dharmapuri                        1293          58                  208        1                   1560
+ 7    Dindigul                          7329          95                   77        0                   7501
+ 8    Erode                             3867         121                   94        0                   4082
+ 9    Kallakurichi                     6750          138                  404        0                   7292
+10    Kancheepuram                    18503          122                    3        0                  18628
+11    Kanyakumari                     10200           95                  109        0                  10404
+12    Karur                             1857          46                   45        0                   1948
+13    Krishnagiri                       2471          83                  161        0                   2715
+14    Madurai                         14725          110                  153        0                  14988
+15    Nagapattinam                     3304           21                   88        0                   3413
+16    Namakkal                         2612           94                   89        0                   2795
+17    Nilgiris                         1897           76                   16        0                   1989
+18    Perambalur                       1429           15                    2        0                   1446
+19    Pudukottai                       6737          116                   33        0                   6886
+20    Ramanathapuram                   4875           31                  133        0                   5039
+21    Ranipet                         11397          121                   49        0                  11567
+22    Salem                           12424          164                  417        0                  13005
+23    Sivagangai                       4237           48                   60        0                   4345
+24    Tenkasi                          5836           74                   49        0                   5959
+25    Thanjavur                        7541          128                   22        0                   7691
+26    Theni                           13203           90                   45        0                  13338
+27    Thirupathur                      3180           49                  110        0                   3339
+28    Thiruvallur                     26556          277                    8        0                  26841
+29    Thiruvannamalai                 11580          242                  389        0                  12211
+30    Thiruvarur                       4325          198                   37        0                   4560
+31    Thoothukudi                     11572           62                  260        0                  11894
+32    Tirunelveli                       9968         135                  420        0                  10523
+33    Tiruppur                         3640          142                   10        0                   3792
+34    Trichy                           8225           98                   13        0                   8336
+35    Vellore                         11682          148                  119        0                  11949
+36    Villupuram                       8360          126                  174        0                   8660
+37    Virudhunagar                    13245          109                  104        0                  13458
+      Airport Surveillance
+38                                           0               0            922                 0           922
+      (International)
+      Airport Surveillance
+39                                           0               0            878                 1           879
+      (Domestic)
+40    Railway Surveillance                0                 0             428                0             428
+         Grand Total               4,62,821             5,682           6,435                2        4,74,940
+        *Note: Figures are reconciled to the respective districts based on detailed epidemiological
+        investigation
+         Age and Sex distribution till date (08/09/2020)
+400000                        391665
+390000                          29
+380000
+370000
+360000
+350000
+340000
+330000
+320000
+                              155090
+310000
+300000
+290000
+280000
+270000
+260000
+250000
+240000
+230000                                                     Total
+220000
+210000                                                     TG
+200000
+190000
+180000                                                     Female
+170000
+160000                                                     Male
+150000
+140000
+130000
+120000                        236546
+110000
+100000
+ 90000
+ 80000
+ 70000                                           62089
+ 60000
+ 50000                                           23339
+ 40000
+ 30000       21186
+ 20000                                           38750
+             10099
+ 10000
+             11087
+     0
+              0-12             13-60              60+
+      Tamil Nadu COVID 19 – District Wise Case Details* (08/09/2020)
+Sl.                                          Total Positive                        Active
+                    District                                     Discharged                         Death
+No                                               Cases                             Cases
+ 1      Ariyalur                                       3148             2694            418             36
+ 2      Chengalpattu                                  28994            25916           2615            463
+ 3      Chennai                                      143602           129677         11029            2896
+ 4      Coimbatore                                    19948            15584           4032            332
+ 5      Cuddalore                                     14865            11052           3657            156
+ 6      Dharmapuri                                     1560             1205            339             16
+ 7      Dindigul                                       7501             6367            991            143
+ 8      Erode                                          4082             2957           1073             52
+ 9      Kallakurichi                                   7292             6050           1157             85
+10      Kancheepuram                                  18628            17056           1297            275
+11      Kanyakumari                                   10404             9367            840            197
+12      Karur                                          1948             1517            401             30
+13      Krishnagiri                                    2715             2036            643             36
+14      Madurai                                       14988            13555           1065            368
+15      Nagapattinam                                   3413             2347           1009             57
+16      Namakkal                                       2795             2028            721             46
+17      Nilgiris                                       1989             1567            408             14
+18      Perambalur                                     1446             1335             93             18
+19      Pudukottai                                     6886             5889            881            116
+20      Ramanathapuram                                 5039             4595            334            110
+21      Ranipet                                       11567            10588            841            138
+22      Salem                                         13005            10453           2358            194
+23      Sivagangai                                     4345             4006            226            113
+24      Tenkasi                                        5959             5185            663            111
+25      Thanjavur                                      7691             6554           1014            123
+26      Theni                                         13338            12342            843            153
+27      Thirupathur                                    3339             2824            447             68
+28      Thiruvallur                                   26841            24592           1803            446
+29      Thiruvannamalai                               12211            10366           1663            182
+30      Thiruvarur                                     4560             3659            841             60
+31      Thoothukudi                                   11894            11065            713            116
+32      Tirunelveli                                   10523             9243           1091            189
+33      Tiruppur                                       3792             2425           1285             82
+34      Trichy                                         8336             7301            910            125
+35      Vellore                                       11949            10663           1103            183
+36      Villupuram                                     8660             7769            809             82
+37      Virudhunagar                                  13458            12741            517            200
+        Airport Surveillance
+38                                                        922             905              16               1
+        (International)
+        Airport Surveillance
+39                                                        879             814              65               0
+        (Domestic)
+40      Railway Surveillance                             428             426              2              0
+             Grand Total                            4,74,940        4,16,715         50,213          8,012
+      *Note: Figures are reconciled to the respective districts based on detailed epidemiological
+      investigation.
+          COVID-19 Positive Deaths without comorbidities
+
+                                                     No
+             Type of health Facility
+                                                comorbidities*
+
+Government - DME                                      1
+
+
+Government - DMS                                      -
+
+
+Private                                               2
+
+Other Government Institutions (like Railway
+                                                      -
+Hospitals, ESI hospitals)
+
+                      Total                           3
+
+
+
+          COVID-19 Positive Deaths due to Comorbidities
+
+                                                   With
+             Type of health Facility
+                                               comorbidities*
+
+Government - DME                                     36
+
+
+Government - DMS                                      7
+
+
+Private                                              41
+
+Other Government Institutions (like Railway
+Hospitals, ESI hospitals)                             -
+
+
+                     Total                           84
+
+
+ * Pre-existing ‘morbidity’ or Chronic Disease, is co-existing
+ morbidity or ‘co-morbidity’
+ COVID-19 Positive Deaths without comorbidities – Total: 3
+
+          Death in Private health facilities without comorbidities
+Death Case No.7960
+A 60 Years old Male from Salem having COVID-19 RTPCR Positivity on
+22.08.2020 admitted on 24.08.2020 at in a private medical college and
+hospital, Salem with Complaints of fever and cough for 2 days and breathing
+difficulty for 1 day died on 07.09.2020 at 06.15 AM due to COVID 19
+pneumonia.
+
+Death Case No. 7961
+A 54 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+24.08.2020 admitted on 24.08.2020 at 01.11 PM in a private hospital with
+Complaints of Fever for 7 days, cough for 3 days died on 07.09.2020 at
+08.15 PM due to COVID-19 Pneumonia.
+
+  Death in Government health facilities (DME) without comorbidities
+Death Case No.7926
+A 57 years old Male from Ariyalur with admitted on 30.08.2020 at 03.10 AM
+in Mahathma Gandhi Memorial Government Medical College Hopsital,
+Trichy. Outcome of COVID test positive result on 02.09.2020. The patient
+died on 05.09.2020 at 11.40 AM due to COVID Pneumonia / Respiratory
+Failure / Type 2 Diabetes Mellitus / Chronic Kidney Disease.
+
+
+ COVID-19 Positive Deaths due to comorbidities – Total: 84
+
+         Death in Private health facilities due to comorbidities
+Death Case No. 7962
+A 80 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+01.09.2020 with DM admitted on 02.09.2020 at 06.30 PM in a private
+hospital with Complaints of Fever,Cough,Difficulty in Breathing and
+Diarrhoea for 2 days died on 07.09.2020 at 01.15 AM due to ARDS/COVID-
+19 Pneumonia.
+
+Death Case No. 7963
+A 63 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+17.08.2020 with T2 DM admitted on 27.08.2020 at 1.23 PM in a private
+hospital, Chennai with Complaints of Fever for 5 days and Dyspnoea for 2
+days died on 07.09.2020 at 03.10 PM due to COVID 19 pneumonia.
+
+Death Case No. 7964
+A 61 Years old Male from Villupuram having COVID-19 RTPCR Positivity on
+29.08.2020 with Decompensated Chronic Liver Disease admitted on
+29.08.2020 at 09.31 PM in a private hospital with Complaints of fever and
+cough for 14 days and breathing difficulty for 2 days died on 07.09.2020 at
+11.45 AM due to COVID 19 pneumonia.
+Death Case No. 7965
+A 55 Years old from Male from Thiruvallur having COVID-19 RTPCR
+Positivity on 31.08.2020 with DM admitted on 31.08.2020 at 03.30 PM in a
+private hospital with Complaints of fever for 1 day died on 06.09.2020 at
+10.51 AM due to ARDS / COVID-19 Pneumonia.
+
+Death Case No. 7966
+A 63 Years old Male from Thiruvallur having COVID-19 RTPCR Positivity on
+05.09.2020 with T2 DM / HTN admitted on 04.09.2020 at 06.30 PM in a
+private medical college and hospital with Complaints of breathing difficulty
+for 4 days died on 07.09.2020 at 12.10 PM due to CVA/COVID 19
+pneumonia.
+
+Death Case No. 7967
+A 60 Years old Male from Cuddalore having COVID-19 RTPCR Positivity on
+06.09.2020 with SHTN admitted on 06.09.2020 at 05.00 AM in a private
+hospital with Complaints of fever and breathlessness died on 07.09.2020 at
+02.20 PM due to COVID 19 pneumonia.
+
+Death Case No. 7968
+A 62 Years old Male from Chengalpattu having COVID-19 RTPCR Positivity
+on 20.08.2020 with Hypothyroidism admitted on 26.08.2020 at 06.24 PM
+in a private hospital, Chennai with Complaints of Fever for 7 days
+Giddiness, Vomiting for 1 day died on 07.09.2020 at 11.45 PM due to
+COVID 19 pneumonia.
+
+Death Case No. 7969
+A 55 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+27.08.2020 with Morbid Obesity admitted on 27.08.2020 at 07.48 p.m in a
+private hospital, Chennai with Complaints of Fever for 5 days Cough for 2
+days died on 06.09.2020 at 11.30 p.m due to COVID 19 pneumonia.
+
+Death Case No. 7971
+A 67 Years old Female from Chennai having COVID-19 RTPCR Positivity on
+19.08.2020 with DM / HTN admitted on 26.08.2020 at 03.07 p.m in a
+private hospital, Chennai with Complaints of Fever and Difficulty in
+Breathing for 9 days died on 07.09.2020 at 05.45 a.m due to COVID 19
+pneumonia.
+
+Death Case No. 7972
+A 84 Years old Female from Vellore having COVID-19 RTPCR Positivity on
+14.08.2020 with HTN / Bronchial Asthma admitted on 14.08.2020 at
+11.00 p.m in a private medical college and hospital with Complaints of
+Cough for 7 days died on 06.09.2020 at 03.50 p.m due to ARDS/COVID-19
+Pneumonia.
+
+Death Case No. 7973
+A 48 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+28.08.2020 with DM admitted on 27.08.2020 at 11.33 AM in a private
+hospital with Complaints of Fever for 5 days Cough for 4 days Difficulty in
+Breathing for 2 days Loose Stools and Vomiting died on 07.09.2020 at
+12.40 p.m due to ARDS / MODS / COVID-19 Pneumonia.
+
+Death Case No. 7975
+A 72 Years old Male from Thiruvannamalai having COVID-19 RTPCR
+Positivity on 26.08.2020 with HTN admitted on 28.08.2020 at 12.00 a.m in
+a private medical college and hospital with Complaints of Fever for 6 days
+died on 06.09.2020 at 1.00 pm due to ARDS / COVID-19 Pneumonia.
+
+Death Case No. 7977
+A 78 Years old Male from Dindigul having COVID-19 RTPCR Positivity on
+13.08.2020 with Type 2 DM admitted on 12.08.2020 at 12.38 p.m in a
+private medical college and hospital with Complaints of Fever,Cough 4 days
+Difficulty in Breathing died on 06.09.2020 at 09.30 a.m due to COVID 19
+pneumonia.
+
+Death Case No. 7978
+A 65 Years old Male from Tirunelveli having COVID-19 RTPCR Positivity on
+28.08.2020 with Seizure Disorder admitted on 29.08.2020 at 05.20 p.m in
+a private hospital, Tirunelveli with Complaints of Fever for 2 days died on
+06.09.2020 at 06.20 p.m due to ARDS/COVID-19 Pneumonia.
+
+Death Case No. 7980
+A 60 Years old Male from Ranipet having COVID-19 RTPCR Positivity on
+28.08.2020 with DM / COPD admitted on 30.08.2020 at 02.33 PM in a
+private hospital, Chennai with Complaints of Fever for 4 days Difficulty in
+Breathing for 2 days died on 08.09.2020 at 02.20 am due to COVID-19
+Pneumonia.
+
+Death Case No. 7981
+A 59 Years old Female from Kancheepuram having COVID-19 RTPCR
+Positivity on 04.09.2020 with Type 2 DM admitted on 02.09.2020 at 01.33
+p.m in a private medical college and hospital with Complaints of
+Fever,Cough and Difficulty in Breathing for 2 days died on 07.09.2020 at
+12.54 p.m due to COVID 19 pneumonia.
+
+Death Case No. 7982
+A 72 Years old Male from Salem having COVID-19 RTPCR Positivity on
+04.09.2020 with DM / CKD / CAD / Post CABG admitted on 04.09.2020 at
+12.07 a.m in a private hospital, Salem with Complaints of Difficulty in
+Breathing died on 05.09.2020 at 12.35 PM due to COVID 19 pneumonia.
+
+Death Case No. 7983
+A 65 Years old Male from Thiruvallur having COVID-19 RTPCR Positivity on
+16.08.2020 with DM / HTN / CKD admitted on 16.08.2020 at 12.25 a.m in
+a private hospital with Complaints of Cough for 14 days, Loose Stools died
+on 07.09.2020 at 04.10 PM due to ARDS / MODS / COVID-19 Pneumonia.
+Death Case No. 7984
+A 67 Years old Male from Thiruvallur having COVID-19 RTPCR Positivity on
+31.08.2020 with SHTN / T2DM / CAD admitted on 31.08.2020 at 08.27
+p.m in a private hospital with Complaints of Difficulty in Breathing for 1 day
+died on 08.09.2020 at 04.30 AM due to COVID 19 pneumonia.
+
+Death Case No. 7985
+A 65 Years old Female        from Thoothukudi having COVID-19 RTPCR
+Positivity on 27.08.2020 with CKD admitted on 28.08.2020 at 07.47 p.m in
+a private hospital, Madurai with Complaints of Fever,Cough and Difficulty in
+Breathing for 7 days died on 06.09.2020 at 09.32 AM due to ARDS /
+COVID-19 Pneumonia.
+
+Death Case No. 7986
+A 71 Years old Male from Sivagangai having COVID-19 RTPCR Positivity on
+18.08.2020 with T2DM admitted on 07.09.2020 at 04.12 p.m in a private
+hospital, Karaikudi with Complaints of Fever for 27 days Cough for 28 days
+died on 08.09.2020 at 12.10 AM due to ARDS/COVID-19 Pneumonia.
+
+Death Case No. 7987
+A 62 Years old Male from Salem having COVID-19 RTPCR Positivity on
+04.09.2020 with T2DM / SHTN / CAD / Obesity admitted on 01.09.2020
+at 02.34 a.m in a private medical college and hospital with Complaints of
+Fever,Cough and Difficulty in Breathing for 9 days died on 07.09.2020 at
+10.06 PM due to COVID 19 pneumonia.
+
+Death Case No. 7988
+A 72 Years old Female from Chennai having COVID-19 RTPCR Positivity on
+31.08.2020 with DM / SHTN admitted on 31.08.2020 at 05.04 p.m in a
+private hospital with Complaints of Fever,Cough for 14 days and Difficulty
+in Breathing for 7 days died on 07.09.2020 at 06.45 PM due to ARDS /
+MODS / COVID-19 Pneumonia.
+
+Death Case No. 7989
+A 72 Years old Male from Cuddalore having COVID-19 RTPCR Positivity on
+29.08.2020 with T2DM / SHTN admitted on 27.08.2020 at 08.01 p.m in a
+private hospital with Complaints of Fever for 7 days Difficulty in Breathing
+for 4 days died on 07.09.2020 at 05.40 PM due to MODS / COVID-19
+Pneumonia.
+
+Death Case No. 7990
+A 67 Years old Male from Salem having COVID-19 RTPCR Positivity on
+30.08.2020 with SHTN / Obesity admitted on 01.09.2020 at 11.44 p.m in a
+private hospital with Complaints of Fever for 2 days Difficulty in Breathing
+for 1 day died on 07.09.2020 at 09.12 AM due to COVID 19 pneumonia.
+
+Death Case No. 7991
+A 69 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+28.08.2020 with DM / HTN admitted on 28.08.2020 at 12.57 a.m in
+Orthomed Hospital with Complaints of Fever for 4 days died on 07.09.2020
+at 06.20 PM due to COVID 19 pneumonia.
+
+Death Case No. 7993
+A 85 Years old Male from Tenkasi having COVID-19 RTPCR Positivity on
+06.09.2020 with HTN / CVA / CAHD admitted on 06.09.2020 at 01.45 PM
+in a private hospital with Complaints of Fever,Cough and Difficulty in
+Breathing died on 07.09.2020 at 09.50 AM due to COVID 19 pneumonia.
+
+Death Case No. 7994
+A 51 Years old Female from Virudhunagar having COVID-19 RTPCR
+Positivity on 05.09.2020 with Obesity admitted on 02.09.2020 at 10.40 PM
+in a private hospital, Virudhunagar with Complaints of Fever for 7 days,
+Difficulty in breathing for 3 days died on 08.09.2020 at 09.00 AM due to
+ARDS/COVID-19 Pneumonia.
+
+Death Case No. 7995
+A 53 Years old Male from Salem having COVID-19 RTPCR Positivity on
+29.08.2020 with Type-2 DM / SHTN admitted on 31.08.2020 at 08.16 PM
+in a private hospital, Salem with Complaints of Fever for 3 days died on
+07.09.2020 at 05.40 PM due to COVID-19 Pneumonia.
+
+Death Case No. 7996
+A 80 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+30.08.2020 with SHTN admitted on 29.08.2020 at 03.31 PM in a private
+hospital, Chennai with Complaints of Fever, cough and Difficulty in
+breathing for 4 days died on 08.09.2020 at 09.30 AM due to COVID-19
+Pneumonia.
+
+Death Case No. 7997
+A 90 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+04.09.2020 with CAD admitted on 20.08.2020 at 06.26 PM in a private
+hospital with Complaints of Fever, cough died on 08.09.2020 at 08.43 AM
+due to COVID-19 Pneumonia.
+
+Death Case No. 7999
+A 65 Years old Male from Kancheepuram having COVID-19 RTPCR Positivity
+on 26.08.2020 with Type-2 DM / SHTN /CAD admitted on 25.08.2020 at
+08.51 AM in a private medical college and hospital with Complaints of Fever,
+cough for 4 days and Difficulty in breathing for 2 days died on 08.09.2020
+at 01.50 AM due to COVID-19 Pneumonia.
+
+Death Case No.8000
+A 66 Years old Male from Kancheepuram having COVID-19 RTPCR Positivity
+on 25.08.2020 with Type-2 DM / SHTN admitted on 27.08.2020 at 10.46
+AM in a private medical college and hospital with Complaints of Fever,cough
+and Difficulty in breathing for 4 days died on 08.09.2020 at 01.20 AM due
+to COVID-19 Pneumonia.
+Death Case No. 8001
+A 65 Years old Female from Kancheepuram having COVID-19 RTPCR
+Positivity on 30.08.2020 with Type-2 DM / SHTN admitted on 21.08.2020
+at 06.26 PM in a private hospital, Chennai with Complaints of Fever, cough
+for 5 days and Difficulty in breathing for 2 days died on 08.09.2020 at
+07.20AM due to COVID-19 Pneumonia.
+
+Death Case No. 8002
+A 68 Years old Male from Thiruvannamalai having COVID-19 RTPCR
+Positivity on 08.09.2020 with HTN admitted on 07.09.2020 at 03.21 PM in a
+private hospital with Complaints of Fever, Cough for 4 days died on
+08.09.2020 at 04.58 AM due to COVID-19 Pneumonia.
+
+Death Case No. 8003
+A 68 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+02.09.2020 with SHTN admitted on 01.09.2020 at 04.57 PM in a private
+hospital with Complaints of Fever, Cough and Difficulty in Breathing for 3
+days died on 08.09.2020 at 09.40 AM due to COVID-19 Pneumonia.
+
+Death Case No. 8004
+A 65 Years old Male from Chengalpattu having COVID-19 RTPCR Positivity
+on 02.09.2020 admitted on 03.09.2020 at 09.49 PM in a private hospital
+with Complaints of Fever for 7 days died on 08.09.2020 at 04.19AM due to
+ARDS / COVID-19 Pneumonia.
+
+Death Case No. 8005
+A 50 Years old male, from Villupuram, having COVID 19 RTPCR Positivity
+on 21.08.2020 with HTN /CAD, admitted on 30.08.2020 at 07.24 AM in a
+private hospital, Chennai, with complaints of fever for 2 days and breathing
+difficulty for 10 days and loose stools, died on 08.09.2020 at 10.27 AM due
+to ARDS / MODS / COVID-19 Pneumonia.
+
+Death Case No. 8006
+A 69 Years old Male from Tenkasi having COVID 19 RTPCR Positivity on
+08.09.2020 with DM / CAD / Post CABG / HTN, admitted on 07.09.2020
+at 02.17 PM in a private hospital, Tirunelveli, with complaints of breathing
+difficulty for 2 days, died on 08.09.2020 at 10.45 AM due to ARDS/COVID
+19 pneumonia.
+
+Death Case No. 8008
+A 78 Years old Female from Vellore having COVID-19 RTPCR Positivity on
+21.08.2020 with DM / HTN / Dyslipidemia admitted on 25.08.2020 at
+08.00 p.m in a private hospital with Complaints of Difficulty in Breathing for
+7 days died on 01.09.2020 at 12.20 p.m due to ARDS / COVID-19
+Pneumonia.
+Death Case No. 8009
+A 70 Years old Male from Chennai having COVID-19 RTPCR Positivity on
+28.08.2020 with CKD / CAD admitted on 01.09.2020 at 03.25 PM in a
+private hospital with Complaints of Difficulty in Breathing died on
+01.09.2020 at 03.25 PM due to COVID-19 Pneumonia.
+
+   Death in Government health facilities (DMS) due to comorbidities
+Death Case No. 7970
+A 67 Years old Male from Krishnagiri having COVID-19 RTPCR Positivity on
+05.09.2020 with SHTN admitted on 05.09.2020 at 06.25 p.m in
+GHQH,Krishnagiri with Complaints of Fever,Cough and Difficulty in
+Breathing for 7 days died on 06.09.2020 at 03.45 p.m due to COVID 19
+pneumonia.
+
+Death Case No. 7974
+A 85 Years old Male from Nagapattinam having COVID-19 RTPCR Positivity
+on 01.09.2020 with HTN admitted on 01.09.2020 at 01.12 p.m in DHQH
+Nagapattinam with Complaints of Fever,Cough and Difficulty in Breathing
+for 3 days died on 05.09.2020 at 06.45 am due to COVID 19 pneumonia.
+
+Death Case No. 7976
+A 57 Years old Female from Cuddalore having COVID-19 RTPCR Positivity
+on 06.09.2020 with Type 2 DM / SHTN / CKD /Anemia admitted on
+05.09.2020 at 05.25 p.m in GHQH,Cuddalore with Complaints of Difficulty
+in Breathing died on 06.09.2020 at 01.20 p.m due to COVID 19
+pneumonia.
+
+Death Case No. 7979
+A 93 Years old Male from Villupuram having COVID-19 RTPCR Positivity on
+04.09.2020 with Severe Anaemia / Renal failure admitted on 03.09.2020
+at 07.05 p.m in GHQH,Cuddalore with Complaints of Fever for 1 day
+Difficulty in Breathing died on 06.09.2020 at 12.15 p.m due to COVID 19
+pneumonia.
+
+Death Case No. 7992
+A 85 Years old Male from Cuddalore having COVID-19 RTPCR Positivity on
+02.09.2020 with Type 2 DM / SHTN admitted on 02.09.2020 at 06.25 AM
+in GHQH Cuddalore with Complaints of Fever for 2 days Difficulty in
+Breathing died on 06.09.2020 at 09.15 AM due to ARDS/COVID 19
+pneumonia.
+
+Death Case No. 7998
+A 75 Years old Female from Cuddalore having COVID-19 RTPCR Positivity
+on 06.09.2020 with Type 2 DM / HTN / CKD / CVA / BA admitted on
+04.09.2020 at 02.35 PM in GHQH, Cuddalore with Complaints of Difficulty
+in Breathing died on 07.09.2020 at 02.40 PM due to COVID-19 Pneumonia.
+Death Case No. 8007
+A 74 Years old Male from Nagapattinam having COVID-19 RTPCR Positivity
+on 04.09.2020 with T2 DM admitted on 01.09.2020 at 01.00 PM in DHQH
+Nagapattinam with Complaints of fever, cough and breathing difficulty for 4
+days died on 02.09.2020 at 06.45 AM due to COVID 19 pneumonia.
+
+Death in Government health facilities (DME) due to comorbidities
+
+Death Case No. 7927
+A 70 years old Male from Thiruvarur, T2DM/SHTN/Hypothyroism
+admitted on 03.09.2020 at 02.15PM in Thiruvarur Medical College Hospital.
+Outcome of COVID test positive result on 04.09.2020. The patient died on
+07.09.2020 at 09.09PM due to COVID Pneumonia /Acute Respiratory
+Distress Syndrome.
+
+Death Case No. 7928
+A 48 years old Female from Ranipet with Diabetes Mellitus admitted on
+05.09.2020 at 01.00 PM in Vellore Medical College Hospital. Outcome of
+COVID test positive result on 04.09.2020. The patient died on 05.09.2020 at
+07.00 PM due to Acute Respiratory Distress Syndrome / COVID
+Pneumonia / Diabetes Mellitus.
+
+Death Case No. 7929
+A 56 years old Male from Dindigul with Diabetes Mellitus / Hypertension
+admitted on 27.08.2020 at 10.10 PM in Government Rajaji Hospital,
+Madurai. Outcome of COVID test positive result on 29.08.2020. The patient
+died on 06.09.2020 at 09.40 PM due to COVID Pneumonia / Acute
+Respiratory Distress Syndrome / Respiratory Failure / Diabetes
+Mellitus / Hypertension.
+
+Death Case No. 7930
+A 42 years old Male from Vellore with Chronic Kidney Disease on HD /
+Systemic Hypertension admitted on 06.09.2020 at 06.00 PM in Vellore
+Medical College Hospital.   Outcome of COVID test positive result on
+06.09.2020. The patient died on 07.09.2020 at 12.15 AM due to Acute
+Respiratory Distress Syndrome / COVID Pneumonia / Chronic Kidney
+Disease / Systemic Hypertension.
+
+Death Case No. 7931
+A 75 years old Male from Vellore with Type 2 Diabetes Mellitus / Systemic
+Hypertension / COPD admitted on 06.09.2020 at 06.00 PM in Vellore
+Medical College Hospital. Outcome of COVID test positive result on
+06.09.2020. The patient died on 06.09.2020 at 08.00 PM due to Acute
+Respiratory Distress Syndrome / COVID Pneumonia / Diabetes Mellitus
+/ Systemic Hypertension / COPD.
+Death Case No. 7932
+A 76 years old Male from Tirunelveli with Diabetes Mellitus admitted on
+01.09.2020 at 04.41 PM in Tirunelveli Medical College Hospital. Outcome of
+COVID test positive result on 31.08.2020. The patient died on 06.09.2020 at
+02.30 PM due to Acute Respiratory Failure / COVID Pneumonitis /
+Diabetes Mellitus.
+
+Death Case No. 7933
+A 66 years old Male from Ramanathapuram with Diabetes Mellitus /
+Coronary Artery Disease admitted on 05.09.2020 at 02.36 PM in
+Sivagangai Medical College Hospital. Outcome of COVID test positive result
+on 06.09.2020. The patient died on 07.09.2020 at 12.30 AM due to Acute
+Respiratory Distress Syndrome / COVID Pneumonia / Diabetes Mellitus
+/ Coronary Artery Disease / Bilateral Bronchopneumonia.
+
+Death Case No. 7934
+A 60 years old Female from Sivagangai with Diabetes Mellitus / Coronary
+Artery Disease / Hypertension admitted on 05.09.2020 at 02.34 PM in
+Sivagangai Medical College Hospital. Outcome of COVID test positive result
+on 06.09.2020. The patient died on 07.09.2020 at 04.40 AM due to Acute
+Respiratory Distress Syndrome / COVID Pneumonia / Diabetes Mellitus
+/    Coronary    Artery    Disease     /   Hypertension    /     Bilateral
+Bronchopneumonia.
+
+Death Case No. 7935
+A 75 years old Male from Namakkal with admitted on 05.09.2020 at 05.35
+PM in Karur Medical College Hospital. Outcome of COVID test positive
+result on 06.09.2020. The patient died on 07.09.2020 at 03.30 AM due to
+Acute Respiratory Distress Syndrome / Respiratory Failure / COVID
+Pneumonia.
+
+Death Case No. 7936
+A 49 years old Male from Erode with Type 2 Diabetes Mellitus / Systemic
+Hypertension admitted on 03.09.2020 at 03.44 PM in Erode Medical
+Collegeand Hospital, Perundurai. Outcome of COVID test positive result on
+03.09.2020. The patient died on 07.09.2020 at 06.55 AM due to
+Respiratory Failure / COVID Pneumonia / Type 2 Diabetes Mellitus /
+Systemic Hypertension.
+
+Death Case No. 7937
+A 56 years old Male from Cuddalore with Diabetics and Hypertension
+admitted on 27.08.2020 in Rajah Muthaiah Medical College Hospital,
+Chidambaram. Outcome of COVID test positive result on 31.08.2020. The
+patient died on 07.09.2020 at 02.30 AM due to Acute Respiratory Distress
+Syndrome / SAR CoV2 Pneumonia.
+Death Case No. 7938
+A 63 years old Male from Cuddalore with Diabetics admitted on 04.09.2020
+at Rajah Muthaiah Medical College Hospital, Chidambaram. Outcome of
+COVID test positive result on 04.09.2020. The patient died on 07.09.2020 at
+04.00 AM due to Acute Respiratory Distress Syndrome / SAR CoV2
+Pneumonia.
+
+Death Case No. 7939
+A 60 years old Male from Vellore with Diabetes Mellitus admitted on
+04.09.2020 at 05.10 PM in Vellore Medical College Hospital. Outcome of
+COVID test positive result on 06.09.2020. The patient died on 06.09.2020 at
+04.30 PM due to Acute Respiratory Distress Syndrome / COVID Pneumonia
+/ Diabetes Mellitus.
+
+Death Case No. 7940
+A 67 years old Male from Theni with Diabetes Mellitus / CVA Left
+Hemiplegia / Posterior Circulation Stroke admitted on 03.09.2020 at
+03.35 PM in Theni Medical College Hospital. Outcome of COVID test positive
+result on 03.09.2020. The patient died on 07.09.2020 at 06.20 AM due to
+Acute Respiratory Failure / COVID Pneumonia / Diabetes Mellitus /
+CVA Left Hemiplegia Posterior Circulation Stroke Raised ICT /
+Brochopneumonia.
+
+Death Case No. 7941
+A 59 years old Male from Kancheepuram with Systemic Hypertension /
+Type 2 Diabetes Mellitus admitted on 06.09.2020 at 02.27 PM in
+Government Corona Hospital, Guindy, Chennai. Outcome of COVID test
+positive result on 24.08.2020. The patient died on 06.09.2020 at 03.20 PM
+due to COVID Pneumonia / Respiratory Failure.
+
+Death Case No. 7942
+A 91 years old Male from Chennai with admitted on 28.08.2020 at 05.45 PM
+in Government Corona Hospital, Guindy, Chennai. Outcome of COVID test
+positive result on 28.08.2020. The patient died on 07.09.2020 at 06.00 AM
+due to COVID Pneumonia / Respiratory Failure.
+
+Death Case No. 7943
+A 73 years old female from Vellore admitted on 07.09.2020 at 03.41 PM in
+Vellore Medical College Hospital. Outcome of COVID test positive result on
+06.09.2020. The patient died on 08.09.2020 at 08.20AM due to COVID
+Pneumonia / Acute Respiratory Distress Syndrome.
+
+Death Case No. 7944
+A 63 years old Male from Trichy admitted on 29.08.2020 at 09.00 PM in
+Mahathma Gandhi Memorial Government Medical College Hospital, Trichy.
+Outcome of COVID test positive result on 02.09.2020. The patient died on
+05.09.2020 at 12.00 PM due to COVID Pneumonia / Respiratory Failure.
+Death Case No. 7945
+A 68 years old Male from Salem admitted on 01.09.2020 at 10.00 AM in
+Mahathma Gandhi Memorial Government Medical College Hopsital, Trichy.
+Outcome of COVID test positive result on 03.09.2020. The patient died on
+06.09.2020 at 01.00 AM due to COVID Pneumonia / Respiratory Failure
+/ Systemic Hypertension / Chronic Kidney Disease.
+
+Death Case No. 7946
+A 54 years old Male from Chennai with Type 2 Diabetes Mellitus / CVA /
+Right MCA Infarct admitted on 05.09.2020 at 09.25 PM in Rajiv Gandhi
+Government General Hospital, Chennai. Outcome of COVID test positive
+result on 03.09.2020. The patient died on 06.09.2020 at 05.00 PM due to
+Respiratory Failure / COVID Pneumonia / Type 2 Diabetes Mellitus /
+CVA / Right MCA Infarct.
+
+Death Case No. 7947
+A 72 years old Female from Chengalpattu with Systemic Hypertension /
+Chronic Kidney Disease admitted on 30.08.2020 at 02.25 AM in Rajiv
+Gandhi Government General Hospital, Chennai. Outcome of COVID test
+positive result on 29.08.2020. The patient died on 06.09.2020 at 04.00 PM
+due to Respiratory Failure / COVID Pneumonia / Systemic
+Hypertension / Chronic Kidney Disease.
+
+Death Case No. 7948
+A 55 years old Male from Chennai with Type 2 Diabetes Mellitus admitted
+on 03.09.2020 at 10.06 AM in Rajiv Gandhi Government General Hospital,
+Chennai. Outcome of COVID test positive result on 03.09.2020. The patient
+died on 06.09.2020 at 10.35 AM due to Respiratory Failure / COVID
+Pneumonia / Sepsis / Septic Shock / Hyperglycemia / Type 2 Diabetes
+Mellitus.
+
+Death Case No. 7949
+A 48 years old Male from Madurai with Diabetes Mellitus / Systemic
+Hypertension admitted on 04.09.2020 at 01.54 PM in Government Rajaji
+Hospital, Madurai. Outcome of COVID test positive result on 05.09.2020.
+The patient died on 07.09.2020 at 11.30 PM due to Respiratory Failure /
+COVID Pneumonia / Diabetes Mellitus / Systemic Hypertension .
+
+Death Case No. 7950
+A 55 years old Male from Chennai with Systemic Hypertension / Type 2
+Diabetes Mellitus admitted on 19.08.2020 at 10.10 PM in Rajiv Gandhi
+Government General Hospital, Chennai. Outcome of COVID test positive
+result on 20.08.2020. The patient died on 06.09.2020 at 11.15 AM due to
+Respiratory Failure / COVID Pneumonia / Chronic Kidney Disease /
+Systemic Hypertension / Type 2 Diabetes Mellitus.
+Death Case No. 7951
+A 78 years old male from Chennai with Systemic Hypertension admitted
+on 31.08.2020 at 10.30 PM in Government Medical College, Omendurar.
+Outcome of COVID test positive result on 30.08.2020. The patient died on
+07.09.2020 at 04.41 AM due to Acute Respiratory Distress Syndrome
+/Acute Respiratory Failure/ Respiratory Arrest / COVID Pneumonia.
+
+Death Case No. 7952
+A 65 years old Male from Karur with admitted on 05.09.2020 at 03.35 PM in
+Karur Medical College Hospital. Outcome of COVID test positive result on
+06.09.2020. The patient died on 08.09.2020 at 04.30 AM due to Acute
+Respiratory Distress Syndrome / Acute Respiratory Failure.
+
+Death Case No. 7953
+A 75 years old male from Erode with Systemic Hypertension / Renal
+Failure admitted on 03.09.2020 at 05.38PM in Government Erode Medical
+College and Hospital, Perundurai.Outcome of COVID test positive result on
+04.09.2020. The patient died on 07.09.2020 at 03.55 PM due to Respirarary
+Failure, COVID Pneumonia.
+
+Death Case No. 7954
+A 71 years old Male from Chennai with T2DM admitted on 30.08.2020 at
+0.7.00 PM in Government Stanley Hospital, Chennai. Outcome of COVID
+test positive result on 07.09.2020. The patient died on 08.09.2020 at 07.45
+AM due to Respiratory Failure / Bronchopneumonia.
+
+Death Case No. 7955
+A 50 years old Male from Pudukottai with Type 2 Diabetes Mellitus /
+Systemic Hypertension admitted on 04.09.2020 at 08.20AM in
+Pudukkottai Medical College Hospital. Outcome of COVID test positive result
+on 05.09.2020. The patient died on 07.09.2020 at 05.15PM due to Acute
+Respiratory Failure / COVID Pneumonia .
+
+Death Case No. 7956
+A 58 years old Female from Pudukottai with Type 2 Diabetes Mellitus /
+Systemic Hypertension / Coronary Artery Disease admitted on
+05.09.2020 at 10.10PM in Pudukkottai Medical College Hospital. Outcome
+of COVID test positive result on 07.09.2020. The patient died on 07.09.2020
+at 03.15 PM due to Acute Respiratory Failure.
+
+Death Case No. 7957
+A 63 years old male from Dindigul with Systemic Hypertension admitted
+on 28.08.2020 at at 10.20PM in Government Rajaji Hospital Madurai.
+Outcome of COVID test positive result on 30.08.2020. The patient died on
+07.09.2020 at at 8.45PM due to COVID positive Pneumonia /Acute
+Respiratory Distress Syndrome / Hypertension / Respiratory Failure.
+Death Case No. 7958
+A 58 years old male from Virudhunagar admitted on 05.09.2020 at 3.03PM
+in Government Rajaji Hospital Madurai. Outcome of COVID test positive
+result on 04.09.2020. The patient died on 07.09.2020 at at 11.10AM due to
+COVID positivePneumonia / Acute Respiratory Distress Syndrome.
+
+Death Case No. 7959
+A 65 years old male from Theni with Type 2 Diabetes Mellitus / Chronic
+Kidney Disease admitted on 05.09.2020 at 11.39AM in Theni Medical
+college Hospital. Outcome of COVID test positive result on 07.09.2020. The
+patient died on 07.09.2020 at at 4.25PM due to COVID Pneumonia / Acute
+Respiratory Failure / Chronic Kidney Disease.
+
+Death Case No. 8010
+A 57 Years old Male from Krishnagri having COVID-19 RTPCR Positivity on
+29.08.2020 with Systemic Hypertension admitted on 30.08.2020 at 01.00
+AM in Dharmapuri Medical College Hospital died on 30.08.2020 at 03.45PM
+due to Covid Pneumonia / Acute Respiratory Distress Syndrome /
+Systemic Hypertension.
+
+Death Case No. 8011
+A 72 Years old male, from Cuddalore having COVID-19 RTPCR Positivity on
+26.08.2020 with Diabetes Mellitus admitted on 25.08.2020 in Raja
+Muthiah Medical College Hospital, Cuddalore died on 30.08.2020 at 05.30
+AM due to Acute Respiratory Distress Syndrome            / SAR CoV2
+Pneumonia.
+
+Death Case No. 8012
+A 65 Years old male, from Cuddalore having COVID-19 RTPCR Positivity on
+27.08.2020 with admitted on 26.08.2020 at in Raja Muthiah Medical
+College Hospital, Cuddalore died on 01.09.2020 at 01.20 PM due to Acute
+Respiratory Distress Syndrome / SAR CoV2 Pneumonia
+ Passengers entered Tamil Nadu by various routes till 07.09.2020
+
+                                                       No. of
+S. No.                 Mode of travel                                  No. Positive
+                                                     Passengers
+          Airport - Domestic flights (Since
+  1                                                      4,19,933                  879
+          26.05.2020)
+          Airport - International Flights (Since
+  2                                                        78,772                  922
+          09.05.2020)
+  3       By train (Since 14.05.2020)                      35,374                  428
+          By road - Own vehicle (Since
+  4                                                      2,71,212
+          19.05.2020)                                                             4,196
+  5       By road – Bus (Since 19.05.2020)                41,388
+  6       By Sea Ports (Since 01.06.2020)                  2,447                     34
+                       Total                            8,49,126                  6,459
+
+
+
+
+         Airport Surveillance upto 07-09-2020 (Domestic Flights)
+
+                                 No. of Flights        No. of
+Sl.No.         Airport                                                  No. Positive
+                                    arrived          Passengers
+  1       Chennai                             3306         2,96,780                326
+  2       Coimbatore                           685           61,342                312
+  3       Madurai                              519           38,994                147
+  4       Trichy                               389           22,817                 94
+                 Total                        4899       4,19,933                  879
+
+
+
+
+          24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+               District Control Room – 1077. Toll Free Number – 1800 1205 55550
+                                   www.stopcorona.tn.gov.in
+Airport Surveillance details from 09/05/2020 to 07/09/2020
+                                                                     Persons        Persons
+                                                                     positive       positive
+S.                                     Persons    Under
+            Airport           Total                        Negative   during         during
+No                                      tested   Process
+                                                                      Entry           Exit
+                                                                    Screening      screening
+Chennai Airport
+     Total No.Of Flights -
+ 1-
+     249(From 09/05/2020     33608     33556        0       33376       180          223
+249
+     To 28/08/2020)
+     AI 162 29/08/2020
+250                            133       133        0        133
+     (London)
+     AI 1126 29/08/2020
+251                            93        93         0         93
+     (Chicago)
+     IX 1638 30/08/2020
+252                            27        27         0         27
+     (Abudhabi)
+     AI 1126 30/08/2020
+253                            52        52         0         52
+     (Chicago)
+     6E 8735 30/08/2020
+254                            196       196        0        196
+     (Kuwait)
+     6E 8713 31/08/2020
+255                            207       207        0        207
+     (Doha)
+     AI 1126 31/08/2020
+256                            79        79         0         79
+     (Chicago)
+     IX 1644 31/08/2020
+257                            179       179        0        179
+     (Dubai)
+     6E 8735 31/08/2020
+258                            192       192        0        192
+     (Kuwait)
+     AI 966 01/09/2020
+259                            140       140        0        140
+     (Kuwait)
+     AI 1126 01/09/2020
+260                            14        14         0         14
+     (Chicago)
+     IX 1618 01/09/2020
+261                            156       156        0        156
+     (Muscat)
+     6E 8762 02/09/2020
+262                            195       195        0        195
+     (Riyadh)
+     AI 1126 02/09/2020
+263                            44        44         0         44
+     (Chicago)
+     IX 1644 03/09/2020
+264                            86        86         0         86
+     (Dubai)
+     AI 1146 03/09/2020
+265                             9         9         0         9
+     (Paris)
+     AI 1126 03/09/2020
+266                            29        29         0         29
+     (Chicago)
+     6E 8713 04/09/2020
+267                            103       103        0        103
+     (Doha)
+     AI 1126 04/09/2020
+268                            15        15         0         15
+     (Chicago)
+     IX 1638 04/09/2020
+269                             3         3         0         3
+     (Adudhabai)
+     AI 162 05/09/2020
+270                            77        77         0         77
+     (London)
+           24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+                District Control Room – 1077. Toll Free Number – 1800 1205 55550
+                                    www.stopcorona.tn.gov.in
+      6E 8735 05/09/2020
+271                              191      191        0        191
+      (Kuwait)
+      AI 1906 05/09/2020
+272                              24        24        0         24
+      (Dubai)
+      AI 1126 05/09/2020
+273                              27        27        0         27
+      (Chicago)
+      IX 1644 06/09/2020
+274                              102      102        0        102
+      (Dubai)
+      G8 7408 06/09/2020
+275                              114      114        0        114
+      (Kuwait)
+      AI 1126 06/09/2020
+276                              21        21        0         21
+      (Chicago)
+      IX 1684 06/09/2020
+277                              121      121        0        121
+      (Dammam)
+      G8 7412 06/09/2020
+278                              74        74        0         74
+      (Kuwait)
+      AI 1126 07/09/2020
+279                              25        25       25
+      (Chicago)
+      IX 1644 08/09/2020
+280                              30        30       30
+      (Dubai)
+         Sub Total              36,366   36,314     55      36,079       180        223
+     Coimbatore Airport
+      Total No. of Flights-26
+1 to
+      (From 09/05/2020 to       4,313    4,313       0       4,294        19         7
+ 26
+      03/08/2020)
+      G 90413 07/08/2020
+ 27                              148      148        0        148
+      (Sharjah)
+      G 90413 09/08/2020
+ 28                              140      140        0        140
+      (Sharjah)
+      IX 1642 09/08/2020
+ 29                              50        50        0         50
+      (Sharjah)
+      IX 1354 10/08/2020
+ 30                              165      165        0        165
+      (Sharjah)
+      IX 1414 17/08/2020
+ 31                              108      108        0        108
+      (Dubai)
+      G 90413 20/08/2020
+ 32                              92        92        0         92
+      (Sharjah)
+      IX 1434 21/08/2020
+ 33                              120      120        0        120
+      (Dubai)
+      IX 1412 24/08/2020
+ 34                              87        87        0         87
+      (Dubai)
+      G9413 27/08/2020
+ 35                              49        49        0         49
+      (Sharjah)
+      IX 1434 28/08/2020
+ 36                              137      137        0        137
+      (Dubai)
+      G9413 03/09/2020
+ 37                              48        48        0         48
+      (Sharjah)
+      G9413 05/09/2020
+ 38                              77        77        0         77
+      (Sharjah)
+         Sub Total              5,534    5,534       0       5,515        19         7
+Madurai Airport
+1 to Total No Of Flights -      6,382    6,363       0       6,341        22        20
+            24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+                 District Control Room – 1077. Toll Free Number – 1800 1205 55550
+                                     www.stopcorona.tn.gov.in
+38    38(From 09/05/2020
+      To 11/08/2020)
+      IX 1978 12/08/2020
+ 39                            169       169        0        169
+      (Dammam)
+      IX 1348 13/08/2020
+ 40                            79        79         0         79
+      (Abudhabi)
+      IX 1978 16/08/2020
+ 41                            168       168        0        168
+      (Dammam)
+      IX 1687 17/08/2020
+ 42                            120       120        0        120
+      (Singapore)
+      IX 1344 19/08/2020
+ 43                            173       173        0        173
+      (Dubai)
+      IX 1354 21/08/2020
+ 44                            177       177        0        177                    3
+      (Dubai)
+      IX 1450 23/08/2020
+ 45                            59        59         0         59
+      (Abudhabi)
+      IX 1976 25/08/2020
+ 46                            166       166        0        166
+      (Riyadh)
+      IX 1977 27/08/2020
+ 47                            170       170        0        170
+      (Riyadh)
+      IX 1348 27/08/2020
+ 48                            85        85         0         82          3
+      (Abudhabi)
+      IX 1354 28/08/2020
+ 49                            170       170        0        170
+      (Dubai)
+      IX 1346 02/09/2020
+ 50                            177       140        0        140
+      (Dubai)
+      AXB 1452
+ 51   06/09/2020               110        9         9
+      (Abudhabi)
+        Sub Total             8,205     8,048       9       8,014        25        23
+Trichy Airport
+      Total No Of Flights -
+1to
+      151(From 09/05/2020     24985    24799        0       24611       188        134
+151
+      To 28/08/2020)
+      IX 1681 29/08/2020
+152                            177       176        0        176
+      (Singapore)
+      IX 1538 29/08/2020
+153                            18        18         0         18
+      (Abudhabi)
+      IX 1696 29/08/2020
+154                            150       150        0        150
+      (Kuwait)
+      IX 1681 30/08/2020
+155                            178       178        0        178
+      (Singapore)
+      IX 1674 30/08/2020
+156                            172       172        0        172
+      (Doha)
+      IX 1681 31/08/2020
+157                            178       176        0        175          1
+      (Singapore)
+      IX 1612 31/08/2020
+158                            176       176        0        176
+      (Dubai)
+      IX 1616 31/08/2020
+159                            177       174        0        174
+      (Muscat)
+      IX 1614 01/09/2020
+160                            120       45         0         45
+      (Sharjah)
+           24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+                District Control Room – 1077. Toll Free Number – 1800 1205 55550
+                                    www.stopcorona.tn.gov.in
+       IX 1612 01/09/2020
+161                            179       144        0        144
+       (Dubai)
+       IX 1681 02/09/2020
+162                            177       175        0        175
+       (Singapore)
+       IX 1625 02/09/2020
+163                            176       167        0        167
+       (Kuala Lampur)
+       IX 1640 03/09/2020
+164                            171       98         0         98
+       (Abudhabi)
+       IX 1681 03/09/2020
+165                            178       178        0        178
+       (Singapore)
+       IX 1681 04/09/2020
+166                            177       176       176
+       (Singapore)
+       IX 1696 04/09/2020
+167                            172       160       160
+       (Kuwait)
+       IX 1906 05/09/2020
+168                            100       78        78
+       (Dubai)
+       IX 1674 05/09/2020
+169                            123       98        98
+       (Doha)
+       IX 1681 05/09/2020
+170                            177       176       176
+       (Singapore)
+       IX 1612 06/09/2020
+171                            178       111       111
+       (Dubai)
+       IX 1681 06/09/2020
+172                            177       174       174
+       (Singapore)
+       IX 1612 07/09/2020
+173                            175       73        73
+       (Dubai)
+       IX 1618 07/09/2020
+174                            176       152       152
+       (Singapore)
+              Sub Total      28,667    28,024     1198     26,637       189        134
+Other Airports & Chartered
+                                                                         84        38
+Flight
+Grand Total                  78,772    77,920     1,262    76,245       497        425
+
+
+
+
+           24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+                District Control Room – 1077. Toll Free Number – 1800 1205 55550
+                                    www.stopcorona.tn.gov.in
+Railway Station Surveillance details from 14/05/2020 to 07/09/2020
+
+                            No. of Passengers                              No.
+    Total No. of trains                               No. Negative
+                                screened                                 Positive
+
+            42                     35,374                34,946             428
+
+
+
+
+                    Sea port surveillance up to 07-09-2020
+
+                            No. of Ships        No. of Passengers
+  S.No      Sea Port                                                   No. Positive
+                              arrived               screened
+   1     Chennai                            1                  161                    0
+   2     Thoothukudi                        5                 2286                  34
+            Total                           6                 2447                  34
+
+
+
+
+         24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477
+              District Control Room – 1077. Toll Free Number – 1800 1205 55550
+                                  www.stopcorona.tn.gov.in
+
